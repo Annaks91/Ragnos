@@ -1,0 +1,2701 @@
+UniqueID,DateOfBite,Species,Breed,Age,Gender,SpayNeuter,Borough,ZipCode,Park,NumberPark
+8140,December 02 2015,1,Pug,7,F,TRUE,Staten Island,10304,TRUE,10
+1,January 27 2015,1,Jack Russell,11,M,FALSE,Brooklyn,11217,TRUE,10
+2,January 25 2015,1,Bull Mastiff,,U,FALSE,Brooklyn,11201,TRUE,19
+3,January 20 2015,1,Mix,,U,FALSE,Brooklyn,11236,TRUE,10
+4,December 26 2014,1,Doberman Pinscher,,M,FALSE,Brooklyn,11204,TRUE,6
+5,January 29 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+6,January 31 2015,1,Mix,3,M,FALSE,Brooklyn,11201,TRUE,0
+7,January 31 2015,1,Mix,,F,FALSE,Brooklyn,11220,TRUE,6
+8,January 23 2015,1,German Shepherd,4,M,FALSE,Brooklyn,11229,TRUE,7
+9,February 04 2015,1,Pomeranian,1,F,FALSE,Brooklyn,11216,TRUE,5
+10,February 05 2015,1,Dalmatian,10,M,TRUE,Brooklyn,11214,TRUE,13
+11,February 01 2015,1,Rottweiler,,U,FALSE,Brooklyn,11204,TRUE,0
+12,February 04 2015,1,Rottweiler,,U,FALSE,Brooklyn,11220,TRUE,0
+13,February 06 2015,1,Shiba Inu,3,M,FALSE,Brooklyn,11252,FALSE,0
+14,February 07 2015,1,Maltese,,U,FALSE,Brooklyn,11215,TRUE,14
+15,February 07 2015,1,Pit Bull,5,M,TRUE,Brooklyn,11214,TRUE,0
+16,February 06 2015,1,Dachshund Smooth Coat,,U,FALSE,Brooklyn,11201,TRUE,0
+17,January 27 2015,1,Standard Poodle,,U,FALSE,Brooklyn,11214,TRUE,0
+18,February 10 2015,1,Pembroke Welsh Corgi,,U,FALSE,Brooklyn,11204,TRUE,0
+19,February 07 2015,1,Shiba Inu,,M,FALSE,Brooklyn,11206,TRUE,10
+20,February 07 2015,1,Rat Terrier,5,M,TRUE,Brooklyn,11208,TRUE,11
+21,January 27 2015,1,Mix,2,M,FALSE,Brooklyn,11228,TRUE,6
+22,February 11 2015,1,Staffordshire Bull Terrier,4,M,FALSE,Brooklyn,11235,TRUE,7
+23,February 11 2015,1,Rat Terrier,13,F,TRUE,Brooklyn,11209,TRUE,10
+24,February 09 2015,1,Pit Bull,10,F,TRUE,Brooklyn,11232,TRUE,4
+25,February 12 2015,1,German Shepherd,4,M,FALSE,Brooklyn,11229,TRUE,0
+26,February 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11237,TRUE,4
+27,February 14 2015,1,Akita,,M,FALSE,Brooklyn,11237,TRUE,0
+28,February 15 2015,1,Mix,,M,FALSE,Brooklyn,11234,TRUE,12
+29,February 15 2015,1,Pit Bull,,U,FALSE,Brooklyn,11234,TRUE,0
+30,February 13 2015,1,Pit Bull,4,M,TRUE,Brooklyn,11221,TRUE,2
+31,February 17 2015,1,Chihuahua,,U,FALSE,Brooklyn,11218,TRUE,11
+32,February 15 2015,1,Mix,1,M,FALSE,Brooklyn,11207,TRUE,11
+33,February 12 2015,1,Old English Mastiff,,U,FALSE,Brooklyn,11231,TRUE,16
+34,February 18 2015,1,Yorkshire Terrier,3,M,FALSE,Brooklyn,11233,TRUE,14
+35,February 17 2015,1,Pit Bull,5,M,FALSE,Brooklyn,11207,TRUE,0
+36,February 19 2015,1,English Springer Spaniel,7,U,TRUE,Brooklyn,11213,TRUE,4
+37,February 21 2015,1,Pit Bull,,U,FALSE,Brooklyn,11217,TRUE,0
+38,February 06 2015,1,Shiba Inu,3,M,FALSE,Brooklyn,11201,TRUE,0
+39,February 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11224,TRUE,12
+40,February 22 2015,1,Pit Bull,10,M,TRUE,Brooklyn,11235,TRUE,0
+41,February 24 2015,1,Pit Bull,1,F,FALSE,Brooklyn,11215,TRUE,0
+42,February 24 2015,1,Pit Bull,10,F,TRUE,Brooklyn,11210,TRUE,5
+43,February 24 2015,1,West Highland White Terrier,,U,FALSE,Brooklyn,11234,TRUE,0
+44,February 22 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+45,February 21 2015,1,Pit Bull,,U,FALSE,Brooklyn,11231,TRUE,16
+46,February 26 2015,1,Pit Bull,,U,FALSE,Brooklyn,11206,TRUE,0
+47,February 22 2015,1,American Foxhound,3,F,TRUE,Brooklyn,11209,TRUE,0
+48,February 23 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+49,February 26 2015,1,Pit Bull,1,M,FALSE,Brooklyn,11226,TRUE,3
+50,February 28 2015,1,Weimaraner,1900-01-11T00:00:00.000,M,TRUE,Brooklyn,11230,TRUE,3
+51,February 26 2015,1,German Shepherd,,U,FALSE,Brooklyn,11220,TRUE,0
+52,February 01 2015,1,Rottweiler,,U,FALSE,Brooklyn,11215,TRUE,0
+53,March 01 2015,1,Mix,6,F,TRUE,Brooklyn,11225,TRUE,7
+54,February 28 2015,1,Mix,2,M,FALSE,Brooklyn,11228,TRUE,0
+55,February 10 2015,1,Pit Bull,,U,FALSE,Brooklyn,11221,TRUE,0
+56,March 04 2015,1,Korean Jindo,,M,TRUE,Brooklyn,11215,TRUE,0
+57,March 06 2015,1,Mix,10,F,FALSE,Brooklyn,11206,TRUE,0
+58,March 07 2015,1,English Bull Dog,2,M,TRUE,Brooklyn,11201,TRUE,0
+59,February 27 2015,1,Pit Bull,3,M,FALSE,Brooklyn,11206,TRUE,0
+60,March 07 2015,1,Mix,11,M,TRUE,Brooklyn,11233,TRUE,0
+61,March 08 2015,1,Shih Tzu,4,M,FALSE,Brooklyn,11234,TRUE,0
+62,March 10 2015,1,Mix,,M,FALSE,Brooklyn,11201,TRUE,0
+63,March 06 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+64,March 12 2015,1,Jack Russell,7M,M,FALSE,Brooklyn,11208,TRUE,0
+65,March 12 2015,1,Shih Tzu,,U,FALSE,Brooklyn,11217,TRUE,0
+66,February 26 2015,1,Pit Bull,2,M,FALSE,Brooklyn,11216,TRUE,0
+67,March 13 2015,1,Pug,6,M,TRUE,Brooklyn,11231,TRUE,0
+68,March 15 2015,1,Yorkshire Terrier,4,M,FALSE,Brooklyn,11205,TRUE,6
+69,March 14 2015,1,Chow Chow,3,M,FALSE,Brooklyn,11234,TRUE,0
+70,March 15 2015,1,American Staffordshire Terrier,8,M,TRUE,Brooklyn,11230,TRUE,3
+71,March 14 2015,1,Mix,5,M,TRUE,Brooklyn,11229,TRUE,0
+72,March 16 2015,1,Maltese,7,M,TRUE,Brooklyn,11221,TRUE,0
+73,March 18 2015,1,Pit Bull,5,M,TRUE,Brooklyn,11207,TRUE,0
+74,March 16 2015,1,Yorkshire Terrier,1,M,FALSE,Brooklyn,11221,TRUE,0
+75,March 14 2015,1,Cocker Spaniel,,U,FALSE,Brooklyn,11213,TRUE,4
+76,March 16 2015,1,American Pit Bull Mix / Pit Bull Mix,2,M,TRUE,Brooklyn,11234,TRUE,0
+77,March 16 2015,1,Pit Bull,,F,TRUE,Brooklyn,11223,TRUE,2
+78,March 17 2015,1,"Collie, Border",,U,FALSE,Brooklyn,11201,TRUE,0
+79,March 09 2015,1,Miniature Pinscher,,M,FALSE,Brooklyn,11235,TRUE,0
+80,March 22 2015,1,Shih Tzu,2,M,FALSE,Brooklyn,11223,TRUE,0
+81,March 21 2015,1,Doberman Pinscher,8,F,FALSE,Brooklyn,11204,TRUE,0
+82,March 22 2015,1,Shih Tzu,7,M,TRUE,Brooklyn,11208,TRUE,0
+83,March 22 2015,1,German Shepherd,,U,FALSE,Brooklyn,11217,TRUE,0
+84,March 21 2015,1,"Bull Dog, French",6,M,TRUE,Brooklyn,11217,TRUE,0
+85,February 02 2015,1,Pekingese,4,M,FALSE,Brooklyn,11238,TRUE,7
+86,March 15 2015,1,Chihuahua,6,M,FALSE,Brooklyn,11221,TRUE,0
+87,March 25 2015,1,TERRIER,5,M,FALSE,Brooklyn,11027,FALSE,0
+88,March 29 2015,1,Pit Bull,1,M,FALSE,Brooklyn,11224,TRUE,0
+89,March 20 2015,1,HARRIER/BEAGLE,10 M,M,TRUE,Brooklyn,11235,TRUE,0
+90,March 27 2015,1,TERRIER,,U,FALSE,Brooklyn,11215,TRUE,0
+91,March 28 2015,1,"Dachshund, Long Haired Miniature",4,M,TRUE,Brooklyn,11234,TRUE,0
+92,March 29 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11217,TRUE,0
+93,March 24 2015,1,BOXER X W/ PIT BULL,8,M,TRUE,Brooklyn,11231,TRUE,0
+94,March 31 2015,1,Cocker Spaniel,3,F,FALSE,Brooklyn,11201,TRUE,0
+95,April 03 2015,11,Yorkshire Terrier,6,M,TRUE,Brooklyn,11233,TRUE,0
+96,April 02 2015,1,Chihuahua,,U,FALSE,Brooklyn,11201,TRUE,0
+97,April 06 2015,1,Bull dog,8M,M,FALSE,Brooklyn,11213,TRUE,4
+98,April 06 2015,1,American Staffordshire Terrier,,U,FALSE,Brooklyn,11224,TRUE,0
+99,April 06 2015,1,American Pit Bull Terrier/Pit Bull,4,F,TRUE,Brooklyn,11212,TRUE,13
+100,March 31 2015,1,PITBULL/LAB RETRIEVER,5,F,TRUE,Brooklyn,11201,TRUE,0
+101,March 27 2015,1,BOXER/RHODESIAN RIDGEBACK X,5,F,FALSE,Brooklyn,11214,TRUE,0
+102,April 06 2015,1,Chihuahua Crossbreed,4M,M,FALSE,Brooklyn,11205,TRUE,6
+103,April 06 2015,1,"Poodle, Standard",2,M,FALSE,Brooklyn,11213,TRUE,0
+104,April 07 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11231,TRUE,0
+105,April 01 2015,1,Bull Terrier,1,M,FALSE,Brooklyn,11201,TRUE,0
+106,April 08 2015,1,CATAHOULA LEOPARD DOG,1,M,TRUE,Brooklyn,11235,TRUE,0
+107,April 06 2015,1,Yorkshire Terrier,6,F,FALSE,Brooklyn,11219,TRUE,4
+108,April 10 2015,1,Cocker Spaniel Crossbreed,5,M,TRUE,Brooklyn,11206,TRUE,0
+109,April 03 2015,1,BOXER/HOUND/PITBULL,6,F,TRUE,Brooklyn,11216,TRUE,0
+110,April 12 2015,1,German Shepherd,11,F,TRUE,Brooklyn,11209,TRUE,0
+111,April 10 2015,1,"Bull Dog, English",9M,M,FALSE,Brooklyn,11220,TRUE,0
+112,April 10 2015,1,American Pit Bull Terrier/Pit Bull,6M,M,FALSE,Brooklyn,11224,TRUE,0
+113,April 12 2015,1,Chihuahua,9,F,TRUE,Brooklyn,11224,TRUE,0
+114,April 13 2015,1,Pit Bull,9,M,FALSE,Brooklyn,11207,TRUE,0
+115,April 13 2015,1,Chihuahua,9M,M,FALSE,Brooklyn,11208,TRUE,0
+116,April 14 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,TRUE,Brooklyn,11216,TRUE,0
+117,April 10 2015,1,American Pit Bull Terrier/Pit Bull,3,M,TRUE,Brooklyn,11201,TRUE,0
+118,April 10 2015,1,Siberian Husky,,U,FALSE,Brooklyn,11226,TRUE,3
+119,April 14 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+120,April 16 2015,1,American Pit Bull Terrier/Pit Bull,1,F,FALSE,Brooklyn,11208,TRUE,0
+121,April 16 2015,1,Rottweiler,1,M,TRUE,Brooklyn,11228,TRUE,0
+122,April 14 2015,1,Beagle Crossbreed,19,M,FALSE,Brooklyn,11214,TRUE,0
+123,April 18 2015,1,AUSTRALIAN CATTLE,,F,FALSE,Brooklyn,11201,TRUE,0
+124,April 11 2015,1,Pit Bull,,U,FALSE,Brooklyn,11207,TRUE,0
+125,April 15 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+126,April 19 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11221,TRUE,0
+127,April 19 2015,1,German Shepherd Crossbreed,15,F,TRUE,Brooklyn,11222,TRUE,10
+128,April 17 2015,1,Border Terrier,3,M,TRUE,Brooklyn,11201,TRUE,0
+129,April 17 2015,1,American Pit Bull Terrier/Pit Bull,3,M,FALSE,Brooklyn,11231,TRUE,0
+130,April 19 2015,1,ITALIAN MASTIFF,3,F,FALSE,Brooklyn,11221,TRUE,0
+131,April 12 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11235,TRUE,0
+132,April 19 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11221,TRUE,0
+133,April 17 2015,1,BEAGLE/JACK RUSS,4,M,TRUE,Brooklyn,11224,TRUE,12
+134,April 19 2015,1,American Pit Bull Terrier/Pit Bull,5,M,TRUE,Brooklyn,11218,TRUE,0
+135,April 22 2015,1,Maltese,7,F,TRUE,Brooklyn,11237,TRUE,0
+136,April 23 2015,1,Cane Corso,15,F,FALSE,Brooklyn,11238,TRUE,7
+137,April 23 2015,1,PARSON RUSSELLTERR,2,M,TRUE,Brooklyn,11231,TRUE,0
+138,April 24 2015,1,"Poodle, Standard",,U,FALSE,Brooklyn,11221,TRUE,0
+139,April 25 2015,1,Shih Tzu,5,M,TRUE,Brooklyn,11219,TRUE,0
+140,April 26 2015,1,American Staffordshire Terrier,2,M,FALSE,Brooklyn,11212,TRUE,13
+141,April 25 2015,1,American Pit Bull Terrier/Pit Bull,3,M,FALSE,Brooklyn,11221,TRUE,0
+142,April 25 2015,1,American Pit Bull Terrier/Pit Bull,3,M,FALSE,Brooklyn,11221,TRUE,0
+185,May 09 2015,1,Siberian Husky,,U,FALSE,Brooklyn,11201,TRUE,0
+143,April 27 2015,1,American Pit Bull Terrier/Pit Bull,2,M,FALSE,Brooklyn,11218,TRUE,0
+144,April 20 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11218,TRUE,0
+145,April 25 2015,1,UNKNOWN,,U,FALSE,Brooklyn,11201,TRUE,0
+146,April 25 2015,1,German Shepherd,7,M,TRUE,Brooklyn,11234,TRUE,0
+147,April 11 2015,1,American Pit Bull Terrier/Pit Bull,3,F,TRUE,Brooklyn,11220,TRUE,0
+148,April 29 2015,1,Pug,3,M,TRUE,Brooklyn,11223,TRUE,2
+149,April 29 2015,1,POINTER/BEAGLE X,7,F,FALSE,Brooklyn,11249,TRUE,4
+150,April 29 2015,1,SHIBA INU,5,M,TRUE,Brooklyn,11221,TRUE,0
+151,April 26 2015,1,Chihuahua,2,F,FALSE,Brooklyn,11220,TRUE,0
+152,April 30 2015,1,GERMAN SHEPHERD/RIDGEBACK,5,M,TRUE,Brooklyn,11231,TRUE,0
+153,May 01 2015,1,Bichon Frise,8,M,TRUE,Brooklyn,11223,TRUE,0
+154,May 01 2015,1,STAFFORDSHIRE TERR,7,F,TRUE,Brooklyn,11221,TRUE,0
+155,April 19 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11223,TRUE,0
+156,May 02 2015,1,Chihuahua Crossbreed,,U,FALSE,Brooklyn,11214,TRUE,0
+157,May 02 2015,1,"Collie, Border",14,M,TRUE,Brooklyn,11234,TRUE,0
+158,May 04 2015,1,American Pit Bull Mix / Pit Bull Mix,8M,M,FALSE,Brooklyn,11204,TRUE,0
+159,May 04 2015,1,Belgian Malinois,,U,FALSE,Brooklyn,11213,TRUE,0
+160,May 01 2015,1,Boxer,2,M,TRUE,Brooklyn,11237,TRUE,0
+161,May 01 2015,1,MALTESE - X,3,F,FALSE,Brooklyn,11209,TRUE,0
+162,May 05 2015,1,German Shepherd,,U,FALSE,Brooklyn,11220,TRUE,0
+163,May 01 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+164,May 06 2015,1,"Collie, Smooth Coat",10,F,TRUE,Brooklyn,11220,TRUE,0
+165,May 06 2015,1,CHIHUAHUA/BOSTON TERR X,5,M,TRUE,Brooklyn,11222,TRUE,0
+166,April 08 2015,1,HUSKY/CATTLE DOG MIX,4,M,TRUE,Brooklyn,11201,TRUE,0
+167,April 08 2015,1,HUSKY/CATTLE MIX,4,M,TRUE,Brooklyn,11201,TRUE,0
+168,May 10 2015,1,American Pit Bull Terrier/Pit Bull,13,M,TRUE,Brooklyn,11234,TRUE,0
+169,May 10 2015,1,American Staffordshire Terrier,2,M,FALSE,Brooklyn,11228,TRUE,0
+170,May 09 2015,1,Siberian Husky,14,M,TRUE,Brooklyn,11231,TRUE,0
+171,May 09 2015,1,American Pit Bull Mix / Pit Bull Mix,5,F,TRUE,Brooklyn,11208,TRUE,0
+172,May 01 2015,1,American Staffordshire Terrier,8,M,TRUE,Brooklyn,11217,TRUE,0
+173,May 03 2015,1,American Pit Bull Terrier/Pit Bull,,F,FALSE,Brooklyn,11231,TRUE,0
+174,May 07 2015,1,Australian Shepherd,5,M,TRUE,Brooklyn,11238,TRUE,0
+175,May 09 2015,1,American Pit Bull Terrier/Pit Bull,8,M,TRUE,Brooklyn,11219,TRUE,0
+176,May 11 2015,1,American Pit Bull Terrier/Pit Bull,2,F,FALSE,Brooklyn,11218,TRUE,0
+177,April 25 2015,1,Shih Tzu,4,M,TRUE,Brooklyn,11226,TRUE,3
+178,May 03 2015,1,Pit Bull,,U,FALSE,Brooklyn,11235,TRUE,0
+179,May 10 2015,1,American Pit Bull Mix / Pit Bull Mix,3,F,FALSE,Brooklyn,11201,TRUE,0
+180,May 12 2015,1,American Pit Bull Mix / Pit Bull Mix,5,M,TRUE,Brooklyn,11213,TRUE,0
+181,May 12 2015,1,Bloodhound,4,M,TRUE,Brooklyn,11231,TRUE,0
+182,May 12 2015,1,Jack Russ,10,M,TRUE,Brooklyn,11215,TRUE,0
+183,May 14 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11211,TRUE,21
+184,May 14 2015,1,"Cocker Spaniel, American",10,M,TRUE,Brooklyn,11220,TRUE,0
+186,May 14 2015,1,American Pit Bull Terrier/Pit Bull,6,M,FALSE,Brooklyn,11232,TRUE,0
+187,May 12 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+188,April 28 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,TRUE,Brooklyn,11234,TRUE,0
+189,May 15 2015,1,Cocker Spaniel Crossbreed,,M,FALSE,Brooklyn,11205,TRUE,6
+190,May 18 2015,1,American Staffordshire Terrier,2,M,FALSE,Brooklyn,11211,TRUE,0
+191,May 18 2015,1,American Staffordshire Terrier,2,M,FALSE,Brooklyn,11211,TRUE,0
+192,January 08 2015,1,American Pit Bull Terrier/Pit Bull,1,M,TRUE,Brooklyn,11224,TRUE,12
+193,May 12 2015,1,Cane Corso,5,F,TRUE,Brooklyn,11233,TRUE,0
+194,May 05 2015,1,TERRIER,,U,FALSE,Brooklyn,11201,TRUE,0
+195,May 16 2015,1,BORDER COLLIE/JACK RUSSELL,11M,F,TRUE,Brooklyn,11201,TRUE,0
+196,May 06 2015,1,CORGI,,M,FALSE,Brooklyn,11222,TRUE,0
+197,May 21 2015,1,Shih Tzu,,U,FALSE,Brooklyn,11229,TRUE,0
+198,May 20 2015,1,MUTT,1,F,TRUE,Brooklyn,11201,TRUE,0
+199,May 24 2015,1,MIXED,2,M,TRUE,Brooklyn,11201,TRUE,0
+200,May 24 2015,1,PIT BULL/LAB X,2,F,FALSE,Brooklyn,11236,TRUE,0
+201,May 24 2015,1,PIT BULL/LAB X,2,F,FALSE,Brooklyn,11236,TRUE,0
+202,May 24 2015,1,Labrador Retriever,,U,FALSE,Brooklyn,11215,TRUE,0
+203,May 25 2015,1,Labrador Retriever,3,F,FALSE,Brooklyn,11234,TRUE,0
+204,May 25 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+205,May 23 2015,1,"Mastiff, Tibetan",1,M,TRUE,Brooklyn,11214,TRUE,0
+206,May 23 2015,1,MALTESE MIX,4,M,TRUE,Brooklyn,11201,TRUE,0
+207,May 24 2015,1,SCHNAUZER,,M,FALSE,Brooklyn,11215,TRUE,0
+208,May 28 2015,1,Pit Bull,,U,FALSE,Brooklyn,11237,TRUE,0
+209,May 24 2015,1,Pit Bull,,U,FALSE,Brooklyn,11221,TRUE,0
+210,May 23 2015,1,American Pit Bull Mix / Pit Bull Mix,6,M,TRUE,Brooklyn,11205,TRUE,0
+211,May 28 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11213,TRUE,0
+212,May 28 2015,1,American Pit Bull Mix / Pit Bull Mix,3,M,FALSE,Brooklyn,11236,TRUE,0
+213,May 26 2015,1,Saint Bernard,,U,FALSE,Brooklyn,11214,TRUE,0
+214,May 28 2015,1,Chihuahua,,U,FALSE,Brooklyn,11208,TRUE,0
+215,May 30 2015,1,West High White Terrier,4,M,FALSE,Brooklyn,11224,TRUE,0
+216,May 30 2015,1,West High White Terrier,4,M,FALSE,Brooklyn,11224,TRUE,0
+217,May 31 2015,1,Chihuahua,1,M,FALSE,Brooklyn,11207,TRUE,0
+218,May 30 2015,1,"Collie, Border",,U,FALSE,Brooklyn,11211,TRUE,0
+219,May 29 2015,1,Labrador Retriever Crossbreed,8,F,TRUE,Brooklyn,11229,TRUE,0
+220,May 31 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+221,June 01 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11207,TRUE,0
+222,June 02 2015,1,Chow Chow,1,M,FALSE,Brooklyn,11233,TRUE,0
+223,June 02 2015,1,Doberman Pinscher,7,M,TRUE,Brooklyn,11228,TRUE,0
+224,June 01 2015,1,Yorkshire Terrier,2,M,FALSE,Brooklyn,11217,TRUE,0
+225,May 27 2015,1,TEACUP YORKIE,,U,FALSE,Brooklyn,11201,TRUE,0
+226,June 03 2015,1,SHORKY,8,M,TRUE,Brooklyn,11238,TRUE,0
+227,May 31 2015,1,HAVANESE X,4,M,TRUE,Brooklyn,11236,TRUE,0
+228,May 27 2015,1,Mix,9,M,TRUE,Brooklyn,11237,TRUE,0
+229,June 04 2015,1,Pit Bull,3,F,TRUE,Brooklyn,11226,TRUE,3
+230,June 04 2015,1,Pit Bull,4,M,FALSE,Brooklyn,11226,TRUE,0
+231,June 04 2015,1,Yorkshire Terrier,2,M,TRUE,Brooklyn,11214,TRUE,0
+232,June 06 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+233,June 06 2015,1,Chow Chow,4,M,FALSE,Brooklyn,11234,TRUE,0
+234,June 05 2015,1,Lhasa Apso,5,M,TRUE,Brooklyn,11231,TRUE,0
+235,June 06 2015,1,Stanard Poodle,3,M,TRUE,Brooklyn,11234,TRUE,0
+236,June 07 2015,1,German Shorthaired Pointer,8,F,TRUE,Brooklyn,11231,TRUE,0
+237,May 30 2015,1,Mix,,U,FALSE,Brooklyn,11211,TRUE,0
+238,May 30 2015,1,Chow Chow,2,M,FALSE,Brooklyn,11208,TRUE,0
+239,June 05 2015,1,Yorkshire Terrier,,U,FALSE,Brooklyn,11221,TRUE,0
+240,June 10 2015,1,Pit Bull,,U,FALSE,Brooklyn,11237,TRUE,0
+241,June 09 2015,1,Pit Bull,,U,FALSE,Brooklyn,11213,TRUE,0
+242,June 10 2015,1,Cane Corso,2,M,FALSE,Brooklyn,11224,TRUE,0
+243,June 09 2015,1,English Setter,6,M,FALSE,Brooklyn,11201,TRUE,0
+244,June 09 2015,1,Mix,2,F,FALSE,Brooklyn,11208,TRUE,0
+245,June 09 2015,1,Pit Bull,,U,FALSE,Brooklyn,11224,TRUE,0
+246,June 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11233,TRUE,0
+247,June 12 2015,1,Maltese,,U,FALSE,Brooklyn,11235,TRUE,0
+248,June 14 2015,1,Mix,6,M,TRUE,Brooklyn,11201,TRUE,0
+249,June 14 2015,1,Pit Bull,,U,FALSE,Brooklyn,11208,TRUE,0
+250,June 13 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+251,June 14 2015,1,Jack Russel,3,F,TRUE,Brooklyn,11201,TRUE,0
+252,June 12 2015,1,Jack Russell,2,M,TRUE,Brooklyn,11235,TRUE,0
+253,June 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11216,TRUE,0
+254,June 16 2015,1,Mix,1,F,FALSE,Brooklyn,11215,TRUE,0
+255,June 14 2015,1,American Eskimo,5,M,TRUE,Brooklyn,11230,TRUE,3
+256,June 19 2015,1,American Staffordshire Terrier,7,F,TRUE,Brooklyn,11233,TRUE,0
+257,June 18 2015,1,Mix,,U,FALSE,Brooklyn,11228,TRUE,0
+258,June 07 2015,1,Chihuahua,3,M,TRUE,Brooklyn,11217,TRUE,0
+259,June 22 2015,1,Golden Retriever,12,F,TRUE,Brooklyn,11229,TRUE,0
+260,June 22 2015,1,Mix,1,M,FALSE,Brooklyn,11217,TRUE,0
+261,June 21 2015,1,Chihuahua,,U,FALSE,Brooklyn,11201,TRUE,0
+262,June 19 2015,1,Pit Bull,5,M,TRUE,Brooklyn,11211,TRUE,0
+263,June 19 2015,1,Pit Bull,,U,FALSE,Brooklyn,11229,TRUE,0
+264,June 18 2015,1,Pit Bull,2,M,TRUE,Brooklyn,11235,TRUE,0
+265,June 22 2015,1,Maltese,7,F,TRUE,Brooklyn,11220,TRUE,0
+266,June 21 2015,1,Jack Russell,12,F,TRUE,Brooklyn,11201,TRUE,0
+267,June 23 2015,1,Pit Bull,1,M,FALSE,Brooklyn,11233,TRUE,0
+268,June 24 2015,1,Pit Bull,,M,FALSE,Brooklyn,11230,TRUE,0
+269,June 26 2015,1,UNKNOWN,,U,FALSE,Brooklyn,11220,TRUE,0
+270,June 24 2015,1,Pit Bull,,U,FALSE,Brooklyn,11224,TRUE,0
+271,June 25 2015,1,American Staffordshire Terrier,3,M,FALSE,Brooklyn,11201,TRUE,0
+272,June 28 2015,1,Pit Bull,5,M,FALSE,Brooklyn,11203,TRUE,6
+273,June 26 2015,1,Maltese,1,M,FALSE,Brooklyn,11236,TRUE,0
+274,June 24 2015,1,Pit Bull,,U,FALSE,Brooklyn,11231,TRUE,0
+275,June 21 2015,1,Pit Bull,,U,FALSE,Brooklyn,11230,TRUE,0
+276,June 19 2015,1,Pit Bull,,U,FALSE,Brooklyn,11229,TRUE,0
+277,June 21 2015,1,Mix,2,M,FALSE,Brooklyn,11213,TRUE,0
+278,July 01 2015,1,Vizsla,4,M,TRUE,Brooklyn,11249,TRUE,4
+279,June 29 2015,1,Pit Bull,,U,FALSE,Brooklyn,11224,TRUE,0
+280,July 02 2015,1,Pit Bull,,U,FALSE,Brooklyn,11219,TRUE,0
+281,March 17 2015,1,Jack Russell,10,M,FALSE,Brooklyn,11221,TRUE,0
+282,July 02 2015,1,Golden Retriever,,U,FALSE,Brooklyn,11201,TRUE,0
+283,July 05 2015,1,Pit Bull,,U,FALSE,Brooklyn,11213,TRUE,0
+284,June 13 2015,1,Mix,8,F,TRUE,Brooklyn,11201,TRUE,0
+285,June 22 2015,1,Pit Bull,,U,FALSE,Brooklyn,11236,TRUE,0
+286,July 04 2015,1,Pit Bull,2,M,FALSE,Brooklyn,11201,TRUE,0
+287,July 02 2015,1,Chihuahua,3,M,FALSE,Brooklyn,11212,TRUE,0
+288,July 03 2015,1,Mix,12,M,FALSE,Brooklyn,11207,TRUE,0
+289,July 04 2015,1,Yorkshire Terrier,,U,FALSE,Brooklyn,11210,TRUE,5
+290,July 04 2015,1,Mix,6,M,TRUE,Brooklyn,11212,TRUE,0
+291,June 29 2015,1,Mix,6,M,TRUE,Brooklyn,11231,TRUE,0
+292,July 08 2015,1,English Setter,6,M,FALSE,Brooklyn,11235,TRUE,0
+293,July 07 2015,1,Mix,,U,FALSE,Brooklyn,11216,TRUE,0
+294,July 05 2015,1,Wire Fox Terrier,8,M,TRUE,Brooklyn,11205,TRUE,0
+295,July 12 2015,1,Mix,3,F,FALSE,Brooklyn,11216,TRUE,0
+296,July 14 2015,1,Mix,2,M,FALSE,Brooklyn,11221,TRUE,0
+297,July 13 2015,1,Chihuahua,,U,FALSE,Brooklyn,11207,TRUE,0
+298,July 06 2015,1,Pit Bull,,U,FALSE,Brooklyn,11236,TRUE,0
+299,July 06 2015,1,Pit Bull,,U,FALSE,Brooklyn,11236,TRUE,0
+300,July 04 2015,1,Jack Russell,1,M,TRUE,Brooklyn,11204,TRUE,0
+301,July 14 2015,1,German Shepherd,,U,FALSE,Brooklyn,11201,TRUE,0
+302,July 11 2015,1,Siberian Husky,,U,FALSE,Brooklyn,11201,TRUE,0
+303,July 13 2015,1,German Shepherd,,U,FALSE,Brooklyn,11201,TRUE,0
+304,July 10 2015,1,Golden Retriever,5,M,TRUE,Brooklyn,11238,TRUE,0
+305,July 10 2015,1,Mix,6,M,FALSE,Brooklyn,11231,TRUE,0
+306,July 06 2015,1,Yorkshire Terrier,6,F,FALSE,Brooklyn,11208,TRUE,0
+307,July 01 2015,1,German Shepherd,6,M,FALSE,Brooklyn,11220,TRUE,0
+308,July 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11235,TRUE,0
+309,July 12 2015,1,Mix,10M,M,FALSE,Brooklyn,11236,TRUE,0
+310,July 13 2015,1,Yorkshire Terrier,,U,FALSE,Brooklyn,11209,TRUE,0
+311,July 11 2015,1,Bull dog,,U,FALSE,Brooklyn,11201,TRUE,0
+312,July 08 2015,1,Mix,2,M,FALSE,Brooklyn,11206,TRUE,0
+313,July 15 2015,1,Pit Bull,,U,FALSE,Brooklyn,11207,TRUE,0
+314,July 16 2015,1,Pit Bull,2,F,FALSE,Brooklyn,11205,TRUE,0
+315,July 17 2015,1,Basset Hound,3,M,TRUE,Brooklyn,11220,TRUE,0
+316,July 15 2015,1,German Shepherd,8,F,FALSE,Brooklyn,11201,TRUE,0
+317,July 16 2015,1,Shiba Inu,1,M,TRUE,Brooklyn,11235,TRUE,0
+318,July 21 2015,1,Shih Tzu,,U,FALSE,Brooklyn,11233,TRUE,0
+319,July 19 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+320,July 21 2015,1,Cocker Spaniel,13,M,TRUE,Brooklyn,11230,TRUE,0
+321,July 22 2015,1,Pit Bull,11M,F,FALSE,Brooklyn,11206,TRUE,0
+322,July 19 2015,1,Pit Bull,4,M,TRUE,Brooklyn,11222,TRUE,10
+323,July 19 2015,1,Bull Terrier,2,M,FALSE,Brooklyn,11207,TRUE,0
+324,July 18 2015,1,Pit Bull,3,M,FALSE,Brooklyn,11213,TRUE,0
+325,July 21 2015,1,Mix,,U,FALSE,Brooklyn,11201,TRUE,0
+326,July 22 2015,1,Mix,,U,FALSE,Brooklyn,11238,TRUE,0
+327,July 15 2015,1,Pit Bull,,U,FALSE,Brooklyn,11203,TRUE,0
+328,July 22 2015,1,Belgian Malinois,1,M,FALSE,Brooklyn,11213,TRUE,0
+329,July 22 2015,1,Mix,2,M,TRUE,Brooklyn,11237,TRUE,0
+330,July 22 2015,1,Mix,2,M,TRUE,Brooklyn,11237,TRUE,0
+331,July 22 2015,1,Pit Bull,6,F,FALSE,Brooklyn,11201,TRUE,0
+332,July 22 2015,1,Yorkshire Terrier,6,M,TRUE,Brooklyn,11231,TRUE,0
+333,July 25 2015,1,Maltese,1,M,FALSE,Brooklyn,11218,TRUE,0
+334,July 25 2015,1,Shiba Inu,1,M,TRUE,Brooklyn,11237,TRUE,0
+335,July 28 2015,1,Pit Bull,9,M,TRUE,Brooklyn,11206,TRUE,0
+336,July 29 2015,1,Doberman Pinscher,9,F,FALSE,Brooklyn,11220,TRUE,0
+337,June 22 2015,1,Maltese,7,F,FALSE,Brooklyn,11201,TRUE,0
+338,July 29 2015,1,Mix,2,M,TRUE,Brooklyn,11203,TRUE,0
+339,July 28 2015,1,Pit Bull,,U,FALSE,Brooklyn,11226,TRUE,3
+340,July 29 2015,1,Shih Tzu,5,F,FALSE,Brooklyn,11249,TRUE,0
+341,July 31 2015,1,Labrador Retriever,10,M,TRUE,Brooklyn,11207,TRUE,0
+342,August 02 2015,1,English Bull Dog,9,M,TRUE,Brooklyn,11217,TRUE,0
+343,July 27 2015,1,Mix,7,U,FALSE,Brooklyn,11201,TRUE,0
+344,July 30 2015,1,Pit Bull,,U,FALSE,Brooklyn,11215,TRUE,0
+345,August 02 2015,1,Pit Bull,4,M,FALSE,Brooklyn,11206,TRUE,0
+346,July 31 2015,1,Pit Bull,3,M,FALSE,Brooklyn,11233,TRUE,0
+347,August 04 2015,1,Chihuahua,,U,FALSE,Brooklyn,11201,TRUE,0
+348,August 03 2015,1,Mix,6,F,TRUE,Brooklyn,11237,TRUE,0
+349,July 25 2015,1,Chihuahua,3,M,FALSE,Brooklyn,11223,TRUE,2
+350,July 31 2015,1,Maltese,,M,TRUE,Brooklyn,11232,TRUE,0
+351,August 02 2015,1,Maltese,,M,TRUE,Brooklyn,11232,TRUE,0
+352,August 03 2015,1,Pit Bull,,U,FALSE,Brooklyn,11208,TRUE,0
+353,August 05 2015,1,Bull dog,,U,FALSE,Brooklyn,11207,TRUE,0
+354,August 02 2015,1,Pit Bull,,F,FALSE,Brooklyn,11206,TRUE,0
+355,August 04 2015,1,Alaskan Klee Kai,1,M,TRUE,Brooklyn,11204,TRUE,0
+356,August 05 2015,1,Pit Bull,,U,FALSE,Brooklyn,11215,TRUE,0
+357,August 05 2015,1,Yorkshire Terrier,3,M,TRUE,Brooklyn,11238,TRUE,0
+358,August 06 2015,1,Jack Russell,7,M,TRUE,Brooklyn,11207,TRUE,0
+359,August 07 2015,1,Pit Bull,1,F,FALSE,Brooklyn,11208,TRUE,0
+360,July 29 2015,1,Boxer,,U,FALSE,Brooklyn,11222,TRUE,0
+361,July 28 2015,1,Mix,3,M,TRUE,Brooklyn,11208,TRUE,0
+362,July 31 2015,1,Shih Tzu,,U,FALSE,Brooklyn,11234,TRUE,0
+363,August 10 2015,1,Shih Tzu,4,F,FALSE,Brooklyn,11234,TRUE,0
+364,August 07 2015,1,Jack Russell,3,M,FALSE,Brooklyn,11213,TRUE,0
+365,August 02 2015,1,Doberman Pinscher,5m,M,FALSE,Brooklyn,11209,TRUE,0
+366,August 07 2015,1,Australain Cattle Dog,1,M,FALSE,Brooklyn,11208,TRUE,0
+367,August 04 2015,1,Mix,,U,FALSE,Brooklyn,11220,TRUE,0
+368,August 11 2015,1,French Bull Dog,8,M,TRUE,Brooklyn,11206,TRUE,0
+369,August 11 2015,1,Yorkshire Terrier,1,F,FALSE,Brooklyn,11232,TRUE,0
+370,August 11 2015,1,Mix,6,F,TRUE,Brooklyn,11228,TRUE,6
+371,August 11 2015,1,Shih Tzu,,U,FALSE,Brooklyn,11233,TRUE,0
+372,August 08 2015,1,Akita,,U,FALSE,Brooklyn,11219,TRUE,4
+373,August 08 2015,1,Akita,3,M,FALSE,Brooklyn,11219,TRUE,0
+374,August 14 2015,1,Mix,4,M,FALSE,Brooklyn,11206,TRUE,0
+375,August 06 2015,1,Shih Tzu,4,M,FALSE,Brooklyn,11214,TRUE,0
+376,July 28 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+377,August 15 2015,1,American Staffordshire Terrier,10,M,FALSE,Brooklyn,11206,TRUE,0
+378,August 16 2015,1,Mix,2,F,TRUE,Brooklyn,11218,TRUE,0
+379,August 14 2015,1,Rottweiler,,U,FALSE,Brooklyn,11206,TRUE,0
+380,August 16 2015,1,German Shepherd,3,M,TRUE,Brooklyn,11226,TRUE,0
+381,August 15 2015,1,Stanard Poodle,,U,FALSE,Brooklyn,11233,TRUE,0
+382,August 16 2015,1,Yorkshire Terrier,14,M,TRUE,Brooklyn,11207,TRUE,0
+383,August 19 2015,1,Jack Russell,7,F,TRUE,Brooklyn,11212,TRUE,0
+384,August 19 2015,1,American Staffordshire Terrier,5,M,TRUE,Brooklyn,11213,TRUE,0
+385,August 17 2015,1,Chihuahua,8,M,TRUE,Brooklyn,11226,TRUE,0
+386,August 21 2015,1,Pit Bull,6,F,TRUE,Brooklyn,11207,TRUE,0
+387,August 09 2015,1,Bull dog,3,M,FALSE,Brooklyn,11208,TRUE,0
+388,August 21 2015,1,Cane Corso,2,M,FALSE,Brooklyn,11231,TRUE,0
+389,August 23 2015,1,Pit Bull,1,F,FALSE,Brooklyn,11224,TRUE,12
+390,August 18 2015,1,Pit Bull,,U,FALSE,Brooklyn,11232,TRUE,0
+1932,January 01 2018,1,UNKNOWN,,U,FALSE,Brooklyn,11201,TRUE,0
+391,August 23 2015,1,Labrador Retriever,,U,FALSE,Brooklyn,11231,TRUE,0
+392,August 24 2015,1,Pit Bull,,U,FALSE,Brooklyn,11234,TRUE,0
+393,August 11 2015,1,Labrador Retriever,5,M,TRUE,Brooklyn,11249,TRUE,0
+394,August 19 2015,1,Miniature Poodle,2,M,FALSE,Brooklyn,11220,TRUE,6
+395,August 13 2015,1,Pit Bull,7,F,FALSE,Brooklyn,11236,TRUE,0
+396,August 26 2015,1,Mix,1,M,TRUE,Brooklyn,11221,TRUE,0
+397,August 26 2015,1,Wire Fox Terrier,,U,FALSE,Brooklyn,11207,TRUE,0
+398,August 27 2015,1,Shih Tzu,8,M,FALSE,Brooklyn,11208,TRUE,0
+399,August 11 2015,1,Jack Russell,2,M,TRUE,Brooklyn,11204,TRUE,0
+400,August 27 2015,1,Mix,3,M,TRUE,Brooklyn,11226,TRUE,0
+401,August 10 2015,1,Mix,3,F,TRUE,Brooklyn,11204,TRUE,0
+402,August 10 2015,1,Rottweiler,8M,F,FALSE,Brooklyn,11204,TRUE,0
+403,August 27 2015,1,Shiba Inu,6,F,TRUE,Brooklyn,11249,TRUE,0
+404,August 27 2015,1,Chihuahua,3,M,TRUE,Brooklyn,11223,TRUE,0
+405,August 29 2015,1,Brittany Spaniel,3,M,FALSE,Brooklyn,11235,TRUE,0
+406,August 30 2015,1,Yorkshire Terrier,7,F,TRUE,Brooklyn,11209,TRUE,0
+407,August 28 2015,1,Pit Bull,3,F,TRUE,Brooklyn,11208,TRUE,0
+408,August 31 2015,1,American Terrier,,U,FALSE,Brooklyn,11216,TRUE,0
+409,September 01 2015,1,Mix,5,F,TRUE,Brooklyn,11201,TRUE,0
+410,September 01 2015,1,Labrador Retriever,3,M,TRUE,Brooklyn,11206,TRUE,0
+411,August 20 2015,1,Pit Bull,,U,FALSE,Brooklyn,11230,TRUE,0
+412,September 01 2015,1,Shiba Inu,3,M,TRUE,Brooklyn,11217,TRUE,0
+413,September 04 2015,1,Daschound,,U,FALSE,Brooklyn,11206,TRUE,0
+414,September 08 2015,1,Miniature Schnauzer,3,F,FALSE,Brooklyn,11232,TRUE,0
+415,September 05 2015,1,Mix,8,F,TRUE,Brooklyn,11236,TRUE,0
+416,September 07 2015,1,Pit Bull,,U,FALSE,Brooklyn,11216,TRUE,0
+417,September 03 2015,1,Stanard Poodle,,U,FALSE,Brooklyn,11206,TRUE,0
+418,September 03 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+419,September 08 2015,1,Pit Bull,,U,FALSE,Brooklyn,11216,TRUE,0
+420,September 03 2015,1,Shih Tzu,3,M,FALSE,Brooklyn,11235,TRUE,0
+421,September 05 2015,1,Beagle,,U,FALSE,Brooklyn,11201,TRUE,0
+422,September 06 2015,1,Pit Bull,8,F,TRUE,Brooklyn,11224,TRUE,0
+423,September 09 2015,1,Mix,1,M,TRUE,Brooklyn,11228,TRUE,0
+424,September 08 2015,1,Chihuahua,,U,FALSE,Brooklyn,11201,TRUE,0
+425,September 10 2015,1,Mix,2,M,FALSE,Brooklyn,11249,TRUE,0
+426,September 12 2015,1,Dachshund Smooth Coat,,U,FALSE,Brooklyn,11217,TRUE,0
+427,September 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11215,TRUE,0
+428,September 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+429,September 14 2015,1,Pit Bull,14M,M,FALSE,Brooklyn,11215,TRUE,0
+430,September 14 2015,1,Pit Bull,4,M,FALSE,Brooklyn,11213,TRUE,0
+431,September 13 2015,1,Chihuahua,3,M,TRUE,Brooklyn,11220,TRUE,0
+432,September 12 2015,1,Mix,1,M,TRUE,Brooklyn,11206,TRUE,0
+433,September 11 2015,1,Pit Bull,2,M,FALSE,Brooklyn,11233,TRUE,0
+434,September 15 2015,1,Mix,1,M,TRUE,Brooklyn,11206,TRUE,0
+435,September 16 2015,1,Shih Tzu,,U,FALSE,Brooklyn,11201,TRUE,0
+436,September 13 2015,1,Mix,3,M,TRUE,Brooklyn,11236,TRUE,0
+437,September 16 2015,1,Mix,15,F,TRUE,Brooklyn,11213,TRUE,0
+438,August 28 2015,1,Standard Poodle,,U,FALSE,Brooklyn,11219,TRUE,0
+439,September 16 2015,1,Labrador Retriever,7,F,FALSE,Brooklyn,11206,TRUE,0
+440,September 03 2015,1,Chihuahua,,U,FALSE,Brooklyn,11228,TRUE,0
+441,September 20 2015,1,German Shepherd,1,F,FALSE,Brooklyn,11231,TRUE,0
+442,September 20 2015,1,English Bull Dog,7,M,TRUE,Brooklyn,11201,TRUE,0
+443,September 18 2015,1,Shih Tzu,1,M,TRUE,Brooklyn,11215,TRUE,0
+444,September 22 2015,1,Mix,5,M,FALSE,Brooklyn,11237,TRUE,0
+445,September 19 2015,1,Standard Poodle,,U,FALSE,Brooklyn,11238,TRUE,0
+446,September 19 2015,1,Pit Bull,,U,FALSE,Brooklyn,11218,TRUE,0
+447,September 07 2015,1,German Shepherd,,U,FALSE,Brooklyn,11230,TRUE,0
+448,September 22 2015,1,German Shepherd,2,M,TRUE,Brooklyn,11236,TRUE,0
+449,September 26 2015,1,Mix,1,M,TRUE,Brooklyn,11201,TRUE,0
+450,September 26 2015,1,Miniature Poodle,,U,FALSE,Brooklyn,11201,TRUE,0
+451,September 24 2015,1,Standard Poodle,,U,FALSE,Brooklyn,11221,TRUE,0
+452,September 26 2015,1,Mix,1,M,FALSE,Brooklyn,11226,TRUE,0
+453,September 28 2015,1,Mix,6,M,TRUE,Brooklyn,11226,TRUE,0
+454,September 23 2015,1,Australian Shepherd,,U,FALSE,Brooklyn,11221,TRUE,0
+455,September 20 2015,1,Mix,2,F,FALSE,Brooklyn,11201,TRUE,0
+456,September 28 2015,1,Mix,3,F,FALSE,Brooklyn,11231,TRUE,0
+457,September 30 2015,1,Pit Bull,,M,FALSE,Brooklyn,11236,TRUE,0
+458,September 30 2015,1,Mix,10,F,TRUE,Brooklyn,11208,TRUE,0
+459,September 30 2015,1,Mix,7,M,TRUE,Brooklyn,11220,TRUE,0
+460,September 22 2015,1,Mix,1,M,FALSE,Brooklyn,11229,TRUE,0
+461,October 04 2015,1,Pit Bull,3,F,FALSE,Brooklyn,11231,TRUE,0
+462,September 29 2015,1,Pit Bull,,U,FALSE,Brooklyn,11215,TRUE,0
+463,October 05 2015,1,Mix,2,M,TRUE,Brooklyn,11223,TRUE,0
+464,October 02 2015,1,Mix,1,F,FALSE,Brooklyn,11231,TRUE,0
+465,October 05 2015,1,Mix,6M,M,TRUE,Brooklyn,11208,TRUE,0
+466,October 05 2015,1,Standard Poodle,,U,FALSE,Brooklyn,11201,TRUE,0
+467,October 05 2015,1,Mix,3M,M,TRUE,Brooklyn,11228,TRUE,0
+468,September 27 2015,1,Chow Chow,12,F,FALSE,Brooklyn,11215,TRUE,0
+469,October 07 2015,1,Pit Bull,,U,FALSE,Brooklyn,11214,TRUE,0
+470,October 07 2015,1,Pit Bull,,U,FALSE,Brooklyn,11214,TRUE,0
+471,October 07 2015,1,Bull dog,,U,FALSE,Brooklyn,11230,TRUE,0
+472,October 08 2015,1,German Shepherd,5,M,FALSE,Brooklyn,11220,TRUE,0
+473,October 12 2015,1,Chihuahua,,U,FALSE,Brooklyn,11207,TRUE,0
+474,October 11 2015,1,Pit Bull,4,M,FALSE,Brooklyn,11226,TRUE,0
+475,October 10 2015,1,Australian Cattle Dog,14,M,TRUE,Brooklyn,11230,TRUE,0
+476,October 12 2015,1,English Springer Spaniel,12,M,TRUE,Brooklyn,11201,TRUE,0
+477,October 13 2015,1,Mix,1,U,FALSE,Brooklyn,11216,TRUE,0
+478,October 10 2015,1,Chihuahua,,U,FALSE,Brooklyn,11201,TRUE,0
+479,September 28 2015,1,Maltese,,U,FALSE,Brooklyn,11229,TRUE,0
+480,October 13 2015,1,Pit Bull,,U,FALSE,Brooklyn,11221,TRUE,0
+481,October 11 2015,1,Australian Cattle Dog,,U,FALSE,Brooklyn,11205,TRUE,0
+482,October 15 2015,1,Pit Bull,5,M,FALSE,Brooklyn,11212,TRUE,0
+483,October 18 2015,1,Mix,4,M,TRUE,Brooklyn,11215,TRUE,0
+484,October 19 2015,1,Pit Bull,,U,FALSE,Brooklyn,11203,TRUE,0
+485,October 18 2015,1,American Eskimo,7,M,FALSE,Brooklyn,11205,TRUE,0
+486,October 05 2015,1,Pit Bull,1,F,TRUE,Brooklyn,11208,TRUE,0
+487,October 05 2015,1,Mix,9,M,FALSE,Brooklyn,11238,TRUE,0
+488,October 09 2015,1,Bull dog,2,F,TRUE,Brooklyn,11208,TRUE,0
+489,October 09 2015,1,Bull dog,2,F,TRUE,Brooklyn,11208,TRUE,0
+490,October 20 2015,1,German Shepherd,8,M,TRUE,Brooklyn,11235,TRUE,0
+491,October 19 2015,1,Yorkshire Terrier,4,F,TRUE,Brooklyn,11229,TRUE,0
+492,October 21 2015,1,Chihuahua,10,M,FALSE,Brooklyn,11211,TRUE,0
+493,October 21 2015,1,Pit Bull,4,F,FALSE,Brooklyn,11234,TRUE,0
+494,October 20 2015,1,Mix,,U,FALSE,Brooklyn,11207,TRUE,0
+495,October 22 2015,1,Pit Bull,,F,FALSE,Brooklyn,11210,TRUE,0
+496,October 22 2015,1,Belgian Sheepdog,2,F,TRUE,Brooklyn,11201,TRUE,0
+497,October 24 2015,1,Pit Bull,1,M,FALSE,Brooklyn,11236,TRUE,0
+498,October 23 2015,1,Rat Terrier,8,F,FALSE,Brooklyn,11208,TRUE,0
+499,October 24 2015,1,Pit Bull,11M,M,TRUE,Brooklyn,11234,TRUE,0
+500,October 19 2015,1,German Shepherd,4,M,TRUE,Brooklyn,11234,TRUE,0
+501,October 18 2015,1,Yorkshire Terrier,3,M,TRUE,Brooklyn,11230,TRUE,0
+502,October 24 2015,1,Pit Bull,3,M,FALSE,Brooklyn,11201,TRUE,0
+503,October 27 2015,1,Shitz Tzu,2,M,FALSE,Brooklyn,11216,TRUE,0
+504,October 26 2015,1,Pit Bull,,U,FALSE,Brooklyn,11233,TRUE,0
+505,October 27 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+506,October 26 2015,1,Chihuahua,1,F,TRUE,Brooklyn,11205,TRUE,0
+507,October 14 2015,1,Mix,2,M,TRUE,Brooklyn,11206,TRUE,0
+508,October 29 2015,1,Pit Bull,,U,FALSE,Brooklyn,11249,TRUE,0
+509,November 01 2015,1,Pit Bull,1,M,FALSE,Brooklyn,11208,TRUE,0
+510,October 30 2015,1,German Shepherd,,U,FALSE,Brooklyn,11201,TRUE,0
+511,November 01 2015,1,Siberian Husky,,U,FALSE,Brooklyn,11220,TRUE,0
+512,November 01 2015,1,Pit Bull,,U,FALSE,Brooklyn,11207,TRUE,0
+513,October 31 2015,1,Vizsla,2,M,TRUE,Brooklyn,11204,TRUE,0
+514,November 04 2015,1,Mix,8,F,TRUE,Brooklyn,11216,TRUE,0
+515,November 04 2015,1,Mix,3,F,FALSE,Brooklyn,11236,TRUE,0
+516,November 02 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+517,November 02 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+518,October 31 2015,1,Mix,,U,FALSE,Brooklyn,11215,TRUE,14
+519,November 02 2015,1,Rottweiler,,U,FALSE,Brooklyn,11201,TRUE,0
+2025,March 31 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,12
+520,October 23 2015,1,American Staffordshire Terrier,1,M,TRUE,Brooklyn,11214,TRUE,0
+521,November 05 2015,1,Mix,7,M,TRUE,Brooklyn,11203,TRUE,6
+522,November 06 2015,1,Mix,10M,M,FALSE,Brooklyn,11208,TRUE,0
+523,November 05 2015,1,Chihuahua,,U,FALSE,Brooklyn,11201,TRUE,0
+524,November 02 2015,1,Mix,,F,TRUE,Brooklyn,11218,TRUE,0
+525,November 06 2015,1,Mix,1,M,TRUE,Brooklyn,11208,TRUE,0
+526,November 06 2015,1,Mix,5,M,TRUE,Brooklyn,11208,TRUE,0
+527,November 07 2015,1,Mix,15,M,TRUE,Brooklyn,11234,TRUE,0
+528,November 07 2015,1,Bull Mastiff,6,M,TRUE,Brooklyn,11230,TRUE,0
+529,November 07 2015,1,Standard Poodle,9,M,TRUE,Brooklyn,11201,TRUE,0
+530,November 06 2015,1,Mix,,U,FALSE,Brooklyn,11212,TRUE,0
+531,October 30 2015,1,Rottweiler,,U,FALSE,Brooklyn,11232,TRUE,0
+532,October 31 2015,1,Jack Russell,,U,FALSE,Brooklyn,11236,TRUE,0
+533,November 07 2015,1,Pit Bull,,U,FALSE,Brooklyn,11206,TRUE,0
+534,November 11 2015,1,Chihuahua,2,M,FALSE,Brooklyn,11228,TRUE,0
+535,November 10 2015,1,Mix,1,M,TRUE,Brooklyn,11201,TRUE,0
+536,November 06 2015,1,Standard Poodle,5,M,FALSE,Brooklyn,11203,TRUE,0
+537,November 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11216,TRUE,0
+538,November 10 2015,1,Pit Bull,,U,FALSE,Brooklyn,11205,TRUE,0
+539,November 12 2015,1,Pit Bull,,U,FALSE,Brooklyn,11205,TRUE,0
+540,November 15 2015,1,Bull Terrier,,U,FALSE,Brooklyn,11226,TRUE,0
+541,November 13 2015,1,German Shepherd,,U,FALSE,Brooklyn,11204,TRUE,6
+542,November 11 2015,1,Mix,3,F,TRUE,Brooklyn,11232,TRUE,0
+543,November 13 2015,1,Pit Bull,,U,FALSE,Brooklyn,11215,TRUE,0
+544,November 12 2015,1,Mix,3,M,TRUE,Brooklyn,11206,TRUE,0
+545,November 16 2015,1,Mix,1,M,TRUE,Brooklyn,11208,TRUE,0
+546,November 18 2015,1,Pit Bull,7,F,TRUE,Brooklyn,11237,TRUE,0
+547,November 18 2015,1,Pit Bull,1,M,TRUE,Brooklyn,11212,TRUE,0
+548,November 12 2015,1,Pit Bull,3,F,FALSE,Brooklyn,11236,TRUE,0
+549,November 18 2015,1,Mix,1,F,TRUE,Brooklyn,11211,TRUE,0
+550,October 26 2015,1,Shih Tzu,,U,FALSE,Brooklyn,11220,TRUE,0
+551,November 20 2015,1,Yorkshire Terrier,,U,FALSE,Brooklyn,11203,TRUE,0
+552,November 18 2015,1,Mix,10,F,FALSE,Brooklyn,11230,TRUE,0
+553,November 22 2015,1,Pit Bull,1,M,FALSE,Brooklyn,11208,TRUE,0
+554,November 21 2015,1,Pit Bull,2,M,TRUE,Brooklyn,11214,TRUE,0
+555,November 23 2015,1,Mix,1,M,FALSE,Brooklyn,11208,TRUE,0
+556,November 21 2015,1,Bull dog,,U,FALSE,Brooklyn,11222,TRUE,0
+557,November 21 2015,1,Mix,1,F,TRUE,Brooklyn,11222,TRUE,0
+558,November 20 2015,1,Pit Bull,6,M,FALSE,Brooklyn,11206,TRUE,0
+559,November 23 2015,1,Shih Tzu,2,M,TRUE,Brooklyn,11220,TRUE,0
+560,November 20 2015,1,Mix,1,F,FALSE,Brooklyn,11213,TRUE,0
+561,November 25 2015,1,Pit Bull,4,M,FALSE,Brooklyn,11206,TRUE,0
+562,November 26 2015,1,Chihuahua,4M,M,TRUE,Brooklyn,11239,TRUE,0
+563,November 26 2015,1,American Staffordshire Terrier,10M,M,FALSE,Brooklyn,11221,TRUE,0
+564,November 27 2015,1,Chihuahua Crossbreed,8,M,TRUE,Brooklyn,11207,TRUE,0
+565,November 27 2015,1,Chihuahua,,U,FALSE,Brooklyn,11206,TRUE,0
+566,November 25 2015,1,Pit Bull,,U,FALSE,Brooklyn,11216,TRUE,0
+567,November 28 2015,1,Shih Tzu,2,M,TRUE,Brooklyn,11237,TRUE,0
+568,November 24 2015,1,Pit Bull,,U,FALSE,Brooklyn,11212,TRUE,0
+569,November 29 2015,1,Yorkshire Terrier,4,M,TRUE,Brooklyn,11236,TRUE,0
+570,November 23 2015,1,Pit Bull,,U,FALSE,Brooklyn,11201,TRUE,0
+571,November 27 2015,1,Shih Tzu,1,M,FALSE,Brooklyn,11219,TRUE,0
+572,November 30 2015,1,MIXED,3,M,TRUE,Brooklyn,11210,TRUE,0
+573,November 28 2015,1,Pit Bull,1,F,FALSE,Brooklyn,11226,TRUE,0
+574,December 01 2015,1,Bernese Mountain,,U,FALSE,Brooklyn,11217,TRUE,0
+575,December 01 2015,1,Beagle Crossbreed,2,M,TRUE,Brooklyn,11231,TRUE,0
+576,December 03 2015,1,"Bull Dog, French",3,M,TRUE,Brooklyn,11235,TRUE,0
+577,December 04 2015,1,BLACK RUSSIAN TERRIER,,U,FALSE,Brooklyn,11204,TRUE,0
+578,November 25 2015,1,Jack Russ,,M,TRUE,Brooklyn,11208,TRUE,0
+579,December 06 2015,1,Pit Bull,4,M,TRUE,Brooklyn,11212,TRUE,0
+580,December 07 2015,1,BEAGLE/JACK RUSSELL X,4,M,TRUE,Brooklyn,11224,TRUE,0
+581,December 06 2015,1,Chow Chow,8,M,FALSE,Brooklyn,11221,TRUE,0
+582,December 03 2015,1,TERRIER,1,M,TRUE,Brooklyn,11229,TRUE,0
+583,December 06 2015,1,Bichon Frise,12,M,TRUE,Brooklyn,11234,TRUE,0
+584,December 05 2015,1,SUDANESE HOUND X,1,M,TRUE,Brooklyn,11231,TRUE,0
+585,December 04 2015,1,TERRIER X,6,M,TRUE,Brooklyn,11234,TRUE,0
+586,November 29 2015,1,Maltese,2,F,TRUE,Brooklyn,11214,TRUE,0
+587,December 09 2015,1,Yorkshire Terrier Crossbreed,3,M,FALSE,Brooklyn,11208,TRUE,0
+588,December 09 2015,1,TERRIER X,11,M,TRUE,Brooklyn,11231,TRUE,0
+589,December 12 2015,1,Chihuahua,,U,FALSE,Brooklyn,11212,TRUE,0
+590,December 01 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,FALSE,Brooklyn,11208,TRUE,0
+591,December 14 2015,1,Yorkshire Terrier,5,M,TRUE,Brooklyn,11237,TRUE,0
+592,December 08 2015,1,Shih Tzu,2,M,FALSE,Brooklyn,11221,TRUE,0
+593,December 11 2015,1,Shih Tzu,2,F,FALSE,Brooklyn,11235,TRUE,0
+594,December 12 2015,1,Pit Bull,2,F,TRUE,Brooklyn,11237,TRUE,0
+595,December 12 2015,1,Pit Bull,1,M,TRUE,Brooklyn,11237,TRUE,0
+596,December 15 2015,1,Pit Bull,,U,FALSE,Brooklyn,11203,TRUE,0
+597,December 16 2015,1,Siberian Husky,,U,FALSE,Brooklyn,11222,TRUE,0
+598,December 14 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,TRUE,Brooklyn,11217,TRUE,0
+599,December 17 2015,1,American Pit Bull Mix / Pit Bull Mix,,M,FALSE,Brooklyn,11208,TRUE,0
+600,December 18 2015,1,"Bull Dog, French",,U,FALSE,Brooklyn,11229,TRUE,0
+601,December 19 2015,1,American Pit Bull Mix / Pit Bull Mix,4,M,TRUE,Brooklyn,11238,TRUE,0
+602,December 19 2015,1,American Pit Bull Mix / Pit Bull Mix,6,F,TRUE,Brooklyn,11201,TRUE,0
+603,December 21 2015,1,American Pit Bull Terrier/Pit Bull,2,F,TRUE,Brooklyn,11220,TRUE,0
+604,December 20 2015,1,MIXED,,U,FALSE,Brooklyn,11212,TRUE,0
+605,October 21 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Brooklyn,11236,TRUE,0
+606,December 20 2015,1,Beagle,14,F,FALSE,Brooklyn,11229,TRUE,0
+607,December 13 2015,1,"Poodle, Toy",2,M,FALSE,Brooklyn,11232,TRUE,0
+608,December 24 2015,1,Cane Corso,,U,FALSE,Brooklyn,11234,TRUE,0
+609,December 24 2015,1,Miniature Pinscher,11,M,FALSE,Brooklyn,11228,TRUE,0
+610,December 26 2015,1,Chihuahua,2,M,FALSE,Brooklyn,11220,TRUE,0
+611,December 27 2015,1,Bull dog,3,F,TRUE,Brooklyn,11203,TRUE,0
+612,December 24 2015,1,Shih Tzu,6,M,TRUE,Brooklyn,11207,TRUE,0
+613,December 25 2015,1,MIXED,4,M,TRUE,Brooklyn,11219,TRUE,0
+614,December 30 2015,1,Pit Bull,2,M,FALSE,Brooklyn,11223,TRUE,0
+619,December 31 2015,1,Brussels Griffon,8,M,TRUE,Brooklyn,11213,TRUE,0
+620,December 22 2015,1,SHIH TZU/POODLE X,2,M,TRUE,Brooklyn,11230,TRUE,0
+621,December 10 2015,1,AMER BULL TERRIER,1,M,FALSE,Brooklyn,11213,TRUE,0
+622,November 11 2015,1,Pit Bull,4,F,TRUE,Brooklyn,11224,TRUE,0
+641,December 23 2015,1,Yorkshire Terrier Crossbreed,6,M,TRUE,Brooklyn,11219,TRUE,0
+1947,January 28 2015,1,Cane Corso,1,M,FALSE,Bronx,10461,TRUE,7
+1948,January 27 2015,1,Bull dog,,F,FALSE,Bronx,10451,TRUE,12
+1949,January 28 2015,1,Chihuahua,8M,M,FALSE,Bronx,10452,TRUE,16
+1950,January 23 2015,1,"Poodle, Miniature",6,F,FALSE,Bronx,10452,TRUE,0
+1951,January 25 2015,1,"Bull Dog, French",1,M,FALSE,Bronx,10469,TRUE,10
+1952,January 29 2015,1,Beagle,5,F,FALSE,Bronx,10459,TRUE,13
+1953,February 01 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+1954,January 30 2015,1,Chihuahua,4,M,FALSE,Bronx,10457,TRUE,14
+1955,February 01 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+1956,January 22 2015,1,Mixed/Other,5,F,TRUE,Bronx,10456,TRUE,13
+1957,February 05 2015,1,Pit Bull,7,U,TRUE,Bronx,10452,TRUE,0
+1958,February 05 2015,1,Mixed/Other,4,M,FALSE,Bronx,10452,TRUE,0
+1959,February 06 2015,1,Pit Bull,2,M,FALSE,Bronx,10468,TRUE,8
+1960,February 07 2015,1,CAROLINA DOG,1,M,FALSE,Bronx,10473,TRUE,9
+1961,February 07 2015,1,CAROLINA DOG,1,M,FALSE,Bronx,10473,TRUE,0
+1962,January 13 2015,1,Pit Bull,,U,FALSE,Bronx,10461,TRUE,0
+1963,February 02 2015,1,Pekingese,3,M,FALSE,Bronx,10466,TRUE,13
+1964,February 08 2015,1,German Shepherd,,U,FALSE,Bronx,10451,TRUE,0
+1965,February 09 2015,1,AMERICAN STAFF/AKITA,4,F,FALSE,Bronx,10467,TRUE,14
+1966,February 09 2015,1,Yorkshire Terrier,,U,FALSE,Bronx,10456,TRUE,0
+1967,February 07 2015,1,Pit Bull,,M,FALSE,Bronx,10467,TRUE,0
+1968,February 09 2015,1,Mixed/Other,5M,F,FALSE,Bronx,10472,TRUE,9
+1969,January 30 2015,1,German Shepherd,6M,F,FALSE,Bronx,10467,TRUE,0
+1970,February 08 2015,1,HUSKY MIX,,U,FALSE,Bronx,10451,TRUE,0
+1971,February 05 2015,1,"Jindo Dog,",14,F,TRUE,Bronx,10469,TRUE,0
+1972,February 15 2015,1,Pekingese,15,M,FALSE,Bronx,10459,TRUE,0
+1973,February 15 2015,1,Shiba Inu,5,M,FALSE,Bronx,10462,TRUE,6
+1974,February 14 2015,1,American Pit Bull Mix / Pit Bull Mix,4,M,FALSE,Bronx,10456,TRUE,0
+1975,February 14 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,FALSE,Bronx,10456,TRUE,0
+1977,February 13 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+1978,February 16 2015,1,Siberian Husky,5,M,FALSE,Bronx,10463,TRUE,21
+1979,February 22 2015,1,Chihuahua,,F,FALSE,Bronx,10468,TRUE,0
+1980,February 22 2015,1,Cocker Spaniel,1,M,FALSE,Bronx,10467,TRUE,0
+1981,February 24 2015,1,Rottweiler,1,U,FALSE,Bronx,10451,TRUE,0
+1982,February 21 2015,1,Jack Russ,3,M,TRUE,Bronx,10464,TRUE,9
+1983,February 24 2015,1,Bichon Frise,1,M,FALSE,Bronx,10458,FALSE,0
+1984,February 25 2015,1,Pit Bull,,U,FALSE,Bronx,10456,TRUE,0
+1985,February 26 2015,1,Cocker Spaniel,,M,FALSE,Bronx,10468,TRUE,0
+1986,March 02 2015,1,Mixed/Other,6,M,FALSE,Bronx,10451,TRUE,0
+1987,February 28 2015,1,American Staffordshire Terrier,3,M,FALSE,Bronx,10456,TRUE,0
+1988,March 03 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+1989,March 01 2015,1,Shih Tzu,2,M,FALSE,Bronx,10451,TRUE,0
+1990,February 27 2015,1,"Bull Dog, English",3,M,TRUE,Bronx,10461,TRUE,0
+1991,March 04 2015,1,Pit Bull,,U,FALSE,Bronx,10467,TRUE,0
+1992,March 05 2015,1,HUSKY,,U,FALSE,Bronx,10451,TRUE,0
+1993,March 07 2015,1,Pit Bull,,U,FALSE,Bronx,10457,TRUE,0
+1994,March 08 2015,1,English Cocker Spaniel,1,M,FALSE,Bronx,10473,TRUE,0
+1995,March 07 2015,1,Pit Bull,,U,FALSE,Bronx,10459,TRUE,0
+1996,March 06 2015,1,Yorkshire Terrier Crossbreed,2,F,FALSE,Bronx,10451,TRUE,0
+1997,March 08 2015,1,Yorkshire Terrier,,U,FALSE,Bronx,10451,TRUE,0
+1998,March 09 2015,1,Shih Tzu,,F,FALSE,Bronx,10452,TRUE,0
+1999,March 09 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2000,February 26 2015,1,Pit Bull,,U,FALSE,Bronx,10453,TRUE,12
+2001,February 07 2015,1,Pit Bull,2,M,FALSE,Bronx,10451,TRUE,0
+2002,March 14 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2003,March 13 2015,1,AUSTRALIAN BORDER COLLIE,4,M,TRUE,Bronx,10470,TRUE,3
+2004,March 14 2015,1,POODLE,8,M,FALSE,Bronx,10458,FALSE,0
+2005,March 15 2015,1,TERRIER MIX,2,M,FALSE,Bronx,10460,TRUE,10
+2006,February 27 2015,1,Pit Bull,4,M,TRUE,Bronx,10451,TRUE,0
+2007,March 17 2015,1,American Pit Bull Terrier/Pit Bull,4,M,FALSE,Bronx,10472,TRUE,0
+2008,March 19 2015,1,Pit Bull,1,F,FALSE,Bronx,10472,TRUE,0
+2009,March 11 2015,1,Pit Bull,1,M,FALSE,Bronx,10474,TRUE,6
+2010,March 14 2015,1,POODLE,2,F,FALSE,Bronx,10462,TRUE,0
+2011,March 21 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2012,March 23 2015,1,POINTER X,10,M,TRUE,Bronx,10458,FALSE,0
+2013,March 21 2015,1,CHIHUAHUA SHORTHAIR/ JACK RUSSELL TERRIER,3,M,FALSE,Bronx,10452,TRUE,0
+2014,March 18 2015,1,American Pit Bull Terrier/Pit Bull,2,M,FALSE,Bronx,10451,TRUE,0
+2015,March 20 2015,1,Pit Bull,,U,FALSE,Bronx,10459,TRUE,0
+2016,February 27 2015,1,"Mastiff, Bull",4,F,TRUE,Bronx,10463,TRUE,21
+2017,March 25 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2018,March 24 2015,1,Pit Bull,,U,FALSE,Bronx,10458,FALSE,0
+2019,March 25 2015,1,Labrador Retriever,,U,FALSE,Bronx,10451,TRUE,0
+2020,March 26 2015,1,Rottweiler,10,F,TRUE,Bronx,10451,TRUE,0
+2021,March 29 2015,1,Mixed/Other,,U,FALSE,Bronx,10461,TRUE,0
+2022,March 26 2015,1,Pit Bull,4,F,FALSE,Bronx,10451,TRUE,0
+2023,March 30 2015,1,"Bull Dog, French",4,F,TRUE,Bronx,10465,TRUE,5
+2024,March 31 2015,1,Lhasa Apso,4,F,TRUE,Bronx,10461,TRUE,0
+2026,March 31 2015,1,Pit Bull,9 M,F,FALSE,Bronx,10451,TRUE,0
+2027,March 28 2015,1,Shih Tzu,,F,FALSE,Bronx,10467,TRUE,0
+2028,April 01 2015,1,Pekingese,,U,FALSE,Bronx,10465,TRUE,0
+2029,April 02 2015,1,Shih Tzu,,U,FALSE,Bronx,10456,TRUE,0
+2030,April 02 2015,1,MINI PINSCHER/ CHIHUAHUA,2,M,FALSE,Bronx,10472,TRUE,0
+2031,February 22 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2032,April 01 2015,1,CHIHUAHUA MIX,8,M,TRUE,Bronx,10466,TRUE,0
+2033,April 05 2015,1,Yorkshire Terrier,5,F,TRUE,Bronx,10472,TRUE,0
+2034,April 04 2015,1,Australian Shepherd,5,M,TRUE,Bronx,10463,TRUE,21
+2035,April 06 2015,1,Cocker Spaniel,,U,FALSE,Bronx,10451,TRUE,0
+2036,April 06 2015,1,Bull dog,,U,FALSE,Bronx,10451,TRUE,0
+2037,April 07 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2038,April 07 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2039,April 10 2015,1,American Pit Bull Terrier/Pit Bull,5,M,FALSE,Bronx,10455,TRUE,10
+2040,April 09 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2041,April 09 2015,1,Pit Bull,,U,FALSE,Bronx,10465,TRUE,0
+2042,April 13 2015,1,Pit Bull,2,M,FALSE,Bronx,10460,TRUE,0
+2043,April 11 2015,1,Pit Bull,,U,FALSE,Bronx,10475,TRUE,9
+2044,April 13 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2045,April 12 2015,1,Shih Tzu,2,M,FALSE,Bronx,10467,TRUE,0
+2046,April 15 2015,1,Weimaraner,,U,FALSE,Bronx,10472,TRUE,0
+2047,April 16 2015,1,Shih Tzu,1,M,TRUE,Bronx,10454,TRUE,0
+2048,April 14 2015,1,Yorkshire Terrier Crossbreed,6,M,TRUE,Bronx,10451,TRUE,0
+2049,April 19 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2050,April 18 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2051,April 18 2015,1,Pointer,10,M,TRUE,Bronx,10458,FALSE,0
+2052,April 22 2015,1,Shih Tzu,,U,FALSE,Bronx,10451,TRUE,0
+2053,April 12 2015,1,Jack Russ,1,M,FALSE,Bronx,10451,TRUE,0
+2054,April 22 2015,1,Pit Bull,1,M,TRUE,Bronx,10453,TRUE,12
+2055,April 23 2015,1,Pit Bull,,U,FALSE,Bronx,10464,TRUE,0
+2056,April 22 2015,1,Pit Bull,,U,FALSE,Bronx,10457,TRUE,0
+2057,April 26 2015,1,Pit Bull,1,F,FALSE,Bronx,10451,TRUE,0
+2058,April 26 2015,1,Bichon Frise,14,M,FALSE,Bronx,10458,FALSE,0
+2059,November 08 2014,1,Rottweiler,1,M,TRUE,Bronx,10462,TRUE,6
+2061,April 26 2015,1,Chihuahua,6M,M,FALSE,Bronx,10456,TRUE,0
+2062,April 28 2015,1,Pit Bull,5,M,FALSE,Bronx,10473,TRUE,0
+2063,April 29 2015,1,Pit Bull,5,M,FALSE,Bronx,10473,TRUE,0
+2064,April 23 2015,1,Mixed/Other,,U,FALSE,Bronx,10474,TRUE,8
+2065,May 01 2015,1,Pit Bull,8,M,FALSE,Bronx,10456,TRUE,0
+2066,April 28 2015,1,Chihuahua,12,F,FALSE,Bronx,10474,TRUE,0
+2067,April 30 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2068,April 23 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2069,May 04 2015,1,American Pit Bull Terrier/Pit Bull,1,M,FALSE,Bronx,10451,TRUE,0
+2070,May 04 2015,1,Pit Bull,,U,FALSE,Bronx,10453,TRUE,0
+2071,May 03 2015,1,SHIH TZU/ PEKINGESE,,F,FALSE,Bronx,10451,TRUE,0
+2072,May 01 2015,1,Pekingese,,U,FALSE,Bronx,10473,TRUE,0
+2073,May 05 2015,1,Mixed/Other,0.6,F,FALSE,Bronx,10451,TRUE,0
+2074,May 11 2015,1,Pit Bull,10M,M,FALSE,Bronx,10465,TRUE,0
+2075,May 05 2015,1,Chihuahua,1,M,FALSE,Bronx,10451,TRUE,0
+2076,May 12 2015,1,Yorkshire Terrier,,M,FALSE,Bronx,10451,TRUE,0
+2077,May 09 2015,1,Pekingese,4,M,FALSE,Bronx,10468,TRUE,0
+2078,May 12 2015,1,Siberian Husky,,U,FALSE,Bronx,10466,TRUE,0
+2079,May 08 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2080,May 12 2015,1,Saint Bernard,4,M,TRUE,Bronx,10465,TRUE,0
+2081,May 13 2015,1,Chihuahua,2,F,TRUE,Bronx,10473,TRUE,0
+2082,May 02 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2083,May 07 2015,1,Shih Tzu,1,F,FALSE,Bronx,10451,TRUE,0
+2084,May 13 2015,1,Pit Bull,2,F,FALSE,Bronx,10457,TRUE,0
+2085,May 15 2015,1,Doberman Pinscher,,M,FALSE,Bronx,10457,TRUE,0
+2086,May 19 2015,1,Pit Bull,5,M,FALSE,Bronx,10462,TRUE,0
+2087,May 16 2015,1,Pit Bull,,U,FALSE,Bronx,10458,FALSE,0
+2088,May 15 2015,1,Labrador Retriever,5,M,TRUE,Bronx,10464,TRUE,0
+2089,April 27 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Bronx,10453,TRUE,0
+2090,May 19 2015,1,BORDER COLLIE & AUSTRALIAN BLUE HEELER,1,M,FALSE,Bronx,10465,TRUE,0
+2091,May 20 2015,1,Chihuahua Crossbreed,1,M,FALSE,Bronx,10451,TRUE,0
+2092,May 24 2015,1,Shih Tzu,1,F,FALSE,Bronx,10451,TRUE,0
+2093,May 24 2015,1,RED NOSE PIT,2,M,TRUE,Bronx,10458,FALSE,0
+2094,May 24 2015,1,Pit Bull,,U,FALSE,Bronx,10453,TRUE,0
+2095,May 21 2015,1,Mixed/Other,,U,FALSE,Bronx,10451,TRUE,0
+2096,May 25 2015,1,American Pit Bull Terrier/Pit Bull,1,F,TRUE,Bronx,10458,FALSE,0
+2097,May 27 2015,1,Pit Bull,1,F,TRUE,Bronx,10465,TRUE,0
+2098,May 26 2015,1,Chihuahua,,U,FALSE,Bronx,10472,TRUE,0
+2099,May 27 2015,1,Pit Bull,,U,FALSE,Bronx,10470,TRUE,0
+2100,May 24 2015,1,Pekingese,8,F,TRUE,Bronx,10451,TRUE,0
+2101,May 25 2015,1,STAFFORDSHIRE TERRIER,3,M,FALSE,Bronx,10460,TRUE,0
+2102,May 27 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2103,May 25 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2104,May 22 2015,1,American Pit Bull Mix / Pit Bull Mix,4,F,TRUE,Bronx,10463,TRUE,21
+2105,May 29 2015,1,German Shepherd,,U,FALSE,Bronx,10460,TRUE,0
+2106,May 28 2015,1,Cocker Spaniel,,U,FALSE,Bronx,10451,TRUE,0
+2107,May 30 2015,1,JACK RUSS TER/ BEAGLE,4,M,TRUE,Bronx,10451,TRUE,0
+2108,May 29 2015,1,Chihuahua Crossbreed,4,M,FALSE,Bronx,10471,TRUE,10
+2109,May 29 2015,1,Pit Bull,2,M,FALSE,Bronx,10456,TRUE,0
+2110,May 29 2015,1,Pit Bull,2,M,FALSE,Bronx,10456,TRUE,0
+2111,May 29 2015,1,Pit Bull,2,M,FALSE,Bronx,10456,TRUE,0
+2112,May 28 2015,1,Yorkshire Terrier,,U,FALSE,Bronx,10451,TRUE,0
+2113,June 04 2015,1,Beagle,1,F,FALSE,Bronx,10467,TRUE,10
+2114,June 02 2015,1,Pit Bull,2,M,FALSE,Bronx,10456,TRUE,0
+2115,May 08 2015,1,Pit Bull,,U,FALSE,Bronx,10456,TRUE,0
+2116,May 01 2015,1,Pit Bull,2,F,TRUE,Bronx,10455,TRUE,0
+2117,June 06 2015,1,Basset Hound,4,M,TRUE,Bronx,10459,TRUE,0
+2118,June 07 2015,1,Chihuahua,2,M,TRUE,Bronx,10456,TRUE,0
+2119,June 06 2015,1,Mixed/Other,,U,FALSE,Bronx,10463,TRUE,21
+2120,June 05 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2121,June 06 2015,1,Maltese,8M,M,FALSE,Bronx,10458,FALSE,0
+2122,June 06 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+2123,June 07 2015,1,Pit Bull,4,M,TRUE,Bronx,10453,TRUE,0
+2124,June 08 2015,1,Maltese,11 M,F,FALSE,Bronx,10472,TRUE,0
+2125,June 04 2015,1,Rottweiler,,U,FALSE,Bronx,10466,TRUE,0
+2126,June 04 2015,1,Pit Bull,,U,FALSE,Bronx,10462,TRUE,0
+2127,May 29 2015,1,"Poodle, Standard",,U,FALSE,Bronx,10451,TRUE,0
+2128,June 06 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2129,June 05 2015,1,Pit Bull,,F,TRUE,Bronx,10457,TRUE,0
+2130,June 07 2015,1,Maltese,2,M,TRUE,Bronx,10460,TRUE,0
+2131,June 04 2015,1,SHIH TZU/POODLE,6,M,FALSE,Bronx,10462,TRUE,0
+2132,June 09 2015,1,American Pit Bull Terrier/Pit Bull,6,F,TRUE,Bronx,10451,TRUE,0
+2133,June 05 2015,1,Mixed/Other,,U,FALSE,Bronx,10451,TRUE,0
+2134,June 09 2015,1,Chihuahua,,U,FALSE,Bronx,10456,TRUE,0
+2135,June 11 2015,1,Pit Bull,,U,FALSE,Bronx,10452,TRUE,16
+2136,June 13 2015,1,POODLE- X,6,M,TRUE,Bronx,10461,TRUE,0
+2137,June 14 2015,1,Chihuahua Crossbreed,4,M,FALSE,Bronx,10451,TRUE,0
+2138,June 18 2015,1,Pit Bull,5,M,FALSE,Bronx,10456,TRUE,0
+2139,June 15 2015,1,Yorkshire Terrier,3,F,FALSE,Bronx,10470,TRUE,0
+2140,June 17 2015,1,Chihuahua,,M,FALSE,Bronx,10453,TRUE,0
+2141,June 06 2015,1,Bichon Frise,,U,FALSE,Bronx,10472,TRUE,0
+2142,June 20 2015,1,POMERANIAN ENGLISH SPANIEL,6,M,TRUE,Bronx,10451,TRUE,0
+2143,June 21 2015,1,Pit Bull,2,M,FALSE,Bronx,10460,TRUE,0
+2144,June 22 2015,1,Pit Bull,2,M,TRUE,Bronx,10451,TRUE,0
+2145,June 22 2015,1,Chihuahua,,U,FALSE,Bronx,10472,TRUE,0
+2146,June 20 2015,1,Shih Tzu,,U,FALSE,Bronx,10451,TRUE,0
+2147,June 23 2015,1,Pit Bull,,U,FALSE,Bronx,10473,TRUE,0
+2148,June 22 2015,1,BEAGLE/ ENG SPRINGER SPANIEL,1,F,TRUE,Bronx,10457,TRUE,0
+2149,June 23 2015,1,American Pit Bull Mix / Pit Bull Mix,2,M,FALSE,Bronx,10451,TRUE,0
+2150,June 23 2015,1,Maltese,4,M,TRUE,Bronx,10453,TRUE,0
+2151,June 24 2015,1,BULLDOG/ PIT BULL,5M,M,FALSE,Bronx,10451,TRUE,0
+2152,June 26 2015,1,SHIH TZU/ YORKSHIRE TERR,5,M,FALSE,Bronx,10460,TRUE,0
+2153,June 27 2015,1,Pit Bull,,U,FALSE,Bronx,10029,TRUE,10
+2154,June 28 2015,1,Pomeranian,,M,TRUE,Bronx,10453,TRUE,0
+2155,June 21 2015,1,Pit Bull,,F,FALSE,Bronx,10461,TRUE,0
+2156,June 21 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,FALSE,Bronx,10451,TRUE,0
+2157,June 30 2015,1,Miniature Pinscher,2,M,TRUE,Bronx,10451,TRUE,0
+2158,June 30 2015,1,Pit Bull,,U,FALSE,Bronx,10453,TRUE,0
+2159,July 01 2015,1,Golden Retriever,11,F,TRUE,Bronx,10463,TRUE,0
+2160,June 30 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2161,June 24 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2162,July 04 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2163,July 04 2015,1,Shih Tzu,8,M,TRUE,Bronx,10451,TRUE,0
+2164,July 04 2015,1,Beagle,9,M,FALSE,Bronx,10467,TRUE,0
+2165,July 03 2015,1,MASTIFF,3,M,FALSE,Bronx,10460,TRUE,0
+2166,July 01 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+2167,July 08 2015,1,Pit Bull,2,M,FALSE,Bronx,10456,TRUE,0
+2168,July 07 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+2169,July 07 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+2170,July 02 2015,1,Pit Bull,3,M,TRUE,Bronx,10451,TRUE,0
+2171,July 02 2015,1,"Mastiff, Bull",7,M,FALSE,Bronx,10458,FALSE,0
+2172,July 10 2015,1,TERRIER/ YORKIE,2,F,FALSE,Bronx,10458,FALSE,0
+2173,July 09 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,FALSE,Bronx,10460,TRUE,0
+2174,July 11 2015,1,American Staffordshire Terrier,4,M,FALSE,Bronx,10460,TRUE,0
+2175,July 14 2015,1,Boston Terrier,,U,FALSE,Bronx,10461,TRUE,0
+2176,July 10 2015,1,Jack Russ,11,M,TRUE,Bronx,10470,TRUE,0
+2177,July 02 2015,1,Staffordshire Bull Terrier,4,M,TRUE,Bronx,10451,TRUE,0
+2178,July 13 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2179,July 13 2015,1,BLACK MOUTH CUR,3,M,TRUE,Bronx,10465,TRUE,0
+2180,July 13 2015,1,BLACK MOUTH CUR,3,M,TRUE,Bronx,10465,TRUE,0
+2181,July 12 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2182,July 14 2015,1,Yorkshire Terrier,,U,FALSE,Bronx,10458,FALSE,0
+2183,June 11 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2184,July 15 2015,1,JACK RUSS/BULLY PIT BULL,4,M,FALSE,Bronx,10459,TRUE,0
+2185,July 16 2015,1,Pit Bull,3M,M,FALSE,Bronx,10451,TRUE,0
+2186,July 13 2015,1,MUTT,12,M,TRUE,Bronx,10451,TRUE,0
+2187,July 17 2015,1,Cock-A-Poo,2,M,TRUE,Bronx,10451,TRUE,0
+2188,July 18 2015,1,Pit Bull,,U,FALSE,Bronx,10468,TRUE,0
+2189,July 16 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Bronx,10469,TRUE,0
+2190,July 21 2015,1,American Pit Bull Terrier/Pit Bull,4,M,TRUE,Bronx,10472,TRUE,0
+2191,July 09 2015,1,AKITA/CHOW CHOW,2,M,FALSE,Bronx,10459,TRUE,0
+2192,July 19 2015,1,Pit Bull,2,M,FALSE,Bronx,10456,TRUE,0
+2193,July 11 2015,1,Pit Bull,7,M,FALSE,Bronx,10469,TRUE,0
+2194,July 21 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2195,July 17 2015,1,Cocker Spaniel,,U,FALSE,Bronx,10451,TRUE,0
+2196,July 17 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2197,July 17 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2198,July 22 2015,1,TERRIER,,U,FALSE,Bronx,10451,TRUE,0
+2199,July 26 2015,1,Chihuahua,,M,FALSE,Bronx,10451,TRUE,0
+2200,July 23 2015,1,German Shepherd,1,M,TRUE,Bronx,10451,TRUE,0
+2201,July 27 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+2202,July 22 2015,1,Maltese,,U,FALSE,Bronx,10463,TRUE,0
+2203,July 18 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2204,August 01 2015,1,Shih Tzu,6,M,FALSE,Bronx,10451,TRUE,0
+2205,August 02 2015,1,Pit Bull,7,M,FALSE,Bronx,10463,TRUE,0
+2206,August 01 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2207,August 02 2015,1,Shih Tzu,4,M,FALSE,Bronx,10467,TRUE,0
+2208,July 30 2015,1,American Staffordshire Terrier,3,M,FALSE,Bronx,10451,TRUE,0
+2209,July 31 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2210,July 27 2015,1,Chihuahua,7,F,FALSE,Bronx,10460,TRUE,0
+2211,August 06 2015,1,Beagle,6,M,TRUE,Bronx,10461,TRUE,0
+2212,August 06 2015,1,Chihuahua,4,M,FALSE,Bronx,10451,TRUE,0
+2213,July 15 2015,1,PITBULL/LABRADOR,7M,M,FALSE,Bronx,10451,TRUE,0
+2214,August 07 2015,1,Maltese,10,M,FALSE,Bronx,10451,TRUE,0
+2215,August 05 2015,1,Chihuahua,5,M,FALSE,Bronx,10452,TRUE,0
+2216,August 02 2015,1,Saint Bernard,4,M,FALSE,Bronx,10471,TRUE,0
+2217,August 11 2015,1,Mixed/Other,,U,FALSE,Bronx,10451,TRUE,0
+2218,August 09 2015,1,HUSKY,,U,FALSE,Bronx,10451,TRUE,0
+2219,August 11 2015,1,Bull dog,1,M,TRUE,Bronx,10459,TRUE,0
+2220,August 12 2015,1,Pit Bull,4,M,TRUE,Bronx,10458,FALSE,0
+2221,August 10 2015,1,Shih Tzu,,U,FALSE,Bronx,10456,TRUE,0
+2222,August 11 2015,1,"Bull Dog, English",1,M,TRUE,Bronx,10459,TRUE,0
+2223,August 11 2015,1,Mixed/Other,,U,FALSE,Bronx,10451,TRUE,0
+2224,July 30 2015,1,Pit Bull,,U,FALSE,Bronx,10455,TRUE,0
+2225,August 13 2015,1,Pit Bull,,U,FALSE,Bronx,10467,TRUE,0
+2226,August 08 2015,1,AUSTRALIAN SHEP/DALMATION/PITBULL,3,M,TRUE,Bronx,10472,TRUE,0
+2227,August 15 2015,1,BEAGLE/BLUETICK HOUND,8M,M,FALSE,Bronx,10465,TRUE,0
+2228,August 17 2015,1,Cocker Spaniel,3,M,TRUE,Bronx,10451,TRUE,0
+2229,August 15 2015,1,Pit Bull,,U,FALSE,Bronx,10468,TRUE,0
+2230,August 08 2015,1,German Shepherd,5,F,TRUE,Bronx,10469,TRUE,0
+2231,August 15 2015,1,Pit Bull,,U,FALSE,Bronx,10468,TRUE,0
+2232,August 14 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2233,August 09 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2234,August 18 2015,1,Shih Tzu,4,M,FALSE,Bronx,10458,FALSE,0
+2235,August 14 2015,1,Pit Bull,4,M,FALSE,Bronx,10457,TRUE,0
+2236,August 17 2015,1,Pit Bull,4,M,FALSE,Bronx,10455,TRUE,0
+2237,August 18 2015,1,Chihuahua,2,M,FALSE,Bronx,10460,TRUE,0
+2238,August 18 2015,1,Yorkshire Terrier,,U,FALSE,Bronx,10451,TRUE,0
+2239,August 20 2015,1,Rottweiler,2.5,M,FALSE,Bronx,10451,TRUE,0
+2240,August 23 2015,1,Pit Bull,,U,FALSE,Bronx,10470,TRUE,0
+2241,August 23 2015,1,Pit Bull,1,F,FALSE,Bronx,10451,TRUE,0
+2242,August 24 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2243,August 22 2015,1,Shih Tzu,2,F,FALSE,Bronx,10475,TRUE,0
+2244,August 22 2015,1,RAT TERRIER,11,M,FALSE,Bronx,10467,TRUE,0
+2245,August 25 2015,1,Mixed/Other,,U,FALSE,Bronx,10453,TRUE,0
+2246,August 25 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2247,August 25 2015,1,Bull dog,11,F,TRUE,Bronx,10461,TRUE,0
+2248,August 26 2015,1,Yorkshire Terrier,2.5,M,FALSE,Bronx,10459,TRUE,0
+2249,August 25 2015,1,Mixed/Other,,U,FALSE,Bronx,10456,TRUE,0
+2250,August 30 2015,1,Chihuahua,,U,FALSE,Bronx,10452,TRUE,0
+2251,August 30 2015,1,Cocker Spaniel,6,F,FALSE,Bronx,10465,TRUE,0
+2252,August 22 2015,1,Pit Bull,,U,FALSE,Bronx,10467,TRUE,0
+2253,August 28 2015,1,Chihuahua Crossbreed,2,M,FALSE,Bronx,10451,TRUE,0
+2254,August 31 2015,1,Pit Bull,3,M,FALSE,Bronx,10453,TRUE,0
+2255,August 29 2015,1,Yorkshire Terrier,,M,TRUE,Bronx,10453,TRUE,0
+2256,August 18 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2257,August 31 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2258,September 01 2015,1,Maltese,,U,FALSE,Bronx,10453,TRUE,0
+2260,September 03 2015,1,Pit Bull,,M,FALSE,Bronx,10469,TRUE,0
+2261,September 03 2015,1,Maltese,,U,FALSE,Bronx,10451,TRUE,0
+2262,September 05 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2263,September 07 2015,1,Shih Tzu,5,M,FALSE,Bronx,10468,TRUE,0
+2264,September 04 2015,1,"Poodle, Standard",,F,FALSE,Bronx,10453,TRUE,0
+2265,September 07 2015,1,PITBULL MIX,,U,FALSE,Bronx,10463,TRUE,0
+2266,September 08 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2267,September 08 2015,1,Chow Chow,,U,FALSE,Bronx,10451,TRUE,0
+2268,September 09 2015,1,SCHNAUZER/MALTESE,4,M,TRUE,Bronx,10463,TRUE,0
+2269,September 08 2015,1,Lhasa Apso,6.5 YRS,F,FALSE,Bronx,10467,TRUE,0
+2270,September 09 2015,1,Pit Bull,,F,TRUE,Bronx,10451,TRUE,0
+2271,September 08 2015,1,Chow Chow,,U,FALSE,Bronx,10451,TRUE,0
+2272,September 11 2015,1,American Pit Bull Mix / Pit Bull Mix,3,F,FALSE,Bronx,10458,FALSE,0
+2273,September 11 2015,1,American Pit Bull Mix / Pit Bull Mix,3,M,FALSE,Bronx,10458,FALSE,0
+2274,September 08 2015,1,Pit Bull,5,M,FALSE,Bronx,10454,TRUE,0
+2275,September 10 2015,1,Chihuahua,11,M,TRUE,Bronx,10451,TRUE,0
+2276,September 11 2015,1,American Pit Bull Mix / Pit Bull Mix,3,U,FALSE,Bronx,10458,FALSE,0
+2277,September 08 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2278,September 12 2015,1,Chihuahua,,U,FALSE,Bronx,10451,TRUE,0
+2279,September 13 2015,1,Mixed/Other,2,F,FALSE,Bronx,10451,TRUE,0
+2280,September 11 2015,1,Chihuahua,,U,FALSE,Bronx,10452,TRUE,0
+2281,August 31 2015,1,Pit Bull,,U,FALSE,Bronx,10456,TRUE,0
+2282,September 09 2015,1,CHIHUAHUA- X,1,F,FALSE,Bronx,10462,TRUE,0
+2284,September 17 2015,1,"Poodle, Standard",,M,FALSE,Bronx,10453,TRUE,0
+2285,September 18 2015,1,Pit Bull,1,M,FALSE,Bronx,10451,TRUE,0
+2286,September 20 2015,1,CATTLE DOG,4,M,TRUE,Bronx,10476,TRUE,0
+2287,September 19 2015,1,Shih Tzu,,U,FALSE,Bronx,10451,TRUE,0
+2288,September 20 2015,1,Bull dog,,U,FALSE,Bronx,10451,TRUE,0
+2289,September 22 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2290,September 11 2015,1,CORGI MIX,5,M,FALSE,Bronx,10451,TRUE,0
+2291,September 23 2015,1,Bull dog,3,F,TRUE,Bronx,10458,FALSE,0
+2292,September 21 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2293,September 25 2015,1,Pit Bull,,U,FALSE,Bronx,10457,TRUE,0
+2294,September 28 2015,1,Pit Bull,1,M,FALSE,Bronx,10470,TRUE,0
+2295,September 17 2015,1,Bull dog,,U,FALSE,Bronx,10462,TRUE,6
+2296,September 26 2015,1,Pit Bull,2018-03-04T00:00:00.000,F,FALSE,Bronx,10475,TRUE,0
+2297,September 29 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Bronx,10462,TRUE,0
+2298,September 23 2015,1,American Pit Bull Terrier/Pit Bull,10,F,FALSE,Bronx,10465,TRUE,0
+2299,September 23 2015,1,BLUE NOSE PIT BULL,3,M,TRUE,Bronx,10465,TRUE,0
+2300,September 24 2015,1,Pit Bull,,U,FALSE,Bronx,10463,TRUE,0
+2301,July 17 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2302,September 29 2015,1,Bull dog,2,M,FALSE,Bronx,10459,TRUE,0
+2303,September 30 2015,1,Yorkshire Terrier,,M,FALSE,Bronx,10451,TRUE,0
+2304,September 07 2015,1,Shih Tzu,1,M,FALSE,Bronx,10465,TRUE,0
+2305,October 03 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2306,October 03 2015,1,Shih Tzu,4,F,FALSE,Bronx,10465,TRUE,0
+2307,June 02 2015,1,German Shepherd,,U,FALSE,Bronx,10458,FALSE,0
+2308,October 06 2015,1,TERRIER,,U,FALSE,Bronx,10455,TRUE,0
+2309,October 09 2015,1,Rottweiler,6,M,TRUE,Bronx,10471,TRUE,0
+2310,October 08 2015,1,Pit Bull,,U,FALSE,Bronx,10457,TRUE,0
+2311,October 09 2015,1,Pit Bull,2,F,FALSE,Bronx,10467,TRUE,0
+2312,October 12 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2313,October 10 2015,1,Pit Bull,5,F,TRUE,Bronx,10467,TRUE,0
+2314,October 10 2015,1,PIT BULL MIXED,5,F,TRUE,Bronx,10467,TRUE,0
+2315,October 19 2015,1,Rottweiler,,U,FALSE,Bronx,10459,TRUE,0
+2316,October 08 2015,1,Pit Bull,4,M,FALSE,Bronx,10473,TRUE,0
+2317,October 04 2015,1,German Shepherd,,U,FALSE,Bronx,10467,TRUE,0
+2318,October 14 2015,1,Pit Bull,,U,FALSE,Bronx,10462,TRUE,0
+2319,October 13 2015,1,ALASKA HUSKY,,U,FALSE,Bronx,10451,TRUE,0
+2320,October 17 2015,1,Pit Bull,4,F,TRUE,Bronx,10451,TRUE,0
+2321,October 18 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+2322,October 19 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2323,October 16 2015,1,German Shepherd Crossbreed,8,M,FALSE,Bronx,10451,TRUE,0
+2324,September 28 2015,1,Pit Bull,1,M,FALSE,Bronx,10470,TRUE,0
+2325,October 21 2015,1,Pit Bull,,U,FALSE,Bronx,10460,TRUE,0
+2326,October 23 2015,1,Pit Bull,3,M,TRUE,Bronx,10466,TRUE,0
+2327,October 23 2015,1,MINI DOBERMAN,,U,FALSE,Bronx,10468,TRUE,0
+2328,October 24 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2329,October 26 2015,1,Chihuahua,,U,FALSE,Bronx,10468,TRUE,0
+2330,October 23 2015,1,Rottweiler,,U,FALSE,Bronx,10457,TRUE,0
+2331,October 27 2015,1,Rottweiler,,U,FALSE,Bronx,10451,TRUE,0
+2332,October 15 2015,1,Chihuahua,6,M,FALSE,Bronx,10461,TRUE,0
+2333,October 27 2015,1,American Pit Bull Mix / Pit Bull Mix,3,M,FALSE,Bronx,10451,TRUE,0
+2334,October 27 2015,1,Mixed/Other,,U,FALSE,Bronx,10468,TRUE,0
+2335,November 01 2015,1,Pit Bull,,U,FALSE,Bronx,10475,TRUE,0
+2336,October 26 2015,1,Bull dog,,U,FALSE,Bronx,10474,TRUE,0
+2337,November 04 2015,1,Shih Tzu,16,M,TRUE,Bronx,10455,TRUE,0
+2338,November 01 2015,1,Chihuahua,,U,FALSE,Bronx,10453,TRUE,0
+2339,November 04 2015,1,Chihuahua,13,M,TRUE,Bronx,10454,TRUE,0
+2340,November 04 2015,1,American Pit Bull Terrier/Pit Bull,2,M,FALSE,Bronx,10473,TRUE,0
+2341,October 30 2015,1,Maltese,1,M,FALSE,Bronx,10456,TRUE,0
+2342,October 30 2015,1,Maltese,4,M,FALSE,Bronx,10451,TRUE,0
+2343,November 08 2015,1,Pit Bull,,U,FALSE,Bronx,10456,TRUE,0
+2344,November 05 2015,1,American Pit Bull Mix / Pit Bull Mix,2,M,TRUE,Bronx,10462,TRUE,0
+2345,November 06 2015,1,Mixed/Other,,U,FALSE,Bronx,10451,TRUE,0
+2346,November 07 2015,1,Yorkshire Terrier,1,M,FALSE,Bronx,10472,TRUE,0
+2347,November 07 2015,1,POODLE CHIHUAHUA,6,F,TRUE,Bronx,10466,TRUE,0
+2348,November 06 2015,1,American Pit Bull Terrier/Pit Bull,3,M,TRUE,Bronx,10463,TRUE,0
+2349,October 31 2015,1,German Shepherd Crossbreed,6,M,TRUE,Bronx,10473,TRUE,0
+2350,November 04 2015,1,Pit Bull,2,M,FALSE,Bronx,10464,TRUE,0
+2351,November 04 2015,1,Pit Bull,1,F,TRUE,Bronx,10464,TRUE,0
+2352,November 10 2015,1,Pit Bull,5,M,FALSE,Bronx,10460,TRUE,0
+2353,November 07 2015,1,American Pit Bull Mix / Pit Bull Mix,4,M,FALSE,Bronx,10454,TRUE,0
+2354,November 11 2015,1,Shih Tzu,,U,FALSE,Bronx,10472,TRUE,0
+2355,November 12 2015,1,Pit Bull,8,F,TRUE,Bronx,10470,TRUE,0
+2356,November 02 2015,1,Pit Bull,,U,FALSE,Bronx,10458,FALSE,0
+2357,September 29 2015,1,Pit Bull,,U,FALSE,Bronx,10460,TRUE,0
+2358,September 29 2015,1,Pit Bull,,U,FALSE,Bronx,10460,TRUE,0
+2359,November 05 2015,1,Pit Bull,,U,FALSE,Bronx,10453,TRUE,0
+2360,November 06 2015,1,Pit Bull,,F,FALSE,Bronx,10469,TRUE,0
+2361,November 15 2015,1,Pit Bull,4,M,FALSE,Bronx,10451,TRUE,0
+2362,November 14 2015,1,YORKY-POODLE,2,U,FALSE,Bronx,10453,TRUE,0
+2363,November 16 2015,1,HUSKY,,U,FALSE,Bronx,10451,TRUE,0
+2364,November 13 2015,1,Pit Bull,,U,FALSE,Bronx,10456,TRUE,0
+2365,November 13 2015,1,American Pit Bull Mix / Pit Bull Mix,4,M,TRUE,Bronx,10472,TRUE,0
+2366,November 17 2015,1,Wheaton Terrier,2,M,FALSE,Bronx,10463,TRUE,21
+2367,November 18 2015,1,Rottweiler,,U,FALSE,Bronx,10456,TRUE,0
+2368,November 17 2015,1,Silky Terrier,6,M,TRUE,Bronx,10463,TRUE,0
+2369,November 11 2015,1,Pit Bull,,U,FALSE,Bronx,10459,TRUE,0
+2370,November 19 2015,1,Pit Bull,,U,FALSE,Bronx,10457,TRUE,0
+2371,November 23 2015,1,Pit Bull,,U,FALSE,Bronx,10456,TRUE,0
+2372,November 22 2015,1,Chihuahua,2,F,FALSE,Bronx,10458,FALSE,0
+2373,November 23 2015,1,Pit Bull,2,M,FALSE,Bronx,10473,TRUE,0
+2374,November 22 2015,1,Labrador Retriever Crossbreed,10,F,FALSE,Bronx,10465,TRUE,0
+2375,November 21 2015,1,Pit Bull,8M,M,FALSE,Bronx,10451,TRUE,0
+2376,November 23 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,FALSE,Bronx,10467,TRUE,0
+2377,November 27 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2378,November 28 2015,1,Pit Bull,,U,FALSE,Bronx,10455,TRUE,0
+2379,November 25 2015,1,Jack Russ,,M,FALSE,Bronx,10466,TRUE,0
+2380,November 03 2015,1,Pit Bull,,U,FALSE,Bronx,10472,TRUE,0
+2381,November 27 2015,1,Pomeranian,,M,FALSE,Bronx,10466,TRUE,0
+2382,November 26 2015,1,Pit Bull,5,F,FALSE,Bronx,10468,TRUE,0
+2383,December 01 2015,1,Pit Bull,,M,FALSE,Bronx,10451,TRUE,0
+2384,December 01 2015,1,"Poodle, Toy",3,M,FALSE,Bronx,10458,FALSE,0
+2385,December 03 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2386,December 06 2015,1,American Pit Bull Mix / Pit Bull Mix,2,M,FALSE,Bronx,10453,TRUE,0
+2387,November 07 2015,1,German Shepherd Crossbreed,1,F,FALSE,Bronx,10451,TRUE,0
+2388,November 22 2015,1,Pit Bull,,U,FALSE,Bronx,10460,TRUE,0
+2389,December 07 2015,1,American Pit Bull Mix / Pit Bull Mix,7,M,FALSE,Bronx,10451,TRUE,0
+2390,December 05 2015,1,Beagle Crossbreed,6,M,TRUE,Bronx,10467,TRUE,0
+2391,December 06 2015,1,Beagle Crossbreed,6,M,TRUE,Bronx,10467,TRUE,0
+2392,December 05 2015,1,"Poodle, Toy",,U,FALSE,Bronx,10463,TRUE,0
+2393,December 04 2015,1,Pit Bull,3M,F,FALSE,Bronx,10458,FALSE,0
+2394,December 09 2015,1,Chihuahua Crossbreed,7,F,FALSE,Bronx,10453,TRUE,0
+2395,December 05 2015,1,Pit Bull,1,F,TRUE,Bronx,10451,TRUE,0
+2396,December 11 2015,1,American Pit Bull Mix / Pit Bull Mix,3,M,FALSE,Bronx,10457,TRUE,0
+2397,December 14 2015,1,"Poodle, Standard",,U,FALSE,Bronx,10451,TRUE,0
+2398,December 12 2015,1,"Poodle, Standard",7,F,FALSE,Bronx,10451,TRUE,0
+2399,December 11 2015,1,Shih Tzu,,U,FALSE,Bronx,10456,TRUE,0
+2400,December 11 2015,1,Pit Bull,,U,FALSE,Bronx,10473,TRUE,0
+2401,December 12 2015,1,Pit Bull,2,M,TRUE,Bronx,10451,TRUE,0
+2402,December 14 2015,1,Pit Bull,3,M,FALSE,Bronx,10463,TRUE,0
+2403,December 07 2015,1,"Schnauzer, Miniature",3,M,TRUE,Bronx,10467,TRUE,0
+2404,December 12 2015,1,German Shepherd,,U,FALSE,Bronx,10470,TRUE,0
+2405,December 15 2015,1,American Pit Bull Mix / Pit Bull Mix,1,F,FALSE,Bronx,10455,TRUE,0
+2406,December 06 2015,1,American Pit Bull Mix / Pit Bull Mix,1,F,FALSE,Bronx,10455,TRUE,0
+2407,December 16 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2408,December 08 2015,1,Boxer,,M,FALSE,Bronx,10461,TRUE,0
+2409,December 15 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2410,December 14 2015,1,Pit Bull,2,M,FALSE,Bronx,10468,TRUE,0
+2411,December 17 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2412,December 20 2015,1,Pit Bull,,U,FALSE,Bronx,10458,FALSE,0
+2413,December 20 2015,1,Mixed/Other,,U,FALSE,Bronx,10468,TRUE,0
+2414,December 16 2015,1,Pit Bull,,M,TRUE,Bronx,10451,TRUE,0
+2415,December 22 2015,1,Labrador Retriever Crossbreed,2,M,FALSE,Bronx,10466,TRUE,0
+2416,December 21 2015,1,Bichon Frise,12,F,TRUE,Bronx,10466,TRUE,0
+2417,December 22 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2418,December 23 2015,1,Beagle,2,M,FALSE,Bronx,10462,TRUE,0
+2419,December 24 2015,1,GERMAN SHEP/ ROTTWEILER,10M,M,FALSE,Bronx,10467,TRUE,0
+2420,December 26 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2421,December 30 2015,1,Maltese,2,M,FALSE,Bronx,10451,TRUE,0
+2422,December 29 2015,1,Pit Bull,1,M,FALSE,Bronx,10473,TRUE,0
+2423,December 13 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2424,December 31 2015,1,Yorkshire Terrier,6,M,TRUE,Bronx,10471,TRUE,0
+2427,December 30 2015,1,American Pit Bull Mix / Pit Bull Mix,3,F,FALSE,Bronx,10468,TRUE,0
+2428,December 31 2015,1,Mixed/Other,7,M,TRUE,Bronx,10467,TRUE,0
+2430,December 31 2015,1,Pit Bull,,U,FALSE,Bronx,10451,TRUE,0
+2431,December 31 2015,1,Pit Bull,7,F,TRUE,Bronx,10466,TRUE,0
+2433,December 31 2015,1,SHEPHERD,,U,FALSE,Bronx,10451,TRUE,0
+2436,December 13 2015,1,MUTT X,,U,FALSE,Bronx,10464,TRUE,0
+2437,December 13 2015,1,MUTT X,,U,FALSE,Bronx,10464,TRUE,0
+2438,December 31 2015,1,Great Dane,,U,FALSE,Bronx,10451,TRUE,0
+2440,December 26 2015,1,Pit Bull,12,M,FALSE,Bronx,10456,TRUE,0
+2443,December 25 2015,1,Shih Tzu,,U,FALSE,Bronx,10451,TRUE,0
+2460,January 22 2015,1,Chihuahua,,U,FALSE,Bronx,10452,TRUE,0
+3455,January 20 2015,1,Chow Chow,7M,M,TRUE,Manhattan,10065,TRUE,1
+3456,January 28 2015,1,Cane Corso,,U,FALSE,Manhattan,10001,TRUE,6
+3457,January 28 2015,1,Miniature Pinscher,,U,FALSE,Manhattan,10001,TRUE,0
+3458,January 31 2015,1,Labrador Retriever Crossbreed,5,M,FALSE,Manhattan,10034,TRUE,13
+3459,February 02 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+3460,February 02 2015,1,JACK RUSSELL MIX,2,M,TRUE,Manhattan,10001,TRUE,0
+3461,February 03 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3462,January 31 2015,1,Labrador Retriever Crossbreed,4,M,FALSE,Manhattan,10032,TRUE,11
+3463,February 04 2015,1,Jack Russ,,U,FALSE,Manhattan,10002,TRUE,22
+3464,February 04 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,FALSE,Manhattan,10029,TRUE,23
+3465,February 09 2015,1,Pit Bull,11M,M,FALSE,Manhattan,10033,TRUE,6
+3466,February 09 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,TRUE,Manhattan,10065,TRUE,0
+3467,February 06 2015,1,Labrador Retriever,6,F,FALSE,Manhattan,10001,TRUE,0
+3468,February 07 2015,1,Pit Bull,8M,M,FALSE,Manhattan,10026,TRUE,7
+3469,February 07 2015,1,Pit Bull,8M,M,FALSE,Manhattan,10026,TRUE,0
+3470,February 06 2015,1,Mixed/Other,,M,FALSE,Manhattan,10001,TRUE,0
+3471,February 10 2015,1,VICTORIAN BULLDOG,8M,M,FALSE,Manhattan,10035,TRUE,16
+3472,February 08 2015,1,Shih Tzu,1,F,FALSE,Manhattan,10030,TRUE,4
+3473,January 23 2015,1,"Poodle, Toy",,U,FALSE,Manhattan,10017,TRUE,1
+3474,February 06 2015,1,American Eskimo,10,F,TRUE,Manhattan,10016,TRUE,1
+3475,February 09 2015,1,Chihuahua Crossbreed,1,M,TRUE,Manhattan,10025,TRUE,9
+3476,February 11 2015,1,American Pit Bull Terrier/Pit Bull,5,M,FALSE,Manhattan,10038,TRUE,5
+3477,February 08 2015,1,Cane Corso,6,M,TRUE,Manhattan,10010,TRUE,5
+3478,February 12 2015,1,Collie Crossbreed,13M,M,TRUE,Manhattan,10022,TRUE,2
+3479,February 14 2015,1,PODENGO PEQUENO/MIX,2,M,FALSE,Manhattan,10002,TRUE,0
+3480,February 13 2015,1,"Welsh Corgi, Pembroke",3,M,TRUE,Manhattan,10034,TRUE,0
+3481,February 17 2015,1,PODENGO PEQUENO/MIX,2,M,FALSE,Manhattan,10029,TRUE,0
+3482,February 17 2015,1,"Poodle, Standard",9,F,TRUE,Manhattan,10022,TRUE,0
+3483,February 14 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10001,TRUE,0
+3484,February 05 2015,1,Chihuahua,,U,FALSE,Manhattan,10001,TRUE,0
+3485,February 19 2015,1,PITBULL/ LAB,2,M,FALSE,Manhattan,10044,TRUE,6
+3486,February 20 2015,1,Collie Crossbreed,6,M,TRUE,Manhattan,10023,TRUE,15
+3487,February 23 2015,1,Collie Crossbreed,6,M,FALSE,Manhattan,10023,TRUE,0
+3488,February 20 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3489,February 14 2015,1,Pit Bull,,U,FALSE,Manhattan,10039,TRUE,3
+3490,February 23 2015,1,Lhasa Apso,1,M,FALSE,Manhattan,10029,TRUE,0
+3491,February 19 2015,1,PITBULL/RHODESIAN,4,M,TRUE,Manhattan,10021,TRUE,2
+3492,March 01 2015,1,Beagle,,U,FALSE,Manhattan,10001,TRUE,0
+3493,March 01 2015,1,LAB MIX,3M,M,FALSE,Manhattan,10016,TRUE,0
+3494,February 27 2015,1,Bull dog,,U,FALSE,Manhattan,10032,TRUE,0
+3495,February 27 2015,1,Akita,7,F,FALSE,Manhattan,10027,TRUE,10
+3496,March 03 2015,1,STAFFORDSHIRE MIX,3,M,FALSE,Manhattan,10038,TRUE,0
+3497,March 03 2015,1,STAFFORDSHIRE MIX,3,M,FALSE,Manhattan,10038,TRUE,0
+3498,March 03 2015,1,STAFFORDSHIRE MIX,3,M,FALSE,Manhattan,10038,TRUE,0
+3499,March 03 2015,1,STAFFORDSHIRE MIX,3,M,FALSE,Manhattan,10038,TRUE,0
+3500,March 05 2015,1,Bichon Frise,2,M,FALSE,Manhattan,10025,TRUE,0
+3501,March 06 2015,1,Labrador Retriever,2,M,FALSE,Manhattan,10029,TRUE,0
+3502,March 06 2015,1,Cairn Terrier,1,F,TRUE,Manhattan,10065,TRUE,0
+3503,March 07 2015,1,SHIH TZU MIX,,U,FALSE,Manhattan,10003,TRUE,9
+3504,March 06 2015,1,MUTT,1,M,TRUE,Manhattan,10001,TRUE,0
+3505,March 07 2015,1,AUSTRALIAN CATTLE MIX,,U,TRUE,Manhattan,10016,TRUE,0
+3506,March 09 2015,1,American Pit Bull Mix / Pit Bull Mix,1,F,FALSE,Manhattan,10001,TRUE,0
+3507,March 07 2015,1,SHEPHERD,,U,FALSE,Manhattan,10009,TRUE,5
+3508,March 12 2015,1,Pit Bull,5,F,TRUE,Manhattan,10010,TRUE,0
+3509,March 12 2015,1,Boston Terrier,5,M,TRUE,Manhattan,10001,TRUE,0
+3510,March 11 2015,1,Maltese,,U,FALSE,Manhattan,10021,TRUE,0
+3511,March 13 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,TRUE,Manhattan,10029,TRUE,0
+3512,March 16 2015,1,Pit Bull,,U,FALSE,Manhattan,10035,TRUE,0
+3513,March 15 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3514,March 14 2015,1,COLLIE-PITBULL,,U,FALSE,Manhattan,10001,TRUE,0
+3515,March 16 2015,1,AMERICAN BULLDOG,3,F,TRUE,Manhattan,10003,TRUE,0
+3516,March 11 2015,1,CHOW/GOLDEN RETRIEVER,7,M,TRUE,Manhattan,10065,TRUE,0
+3517,March 16 2015,1,Puggle,9,M,TRUE,Manhattan,10001,TRUE,0
+3518,March 18 2015,1,Havanese,9,M,TRUE,Manhattan,10014,TRUE,8
+3519,March 13 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10001,TRUE,0
+3520,March 17 2015,1,Shih Tzu,,U,FALSE,Manhattan,10014,TRUE,0
+3521,March 18 2015,1,Maltese,1,F,FALSE,Manhattan,10001,TRUE,0
+3522,March 13 2015,1,BORDER COLLIE MIX,3,F,TRUE,Manhattan,10025,TRUE,0
+3523,March 15 2015,1,Jack Russ,,U,FALSE,Manhattan,10025,TRUE,0
+3524,March 21 2015,1,DACHSHUND,11,F,TRUE,Manhattan,10016,TRUE,0
+3525,March 21 2015,1,Great Dane,,U,FALSE,Manhattan,10001,TRUE,0
+3526,March 23 2015,1,Norwich Terrier,2,M,FALSE,Manhattan,10021,TRUE,0
+3527,March 17 2015,1,Pit Bull,,F,FALSE,Manhattan,10039,TRUE,0
+3528,March 21 2015,1,"Bull Dog, French",10,M,FALSE,Manhattan,10001,TRUE,0
+3529,March 21 2015,1,Pit Bull,10,M,FALSE,Manhattan,10033,TRUE,0
+3530,March 25 2015,1,Shih Tzu,10,M,FALSE,Manhattan,10128,TRUE,15
+3531,March 25 2015,1,CORGI,,U,FALSE,Manhattan,10002,TRUE,0
+3532,March 25 2015,1,Chihuahua,,U,FALSE,Manhattan,10001,TRUE,0
+3533,March 25 2015,1,Yorkshire Terrier,,U,FALSE,Manhattan,10128,TRUE,0
+3534,March 26 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3535,March 25 2015,1,Maltese,3,F,FALSE,Manhattan,10029,TRUE,0
+3536,March 24 2015,1,Shih Tzu,1,M,TRUE,Manhattan,10001,TRUE,0
+3537,March 18 2015,1,Pit Bull,,U,FALSE,Manhattan,10025,TRUE,0
+3538,March 18 2015,1,Pit Bull,,U,FALSE,Manhattan,10025,TRUE,0
+3539,March 26 2015,1,Pit Bull,1,F,FALSE,Manhattan,10029,TRUE,0
+3540,March 30 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3541,March 17 2015,1,Pit Bull,5,F,TRUE,Manhattan,10001,TRUE,0
+3542,March 15 2015,1,German Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+3543,March 26 2015,1,Bull dog,10,M,FALSE,Manhattan,10017,TRUE,2
+3544,April 01 2015,1,Bichon Frise,1,F,TRUE,Manhattan,10022,TRUE,0
+3545,February 27 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10001,TRUE,0
+3546,March 31 2015,1,DANDIE DINMONT TERRIER,1,M,FALSE,Manhattan,10065,TRUE,0
+3547,April 03 2015,1,Cocker Spaniel,,U,FALSE,Manhattan,10001,TRUE,0
+3548,April 02 2015,1,Pit Bull,,U,FALSE,Manhattan,10039,TRUE,0
+3549,March 31 2015,1,"Dachshund, Long Haired",2,M,TRUE,Manhattan,10013,TRUE,6
+3550,April 01 2015,1,BASENJI MIX,10,M,TRUE,Manhattan,10001,TRUE,0
+3551,March 31 2015,1,Yorkshire Terrier,4,M,FALSE,Manhattan,10027,TRUE,0
+3552,April 01 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3553,April 04 2015,1,Pit Bull,2,M,FALSE,Manhattan,10001,TRUE,0
+3554,April 05 2015,1,Pit Bull,4,F,FALSE,Manhattan,10001,TRUE,0
+3555,April 05 2015,1,Maltese,,F,FALSE,Manhattan,10001,TRUE,0
+3556,April 04 2015,1,Shiba Inu,1,M,TRUE,Manhattan,10011,TRUE,12
+3557,April 06 2015,1,Pit Bull,1,M,FALSE,Manhattan,10028,TRUE,1
+3558,February 27 2015,1,BLACK MOUTH CUR,4,M,FALSE,Manhattan,10029,TRUE,0
+3559,April 05 2015,1,Labrador Retriever Crossbreed,3,M,FALSE,Manhattan,10001,TRUE,0
+3560,March 29 2015,1,Pit Bull,,U,FALSE,Manhattan,10029,TRUE,0
+3561,April 04 2015,1,German Shepherd,2,M,TRUE,Manhattan,10128,TRUE,0
+3562,April 04 2015,1,Chihuahua,5,M,FALSE,Manhattan,10032,TRUE,0
+3563,April 05 2015,1,Jack Russ,6,M,FALSE,Manhattan,10001,TRUE,0
+3564,April 05 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3565,April 01 2015,1,American Pit Bull Mix / Pit Bull Mix,1,F,FALSE,Manhattan,10001,TRUE,0
+3566,April 07 2015,1,Belgian Malinois,3,M,TRUE,Manhattan,10001,TRUE,0
+3567,April 10 2015,1,German Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+3568,April 03 2015,1,Cocker Spaniel,,U,FALSE,Manhattan,10065,TRUE,0
+3569,April 10 2015,1,West High White Terrier,2,M,FALSE,Manhattan,10001,TRUE,0
+3570,April 12 2015,1,Pit Bull,3,M,FALSE,Manhattan,10001,TRUE,0
+3571,April 02 2015,1,American Pit Bull Terrier/Pit Bull,2,M,FALSE,Manhattan,10032,TRUE,0
+3572,April 12 2015,1,Pit Bull,3,M,FALSE,Manhattan,10001,TRUE,0
+3573,April 06 2015,1,Rottweiler,,M,FALSE,Manhattan,10128,TRUE,0
+3574,April 12 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3575,March 31 2015,1,Chihuahua,3,M,FALSE,Manhattan,10065,TRUE,0
+3576,April 12 2015,1,MALINOIS,,M,FALSE,Manhattan,10011,TRUE,0
+3577,April 08 2015,1,Chihuahua,5,M,TRUE,Manhattan,10001,TRUE,0
+3578,April 12 2015,1,"Schnauzer, Standard",,U,FALSE,Manhattan,10009,TRUE,0
+3579,April 01 2015,1,Lhasa Apso,7,M,TRUE,Manhattan,10002,TRUE,0
+3580,April 15 2015,1,"Bull Dog, French",,U,FALSE,Manhattan,10007,TRUE,6
+3581,April 15 2015,1,Pit Bull,,F,FALSE,Manhattan,10029,TRUE,0
+3582,April 15 2015,1,Yorkshire Terrier,12,F,TRUE,Manhattan,10027,TRUE,0
+3583,April 16 2015,1,Labrador Retriever Crossbreed,2,F,TRUE,Manhattan,10001,TRUE,0
+3584,April 18 2015,1,Mixed/Other,6,M,TRUE,Manhattan,10001,TRUE,0
+3585,April 19 2015,1,BOXER MIX,6,M,TRUE,Manhattan,10001,TRUE,0
+3586,April 19 2015,1,Lhasa Apso,2,M,FALSE,Manhattan,10031,TRUE,7
+3587,April 20 2015,1,Chihuahua,6,M,FALSE,Manhattan,10035,TRUE,3
+3588,April 20 2015,1,CHIHUAHUA/ JACK RUSSELL TERRIER,5,M,FALSE,Manhattan,10001,TRUE,0
+3589,April 20 2015,1,DASCHOUND,,U,FALSE,Manhattan,10001,TRUE,0
+3590,April 20 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3591,April 19 2015,1,SHEPERD,1,M,TRUE,Manhattan,10001,TRUE,0
+3592,April 05 2015,1,Shih Tzu,6,M,TRUE,Manhattan,10002,TRUE,0
+3593,April 14 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3594,April 11 2015,1,Labrador Retriever,10,M,FALSE,Manhattan,10001,TRUE,0
+3595,April 21 2015,1,Maltese,10M,M,FALSE,Manhattan,10128,TRUE,0
+3596,April 23 2015,1,Golden Retriever,5,M,TRUE,Manhattan,10001,TRUE,0
+3597,April 25 2015,1,POODLE,,U,FALSE,Manhattan,10001,TRUE,0
+3598,April 22 2015,1,American Staffordshire Terrier,6,F,FALSE,Manhattan,10039,TRUE,0
+3599,April 24 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3600,April 21 2015,1,German Shepherd Crossbreed,5,M,TRUE,Manhattan,10013,TRUE,0
+3601,April 27 2015,1,Border Terrier,3,F,TRUE,Manhattan,10001,TRUE,0
+3602,April 24 2015,1,Mixed/Other,8,F,TRUE,Manhattan,10001,TRUE,0
+3603,April 27 2015,1,American Staffordshire Terrier,2,M,TRUE,Manhattan,10001,TRUE,0
+3604,April 27 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3605,April 28 2015,1,Pit Bull,2,F,TRUE,Manhattan,10001,TRUE,0
+3606,April 30 2015,1,SHARPEI-MASTIFF MIX,7,F,FALSE,Manhattan,10011,TRUE,0
+3607,April 29 2015,1,Boxer,1,M,TRUE,Manhattan,10026,TRUE,0
+3608,May 01 2015,1,Boxer,,U,FALSE,Manhattan,10001,TRUE,0
+3609,March 03 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10001,TRUE,0
+3610,May 03 2015,1,Mixed/Other,8,M,FALSE,Manhattan,10001,TRUE,0
+3611,May 03 2015,1,Dachshund Smooth Coat,8,F,TRUE,Manhattan,10001,TRUE,0
+3612,April 27 2015,1,Chihuahua,,U,FALSE,Manhattan,10001,TRUE,0
+3613,May 02 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,FALSE,Manhattan,10021,TRUE,0
+3614,May 02 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,FALSE,Manhattan,10029,TRUE,0
+3615,May 03 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Manhattan,10032,TRUE,0
+3616,May 04 2015,1,SPRINGER SPANIEL,10,M,TRUE,Manhattan,10001,TRUE,0
+3617,May 04 2015,1,"Schnauzer, Miniature",8,M,TRUE,Manhattan,10014,TRUE,0
+3618,May 04 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3619,May 02 2015,1,American Staffordshire Terrier,1,M,TRUE,Manhattan,10029,TRUE,0
+3620,May 03 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10009,TRUE,0
+3621,May 02 2015,1,Saint Bernard,,U,FALSE,Manhattan,10001,TRUE,0
+3622,May 05 2015,1,American Pit Bull Terrier/Pit Bull,6M,M,FALSE,Manhattan,10029,TRUE,0
+3623,May 03 2015,1,American Pit Bull Mix / Pit Bull Mix,,U,FALSE,Manhattan,10001,TRUE,0
+3624,May 05 2015,1,"POODLE MIX, TEACUP",12,F,TRUE,Manhattan,10001,TRUE,0
+3625,April 30 2015,1,Cocker Spaniel Crossbreed,,F,TRUE,Manhattan,10029,TRUE,0
+3626,April 26 2015,1,German Shepherd Crossbreed,2,M,TRUE,Manhattan,10001,TRUE,0
+3627,May 09 2015,1,Chihuahua,4,F,FALSE,Manhattan,10037,TRUE,2
+3628,May 12 2015,1,SHIH TZU/MALTESE X,7,F,TRUE,Manhattan,10001,TRUE,0
+3629,May 06 2015,1,Mixed/Other,8,M,TRUE,Manhattan,10011,TRUE,0
+3630,May 10 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+3631,May 03 2015,1,Yorkshire Terrier,1,M,FALSE,Manhattan,10029,TRUE,0
+3632,May 09 2015,1,Cairn Terrier,17,M,FALSE,Manhattan,10001,TRUE,0
+3633,May 10 2015,1,GOLDENDOODLE,4,M,TRUE,Manhattan,10128,TRUE,0
+3634,May 13 2015,1,Pit Bull,7M,M,TRUE,Manhattan,10001,TRUE,0
+3635,May 13 2015,1,Labradoodle,7,M,TRUE,Manhattan,10001,TRUE,0
+3636,May 13 2015,1,Rottweiler,,U,FALSE,Manhattan,10001,TRUE,0
+3637,May 14 2015,1,Pit Bull,2,M,FALSE,Manhattan,10001,TRUE,0
+3638,May 15 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,FALSE,Manhattan,10001,TRUE,0
+3639,May 19 2015,1,Golden Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3640,May 19 2015,1,Yorkshire Terrier,6,M,TRUE,Manhattan,10019,TRUE,9
+3641,April 23 2015,1,Pit Bull,,U,FALSE,Manhattan,10016,TRUE,0
+3642,May 19 2015,1,American Staffordshire Terrier,2,M,TRUE,Manhattan,10029,TRUE,0
+3643,May 17 2015,1,GOLDEN RETRIEVER MIXED,8,F,TRUE,Manhattan,10019,TRUE,0
+3644,May 19 2015,1,HUSKY -X,6,M,TRUE,Manhattan,10022,TRUE,0
+3645,May 18 2015,1,"Poodle, Toy",13,F,FALSE,Manhattan,10065,TRUE,0
+3646,May 20 2015,1,"BULLDOG, AMERICAN",2,M,TRUE,Manhattan,10023,TRUE,0
+3647,May 21 2015,1,POODLE,10,F,TRUE,Manhattan,10019,TRUE,0
+3648,May 20 2015,1,Pit Bull,6,M,FALSE,Manhattan,10001,TRUE,0
+3649,May 19 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3650,May 22 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3651,May 21 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3652,May 26 2015,1,Bull dog,8,M,TRUE,Manhattan,10025,TRUE,0
+3653,May 20 2015,1,BOXER MIX,2,F,TRUE,Manhattan,10001,TRUE,0
+3654,May 24 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3655,May 24 2015,1,SHEPHERD,,U,FALSE,Manhattan,10001,TRUE,0
+3656,May 25 2015,1,"Bull Dog, French",1,M,TRUE,Manhattan,10001,TRUE,0
+3657,May 25 2015,1,Chihuahua Crossbreed,3,F,TRUE,Manhattan,10001,TRUE,0
+3658,May 21 2015,1,American Staffordshire Terrier,2,M,TRUE,Manhattan,10001,TRUE,0
+3659,May 26 2015,1,"Mastiff, Bull",3,F,FALSE,Manhattan,10029,TRUE,0
+3660,May 27 2015,1,German Shepherd,5,M,TRUE,Manhattan,10016,TRUE,0
+3661,May 28 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3662,May 29 2015,1,"Collie, Rough Coat",,M,TRUE,Manhattan,10128,TRUE,0
+3663,May 28 2015,1,Labrador Retriever Crossbreed,2,M,TRUE,Manhattan,10001,TRUE,0
+3664,May 29 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Manhattan,10037,TRUE,0
+3665,May 30 2015,1,SCOTTISH TERRIER,5,F,TRUE,Manhattan,10024,TRUE,2
+3666,May 30 2015,1,Chihuahua,,U,FALSE,Manhattan,10037,TRUE,0
+3667,May 31 2015,1,Shih Tzu,8,M,TRUE,Manhattan,10021,TRUE,0
+3668,May 30 2015,1,Yorkshire Terrier,,U,FALSE,Manhattan,10021,TRUE,0
+3669,May 30 2015,1,Miniature Pinscher,,U,FALSE,Manhattan,10075,TRUE,1
+3670,May 31 2015,1,POODLE/MALTESE,4,M,TRUE,Manhattan,10029,TRUE,0
+3671,May 29 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3672,May 30 2015,1,Mixed/Other,,U,FALSE,Manhattan,10009,TRUE,0
+3673,May 30 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3674,May 30 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3675,June 01 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3676,March 23 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3677,June 02 2015,1,SHELTIE MIX,2,F,TRUE,Manhattan,10001,TRUE,0
+3678,June 02 2015,1,Shih Tzu,15,M,TRUE,Manhattan,10065,TRUE,0
+3679,June 02 2015,1,American Staffordshire Terrier,1,M,FALSE,Manhattan,10029,TRUE,0
+3680,June 03 2015,1,Beagle,11,F,TRUE,Manhattan,10025,TRUE,0
+3681,June 02 2015,1,TERRIER,,U,FALSE,Manhattan,10001,TRUE,0
+3682,June 02 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3683,June 03 2015,1,ENGLISH SPRINGER SPANIEL,2,M,TRUE,Manhattan,10001,TRUE,0
+3684,June 04 2015,1,"Collie, Border",,U,FALSE,Manhattan,10028,TRUE,0
+3685,June 03 2015,1,"Poodle, Standard",14,F,FALSE,Manhattan,10025,TRUE,0
+3686,June 04 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3687,June 07 2015,1,Yorkshire Terrier,,U,FALSE,Manhattan,10001,TRUE,0
+3688,June 07 2015,1,German Shepherd,4M,F,FALSE,Manhattan,10003,TRUE,0
+3689,June 05 2015,1,Siberian Husky,,U,FALSE,Manhattan,10001,TRUE,0
+3690,June 07 2015,1,Shih Tzu,4,M,TRUE,Manhattan,10001,TRUE,0
+3691,June 06 2015,1,CHIHUAHUA/BEAGLE,11M,M,TRUE,Manhattan,10032,TRUE,0
+3692,June 08 2015,1,Rhodesian Ridgeback,,U,FALSE,Manhattan,10001,TRUE,0
+3693,June 09 2015,1,MASTIFF,,U,FALSE,Manhattan,10003,TRUE,0
+3694,June 09 2015,1,SHIH TZU/YORKIE,4,M,TRUE,Manhattan,10001,TRUE,0
+3695,June 09 2015,1,American Staffordshire Terrier,3,M,FALSE,Manhattan,10001,TRUE,0
+3696,June 09 2015,1,Chihuahua Crossbreed,5M,M,FALSE,Manhattan,10029,TRUE,0
+3697,June 09 2015,1,American Staffordshire Terrier,1,M,FALSE,Manhattan,10029,TRUE,0
+3698,June 09 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,FALSE,Manhattan,10029,TRUE,0
+3699,June 11 2015,1,Chihuahua,,U,FALSE,Manhattan,10019,TRUE,0
+3700,June 06 2015,1,Havanese,5,M,TRUE,Manhattan,10023,TRUE,0
+3701,June 12 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3702,June 10 2015,1,CHIHUAHUA SH/ROTTWEILER,4,M,FALSE,Manhattan,10029,TRUE,0
+3703,June 12 2015,1,Pit Bull,6,M,FALSE,Manhattan,10023,TRUE,0
+3704,June 12 2015,1,Pit Bull,6,M,TRUE,Manhattan,10023,TRUE,0
+3705,June 14 2015,1,Shih Tzu,8,M,TRUE,Manhattan,10032,TRUE,11
+3706,June 10 2015,1,Pit Bull,,M,FALSE,Manhattan,10001,TRUE,0
+3707,June 12 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+3708,June 14 2015,1,TERRIER,,U,FALSE,Manhattan,10001,TRUE,0
+3709,June 14 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3710,June 10 2015,1,SPRINGER SPANIEL,4,M,FALSE,Manhattan,10001,TRUE,0
+3711,June 16 2015,1,Chihuahua Crossbreed,14,M,TRUE,Manhattan,10065,TRUE,0
+3712,June 13 2015,1,Doberman Pinscher,,U,FALSE,Manhattan,10001,TRUE,0
+3713,June 16 2015,1,Pit Bull,8,F,TRUE,Manhattan,10001,TRUE,0
+3714,June 16 2015,1,American Staffordshire Terrier,10,F,TRUE,Manhattan,10024,TRUE,0
+3715,June 16 2015,1,COLLIE,,U,FALSE,Manhattan,10001,TRUE,0
+3716,June 16 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3717,June 17 2015,1,Bull dog,2,F,TRUE,Manhattan,10036,TRUE,0
+3718,June 18 2015,1,Pekingese,5,M,FALSE,Manhattan,10001,TRUE,0
+3719,June 17 2015,1,Maltese,4M,F,TRUE,Manhattan,10027,TRUE,0
+3720,June 18 2015,1,Cocker Spaniel,3,M,TRUE,Manhattan,10034,TRUE,0
+3721,June 20 2015,1,"Schnauzer, Standard",6,M,TRUE,Manhattan,10001,TRUE,0
+3722,June 19 2015,1,Chihuahua,5,F,FALSE,Manhattan,10034,TRUE,0
+3723,June 19 2015,1,American Pit Bull Mix / Pit Bull Mix,2,M,FALSE,Manhattan,10065,TRUE,0
+3724,June 20 2015,1,Maltese,8,M,TRUE,Manhattan,10001,TRUE,0
+3725,June 19 2015,1,Bull dog,,U,FALSE,Manhattan,10001,TRUE,0
+3726,June 19 2015,1,Shih Tzu,3M,F,FALSE,Manhattan,10002,TRUE,0
+3727,June 19 2015,1,Cocker Spaniel,9,F,FALSE,Manhattan,10128,TRUE,0
+3728,June 19 2015,1,Rottweiler,5,M,TRUE,Manhattan,10001,TRUE,0
+3729,June 19 2015,1,Bull Terrier,10M,M,TRUE,Manhattan,10001,TRUE,0
+3730,June 08 2015,1,Yorkshire Terrier,6,M,TRUE,Manhattan,10012,TRUE,0
+3731,June 21 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3732,June 22 2015,1,Maltese,5,F,FALSE,Manhattan,10031,TRUE,0
+3733,June 23 2015,1,Labrador Retriever Crossbreed,7,M,TRUE,Manhattan,10024,TRUE,0
+3734,June 24 2015,1,Chihuahua,5M,M,FALSE,Manhattan,10001,TRUE,0
+3735,June 23 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3736,June 25 2015,1,Pit Bull,,U,FALSE,Manhattan,10026,TRUE,0
+3737,June 25 2015,1,American Pit Bull Mix / Pit Bull Mix,3,M,TRUE,Manhattan,10003,TRUE,0
+3738,June 25 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3739,June 27 2015,1,TERRIER,,U,FALSE,Manhattan,10023,TRUE,0
+3740,June 26 2015,1,American Pit Bull Mix / Pit Bull Mix,2,F,TRUE,Manhattan,10001,TRUE,0
+3741,June 27 2015,1,Shih Tzu,1,M,TRUE,Manhattan,10029,TRUE,0
+3742,June 28 2015,1,Yorkshire Terrier,3,F,TRUE,Manhattan,10016,TRUE,0
+3743,June 20 2015,1,Labrador Retriever Crossbreed,6,F,TRUE,Manhattan,10001,TRUE,0
+3744,June 26 2015,1,Maltese,,U,FALSE,Manhattan,10001,TRUE,0
+3745,June 30 2015,1,GLEN OF IMAAL TERRIER,1,M,TRUE,Manhattan,10034,TRUE,0
+3746,June 07 2015,1,MINIATURE PINSCHER/JACK RUSS,5,M,TRUE,Manhattan,10044,TRUE,0
+3747,June 17 2015,1,Bull dog,,U,FALSE,Manhattan,10038,TRUE,0
+3748,June 17 2015,1,West High White Terrier,,U,FALSE,Manhattan,10024,TRUE,0
+3749,July 02 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3750,July 02 2015,1,Pit Bull,3,M,TRUE,Manhattan,10039,TRUE,0
+3751,July 02 2015,1,Beagle,,U,FALSE,Manhattan,10001,TRUE,0
+3752,July 04 2015,1,Shih Tzu,3,F,FALSE,Manhattan,10001,TRUE,0
+3753,July 06 2015,1,"Collie, Border",,U,FALSE,Manhattan,10001,TRUE,0
+3754,May 15 2015,1,Dalmatian,,U,FALSE,Manhattan,10001,TRUE,0
+3755,July 07 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10001,TRUE,0
+3756,July 08 2015,1,Chihuahua,,U,FALSE,Manhattan,10001,TRUE,0
+3757,July 03 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3758,July 07 2015,1,Siberian Husky,,U,FALSE,Manhattan,10026,TRUE,0
+3759,July 07 2015,1,Pit Bull,,U,FALSE,Manhattan,10128,TRUE,0
+3760,July 09 2015,1,Labrador Retriever Crossbreed,1,M,FALSE,Manhattan,10002,TRUE,0
+3761,July 10 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3762,July 08 2015,1,Labrador Retriever,6,M,TRUE,Manhattan,10001,TRUE,0
+3763,July 12 2015,1,Boxer,4,M,TRUE,Manhattan,10001,TRUE,0
+3764,July 14 2015,1,Golden Retriever,9,M,FALSE,Manhattan,10033,TRUE,0
+3765,July 10 2015,1,Pug,,U,FALSE,Manhattan,10001,TRUE,0
+3766,July 10 2015,1,Bull dog,,U,FALSE,Manhattan,10001,TRUE,0
+3767,July 13 2015,1,Pomeranian,4,M,FALSE,Manhattan,10001,TRUE,0
+3768,July 12 2015,1,Cocker Spaniel,,U,FALSE,Manhattan,10009,TRUE,0
+3769,July 13 2015,1,Bull dog,1,M,TRUE,Manhattan,10039,TRUE,0
+3770,July 15 2015,1,Maltese,,U,FALSE,Manhattan,10025,TRUE,0
+3771,July 06 2015,1,BOX TERR X,2,F,TRUE,Manhattan,10001,TRUE,0
+3772,July 17 2015,1,Pit Bull,1,F,TRUE,Manhattan,10001,TRUE,0
+3773,July 18 2015,1,Pit Bull,2,M,TRUE,Manhattan,10128,TRUE,0
+3774,July 20 2015,1,Pit Bull,2,M,TRUE,Manhattan,10128,TRUE,0
+3775,July 17 2015,1,"Collie, Border",3,M,FALSE,Manhattan,10001,TRUE,0
+3776,July 18 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10001,TRUE,0
+3777,July 12 2015,1,MASTIFF MIX,5,F,TRUE,Manhattan,10001,TRUE,0
+3778,July 19 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3779,July 21 2015,1,Pit Bull,3,M,FALSE,Manhattan,10001,TRUE,0
+3780,July 21 2015,1,SPRINGER,,U,FALSE,Manhattan,10001,TRUE,0
+3781,July 22 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3782,July 19 2015,1,SHIH TZU/YORKSHIRE TERR,5,M,FALSE,Manhattan,10029,TRUE,0
+3783,July 22 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3784,July 17 2015,1,Pit Bull,2,M,TRUE,Manhattan,10029,TRUE,0
+3785,July 28 2015,1,American Pit Bull Mix / Pit Bull Mix,11M,M,TRUE,Manhattan,10024,TRUE,0
+3786,July 21 2015,1,Pit Bull,1,M,FALSE,Manhattan,10001,TRUE,0
+3787,July 25 2015,1,RETRIEVER X,,U,FALSE,Manhattan,10034,TRUE,0
+3788,July 22 2015,1,MIX- BOXER,8,F,TRUE,Manhattan,10003,TRUE,0
+3789,April 15 2015,1,MALTESE/POODLE,3,M,FALSE,Manhattan,10039,TRUE,0
+3790,July 28 2015,1,American Pit Bull Mix / Pit Bull Mix,8,M,FALSE,Manhattan,10032,TRUE,0
+3791,July 21 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3792,July 28 2015,1,Chihuahua Crossbreed,2,M,FALSE,Manhattan,10065,TRUE,0
+3793,July 26 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Manhattan,10033,TRUE,0
+3794,July 26 2015,1,Shih Tzu,5,M,FALSE,Manhattan,10065,TRUE,0
+3795,July 28 2015,1,American Pit Bull Mix / Pit Bull Mix,7,M,FALSE,Manhattan,10039,TRUE,0
+3796,July 28 2015,1,Mixed/Other,,U,FALSE,Manhattan,10036,TRUE,0
+3797,July 24 2015,1,SHIH TZU/POODLE MINI,2,M,TRUE,Manhattan,10001,TRUE,0
+3798,July 25 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10001,TRUE,0
+3799,July 30 2015,1,Pekingese,,U,FALSE,Manhattan,10001,TRUE,0
+3800,July 30 2015,1,Yorkshire Terrier,8,M,FALSE,Manhattan,10029,TRUE,0
+3801,July 24 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Manhattan,10029,TRUE,0
+3802,August 02 2015,1,COCKAPOO,5,M,TRUE,Manhattan,10065,TRUE,0
+3803,July 31 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+3804,July 30 2015,1,Pit Bull,,U,FALSE,Manhattan,10128,TRUE,0
+3805,July 30 2015,1,TERRIER,,U,FALSE,Manhattan,10001,TRUE,0
+3806,August 04 2015,1,Pit Bull,,U,FALSE,Manhattan,10009,TRUE,0
+3807,August 02 2015,1,Rhodesian Ridgeback,2,M,FALSE,Manhattan,10001,TRUE,0
+3808,August 05 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3809,August 04 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3810,July 31 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3811,August 05 2015,1,American Pit Bull Mix / Pit Bull Mix,2,M,FALSE,Manhattan,10001,TRUE,0
+3812,July 27 2015,1,NORFOLK TERRIER/ YORKSHIRE TERRIER,5,M,TRUE,Manhattan,10029,TRUE,0
+3813,August 02 2015,1,PEKINGESE -X,,F,TRUE,Manhattan,10028,TRUE,0
+3814,August 04 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3815,August 06 2015,1,SHEPHERD,,U,FALSE,Manhattan,10001,TRUE,0
+3816,June 10 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3817,August 07 2015,1,Labrador Retriever,1,M,TRUE,Manhattan,10065,TRUE,0
+3818,August 06 2015,1,Labrador Retriever Crossbreed,4,F,TRUE,Manhattan,10001,TRUE,0
+3819,August 08 2015,1,MUTT,4,M,TRUE,Manhattan,10009,TRUE,0
+3820,August 09 2015,1,Miniature Pinscher,4,F,TRUE,Manhattan,10023,TRUE,0
+3821,August 01 2015,1,American Pit Bull Mix / Pit Bull Mix,1,M,FALSE,Manhattan,10001,TRUE,0
+3822,August 07 2015,1,Mixed/Other,,U,FALSE,Manhattan,10001,TRUE,0
+3823,August 06 2015,1,Bull Terrier,10M,M,TRUE,Manhattan,10001,TRUE,0
+3824,August 08 2015,1,Bull Terrier,10M,M,TRUE,Manhattan,10031,TRUE,0
+3825,August 07 2015,1,SHEPERD,,U,FALSE,Manhattan,10001,TRUE,0
+3826,August 07 2015,1,MALTESE- X,9,F,TRUE,Manhattan,11373,TRUE,0
+3827,August 11 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3828,August 11 2015,1,SHEPHERD,,U,FALSE,Manhattan,10001,TRUE,0
+3829,August 11 2015,1,CORGI,,U,FALSE,Manhattan,10009,TRUE,0
+3830,August 09 2015,1,Mixed/Other,5,M,TRUE,Manhattan,10001,TRUE,0
+3831,August 17 2015,1,MUTT,,U,FALSE,Manhattan,10036,TRUE,0
+3832,August 17 2015,1,Beagle,,M,TRUE,Manhattan,10065,TRUE,0
+3833,August 18 2015,1,Boxer,8,M,FALSE,Manhattan,10128,TRUE,0
+3834,August 15 2015,1,"Bull Dog, English",3,M,TRUE,Manhattan,10021,TRUE,0
+3835,August 17 2015,1,TERRIER,,U,FALSE,Manhattan,10001,TRUE,0
+3836,August 15 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3837,August 15 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10002,TRUE,0
+3838,August 16 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3839,August 17 2015,1,"Poodle, Standard",,U,FALSE,Manhattan,10033,TRUE,0
+3840,August 16 2015,1,American Pit Bull Mix / Pit Bull Mix,1.5,F,TRUE,Manhattan,10001,TRUE,0
+3841,August 14 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+3842,August 16 2015,1,Labrador Retriever,8,M,TRUE,Manhattan,10028,TRUE,0
+3843,August 17 2015,1,Maltese,,U,FALSE,Manhattan,10001,TRUE,0
+3844,August 18 2015,1,"Poodle, Miniature",3,M,TRUE,Manhattan,10029,TRUE,0
+3845,August 17 2015,1,Dachshund Smooth Coat,14,M,TRUE,Manhattan,10001,TRUE,0
+3846,August 19 2015,1,Pit Bull,1,M,FALSE,Manhattan,10029,TRUE,0
+3847,August 19 2015,1,Pit Bull,1,M,FALSE,Manhattan,10029,TRUE,0
+3848,August 18 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3849,August 12 2015,1,"Poodle, Miniature",13,M,FALSE,Manhattan,10024,TRUE,0
+3850,August 18 2015,1,Chihuahua,,U,FALSE,Manhattan,10035,TRUE,0
+3851,August 20 2015,1,"Poodle, Miniature",11,F,TRUE,Manhattan,10001,TRUE,0
+3852,August 24 2015,1,Miniature Pinscher,8,M,TRUE,Manhattan,10065,TRUE,0
+3853,August 24 2015,1,MALTESE/POODLE,4,M,TRUE,Manhattan,10029,TRUE,0
+3854,August 24 2015,1,American Pit Bull Terrier/Pit Bull,,U,FALSE,Manhattan,10065,TRUE,0
+3855,August 20 2015,1,MALTESE/POODLE,9,F,TRUE,Manhattan,10030,TRUE,0
+3856,August 22 2015,1,Great Dane,,U,FALSE,Manhattan,10011,TRUE,0
+3857,August 25 2015,1,Miniature Pinscher,8,M,TRUE,Manhattan,10065,TRUE,0
+3858,August 26 2015,1,CHIHUAHUA/ YORKIE X,3,M,TRUE,Manhattan,10030,TRUE,0
+3859,June 24 2015,1,Mix,6,M,TRUE,Manhattan,10011,TRUE,0
+3860,August 26 2015,1,Labrador Retriever,5,M,FALSE,Manhattan,10001,TRUE,0
+3861,August 21 2015,1,Mix,10,M,TRUE,Manhattan,10030,TRUE,0
+3862,August 21 2015,1,Mix,7,F,TRUE,Manhattan,10030,TRUE,0
+3863,August 25 2015,1,Boxer,,U,FALSE,Manhattan,10001,TRUE,0
+3864,August 27 2015,1,Mix,2,F,TRUE,Manhattan,10027,TRUE,0
+3865,August 27 2015,1,Pit Bull,,U,FALSE,Manhattan,10019,TRUE,0
+3866,August 30 2015,1,Cane Corso,,F,TRUE,Manhattan,10128,TRUE,0
+3867,August 30 2015,1,Mix,1,M,FALSE,Manhattan,10044,TRUE,0
+3868,August 29 2015,1,Standard Poodle,14,F,TRUE,Manhattan,10001,TRUE,0
+3869,August 30 2015,1,Chow Chow,13,F,FALSE,Manhattan,10001,TRUE,0
+3870,August 29 2015,1,Mix,,M,FALSE,Manhattan,10001,TRUE,0
+3871,September 01 2015,1,Mix,5,M,FALSE,Manhattan,10019,TRUE,0
+3872,August 28 2015,1,Terrier,,U,FALSE,Manhattan,10024,TRUE,0
+3873,August 31 2015,1,Pit Bull,,U,FALSE,Manhattan,10011,TRUE,0
+3874,August 29 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+3875,August 29 2015,1,Mix,1,M,FALSE,Manhattan,10024,TRUE,0
+3876,August 31 2015,1,Pomeranian,4,M,FALSE,Manhattan,10029,TRUE,0
+3877,August 31 2015,1,Siberian Husky,7,M,TRUE,Manhattan,10011,TRUE,0
+3878,September 01 2015,1,Pit Bull,,U,FALSE,Manhattan,10065,TRUE,0
+3879,September 02 2015,1,Mix,4,F,FALSE,Manhattan,10029,TRUE,0
+3880,August 19 2015,1,Mix,,M,TRUE,Manhattan,10026,TRUE,0
+3881,July 04 2015,1,Shih Tzu,4,F,FALSE,Manhattan,10001,TRUE,0
+3882,August 22 2015,1,Lhasa Apso,7,M,FALSE,Manhattan,10001,TRUE,0
+3883,August 30 2015,1,Mix,1,M,FALSE,Manhattan,10044,TRUE,0
+3884,September 08 2015,1,Yorkshire Terrier,1,M,TRUE,Manhattan,10001,TRUE,0
+3885,September 04 2015,1,Havanese,8,F,TRUE,Manhattan,10001,TRUE,0
+3886,September 06 2015,1,Standard Poodle,,U,FALSE,Manhattan,10001,TRUE,0
+3887,September 04 2015,1,Akita,4,M,TRUE,Manhattan,10026,TRUE,0
+3888,September 05 2015,1,Standard Poodle,,U,FALSE,Manhattan,10001,TRUE,0
+3889,September 05 2015,1,Beagle,,U,FALSE,Manhattan,10006,TRUE,0
+3890,September 05 2015,1,Standard Poodle,,U,FALSE,Manhattan,10001,TRUE,0
+3891,September 04 2015,1,Pembroke Welsh Corgi,,U,FALSE,Manhattan,10001,TRUE,0
+3892,September 05 2015,1,Standard Poodle,,U,FALSE,Manhattan,10001,TRUE,0
+3893,September 10 2015,1,Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+3894,September 10 2015,1,Mix,,M,TRUE,Manhattan,10025,TRUE,0
+3895,September 10 2015,1,Airedale Terrier,2,M,TRUE,Manhattan,10011,TRUE,0
+3896,September 11 2015,1,Shih Tzu,,U,FALSE,Manhattan,10032,TRUE,0
+3897,September 11 2015,1,Chihuahua,10,M,FALSE,Manhattan,10001,TRUE,0
+3898,September 11 2015,1,Pit Bull,,U,FALSE,Manhattan,10002,TRUE,0
+3899,September 12 2015,1,Pug,4,M,FALSE,Manhattan,10011,TRUE,0
+3900,September 11 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3901,September 12 2015,1,Shiba Inu,4,M,TRUE,Manhattan,10025,TRUE,0
+3902,September 04 2015,1,Mix,1,M,FALSE,Manhattan,10001,TRUE,0
+3903,September 13 2015,1,Pit Bull,7,M,FALSE,Manhattan,10035,TRUE,0
+3904,September 13 2015,1,Mix,3,F,TRUE,Manhattan,10004,TRUE,0
+3905,September 12 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3906,September 14 2015,1,Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+3907,September 14 2015,1,Portuguese Podengo,6,M,TRUE,Manhattan,10010,TRUE,0
+3908,September 15 2015,1,Jack Russell,9,M,FALSE,Manhattan,10001,TRUE,0
+3909,September 17 2015,1,Mix,2,M,TRUE,Manhattan,10001,TRUE,0
+3910,September 14 2015,1,Mix,6,M,TRUE,Manhattan,10023,TRUE,0
+3911,September 18 2015,1,Mix,15M,F,FALSE,Manhattan,10001,TRUE,0
+3912,September 19 2015,1,Mix,,U,FALSE,Manhattan,10001,TRUE,0
+3913,September 18 2015,1,Standard Poodle,6,M,TRUE,Manhattan,10001,TRUE,0
+3914,September 14 2015,1,Yorkshire Terrier,3,F,TRUE,Manhattan,10001,TRUE,0
+3915,September 19 2015,1,Shiba Inu,11,M,FALSE,Manhattan,10001,TRUE,0
+3916,September 19 2015,1,Portuguese Water Dog,3,M,TRUE,Manhattan,10023,TRUE,0
+3917,September 20 2015,1,Terrier,,U,FALSE,Manhattan,10001,TRUE,0
+3918,September 23 2015,1,Basenji,11,F,TRUE,Manhattan,10065,TRUE,0
+3919,September 18 2015,1,Mix,5,M,FALSE,Manhattan,10029,TRUE,0
+3920,September 23 2015,1,Pit Bull,,U,FALSE,Manhattan,10035,TRUE,0
+3921,September 23 2015,1,Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3922,September 25 2015,1,Golden Retriever,2,M,FALSE,Manhattan,10001,TRUE,0
+3923,September 28 2015,1,Mix,3,M,TRUE,Manhattan,10001,TRUE,0
+3924,August 26 2015,1,Golden Retriever,9,M,TRUE,Manhattan,10001,TRUE,0
+3925,September 17 2015,1,Miniature Poodle,12,F,FALSE,Manhattan,10001,TRUE,0
+3926,September 24 2015,1,Cattle Dog,3,F,TRUE,Manhattan,10001,TRUE,0
+3927,September 26 2015,1,Clumber Spaniel,9,M,TRUE,Manhattan,10001,TRUE,0
+3928,September 25 2015,1,Mix,1,M,TRUE,Manhattan,10001,TRUE,0
+3929,September 27 2015,1,Black Tick Pointer,,U,FALSE,Manhattan,10023,TRUE,0
+3930,September 17 2015,1,Mix,,F,TRUE,Manhattan,10001,TRUE,0
+3931,September 28 2015,1,Havanese,,U,FALSE,Manhattan,10001,TRUE,0
+3932,September 30 2015,1,Mix,4,F,FALSE,Manhattan,10001,TRUE,0
+3933,October 01 2015,1,Labrador Retriever,6,F,TRUE,Manhattan,10001,TRUE,0
+3934,October 01 2015,1,Pit Bull,,U,FALSE,Manhattan,10034,TRUE,0
+3935,October 02 2015,1,Jack Russell,4,M,TRUE,Manhattan,10025,TRUE,0
+3936,September 30 2015,1,Mix,11,F,TRUE,Manhattan,10065,TRUE,0
+3937,September 30 2015,1,Mix,11,F,TRUE,Manhattan,10065,TRUE,0
+3938,October 04 2015,1,Mix,1,F,TRUE,Manhattan,10001,TRUE,0
+3939,October 03 2015,1,Cane Corso,3.5,M,FALSE,Manhattan,10013,TRUE,0
+3940,October 05 2015,1,Pit Bull,,U,FALSE,Manhattan,10038,TRUE,0
+3941,October 06 2015,1,Boxer,,U,FALSE,Manhattan,10001,TRUE,0
+3942,October 03 2015,1,Chihuahua,,U,FALSE,Manhattan,10001,TRUE,0
+3943,October 06 2015,1,Pekingese,5,M,TRUE,Manhattan,10001,TRUE,0
+3944,September 28 2015,1,Mix,4M,F,TRUE,Manhattan,10029,TRUE,0
+3945,October 08 2015,1,Belgian Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+3946,October 08 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3947,October 08 2015,1,Terrier,,U,FALSE,Manhattan,10001,TRUE,0
+3948,October 09 2015,1,Border Collie ,,U,FALSE,Manhattan,10001,TRUE,0
+3949,October 07 2015,1,Beagle,,U,FALSE,Manhattan,10036,TRUE,0
+3950,October 09 2015,1,Mix,5,F,TRUE,Manhattan,10035,TRUE,0
+3951,October 09 2015,1,Jack Russell,,M,TRUE,Manhattan,10010,TRUE,0
+3952,October 10 2015,1,Australian Shepherd,8,M,TRUE,Manhattan,10001,TRUE,0
+3953,October 12 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3954,October 10 2015,1,Mix,,U,FALSE,Manhattan,10009,TRUE,0
+3955,October 13 2015,1,Mix,,M,FALSE,Manhattan,10065,TRUE,0
+3956,October 15 2015,1,Bull Dog,,U,FALSE,Manhattan,10001,TRUE,0
+3957,October 04 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3958,October 14 2015,1,Mix,4,M,TRUE,Manhattan,10029,TRUE,0
+3959,September 05 2015,1,Hound,,M,FALSE,Manhattan,10031,TRUE,0
+3960,October 18 2015,1,Mix,,U,FALSE,Manhattan,10023,TRUE,0
+3961,October 13 2015,1,Standard Poodle,,U,FALSE,Manhattan,10001,TRUE,0
+3962,October 16 2015,1,Golden Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3963,October 19 2015,1,Standard Schnauzer,,U,FALSE,Manhattan,10065,TRUE,0
+3964,October 19 2015,1,Siberian Husky,9,M,TRUE,Manhattan,10065,TRUE,0
+3965,October 16 2015,1,Shih Tzu,,U,FALSE,Manhattan,10025,TRUE,0
+3966,October 17 2015,1,Mix,9M,M,TRUE,Manhattan,10024,TRUE,0
+3967,October 20 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3968,September 28 2015,1,Mix,4,F,TRUE,Manhattan,10001,TRUE,0
+3969,October 19 2015,1,West Highland White Terrier,1,M,FALSE,Manhattan,10001,TRUE,0
+3970,October 21 2015,1,Maltese,1,M,TRUE,Manhattan,10028,TRUE,0
+3971,October 22 2015,1,Pit Bull,2,M,TRUE,Manhattan,10035,TRUE,0
+3972,October 19 2015,1,German Shepherd,1.3,M,FALSE,Manhattan,10016,TRUE,0
+3973,October 23 2015,1,Jack Russell,2,M,FALSE,Manhattan,10035,TRUE,0
+3974,October 25 2015,1,Pit Bull,1,M,TRUE,Manhattan,10001,TRUE,0
+3975,October 25 2015,1,Maltese,,U,FALSE,Manhattan,10001,TRUE,0
+3976,October 26 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3977,October 20 2015,1,Pit Bull,,U,FALSE,Manhattan,10009,TRUE,0
+3978,October 28 2015,1,Mix,1,M,FALSE,Manhattan,10029,TRUE,0
+3979,October 28 2015,1,Nova Scotia Duck Tolling Retriever,6,M,TRUE,Manhattan,10024,TRUE,0
+3980,October 24 2015,1,Pit Bull,1,M,FALSE,Manhattan,10029,TRUE,0
+3981,November 01 2015,1,Mix,2,F,FALSE,Manhattan,10029,TRUE,0
+3982,November 05 2015,1,Shih Tzu,5,M,TRUE,Manhattan,10128,TRUE,0
+3983,October 30 2015,1,Mix,4,M,TRUE,Manhattan,10001,TRUE,0
+3984,November 05 2015,1,Cattle Dog,,U,TRUE,Manhattan,10065,TRUE,0
+3985,November 02 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+3986,October 31 2015,1,Pit Bull,1,M,TRUE,Manhattan,10012,TRUE,0
+3987,November 02 2015,1,Jack Russell,11,F,TRUE,Manhattan,10128,TRUE,0
+3988,November 04 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3989,November 05 2015,1,Chihuahua,4M,F,TRUE,Manhattan,10016,TRUE,0
+3990,November 05 2015,1,Havanese,6,M,TRUE,Manhattan,10013,TRUE,0
+3991,November 06 2015,1,Mix,3,M,TRUE,Manhattan,10025,TRUE,0
+3992,November 06 2015,1,Chinese Shar-Pei,5,M,FALSE,Manhattan,10031,TRUE,0
+3993,November 07 2015,1,Mix,4,M,TRUE,Manhattan,10001,TRUE,0
+3994,November 06 2015,1,Lhasa Apso,7,M,FALSE,Manhattan,10001,TRUE,0
+3995,November 05 2015,1,Miniature Schnauzer,,U,FALSE,Manhattan,10001,TRUE,0
+3996,October 29 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+3997,November 09 2015,1,English Springer Spaniel,5,M,FALSE,Manhattan,10001,TRUE,0
+3998,November 07 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+3999,November 10 2015,1,Chinese Crested,6,M,FALSE,Manhattan,10001,TRUE,0
+4000,October 31 2015,1,Chihuahua,6,M,FALSE,Manhattan,10038,TRUE,0
+4001,November 10 2015,1,Pit Bull,13,M,FALSE,Manhattan,10065,TRUE,0
+4002,November 13 2015,1,Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+4003,November 13 2015,1,Pit Bull,3,M,TRUE,Manhattan,10128,TRUE,0
+4004,November 13 2015,1,Pit Bull,3,M,TRUE,Manhattan,10128,TRUE,0
+4005,November 15 2015,1,Maltese,2,F,TRUE,Manhattan,10128,TRUE,0
+4006,November 15 2015,1,Chihuahua,,U,FALSE,Manhattan,10009,TRUE,0
+4007,November 15 2015,1,Pit Bull,,U,FALSE,Manhattan,10040,TRUE,0
+4008,November 11 2015,1,Pit Bull,,U,FALSE,Manhattan,10033,TRUE,0
+4009,November 11 2015,1,German Shepherd,5,M,TRUE,Manhattan,10032,TRUE,0
+4010,November 12 2015,1,Felky Terrier,4,M,FALSE,Manhattan,10002,TRUE,0
+4011,November 13 2015,1,Jack Russell,,U,FALSE,Manhattan,10003,TRUE,0
+4012,November 16 2015,1,Pug,,U,FALSE,Manhattan,10282,TRUE,0
+4013,November 14 2015,1,Mix,6,M,FALSE,Manhattan,10027,TRUE,0
+4014,October 27 2015,1,Pit Bull,,M,FALSE,Manhattan,10011,TRUE,0
+4015,November 14 2015,1,Mix,,U,FALSE,Manhattan,10005,TRUE,0
+4016,November 15 2015,1,Miniature Schnauzer,5,M,TRUE,Manhattan,10280,TRUE,0
+4017,November 19 2015,1,Bull Dog,7,M,TRUE,Manhattan,10036,TRUE,0
+4018,November 01 2015,1,German Shepherd,9,M,TRUE,Manhattan,10016,TRUE,0
+4019,November 22 2015,1,Mix,5,M,FALSE,Manhattan,10032,TRUE,0
+4020,November 22 2015,1,Cockapoo,8,F,TRUE,Manhattan,10001,TRUE,0
+4021,November 20 2015,1,Yorkshire Terrier,,U,FALSE,Manhattan,10001,TRUE,0
+4022,November 20 2015,1,Mix,5,M,TRUE,Manhattan,10001,TRUE,0
+4023,November 17 2015,1,Weimaraner,7,M,TRUE,Manhattan,10001,TRUE,0
+4024,November 25 2015,1,Welsh Springer Spaniel,7,M,TRUE,Manhattan,10065,TRUE,0
+4025,November 26 2015,1,Yorkshire Terrier,5,F,FALSE,Manhattan,10001,TRUE,0
+4026,November 27 2015,1,French Bull Dog,4,U,FALSE,Manhattan,10065,TRUE,0
+4027,November 25 2015,1,Mastiff,,U,FALSE,Manhattan,10001,TRUE,0
+4028,November 24 2015,1,Mix,1,M,TRUE,Manhattan,10029,TRUE,0
+4029,November 24 2015,1,Dachshund Smooth Coat,8,M,TRUE,Manhattan,10065,TRUE,0
+4030,November 27 2015,1,Labrador Retriever,1,M,TRUE,Manhattan,10016,TRUE,0
+4031,November 27 2015,1,American Bull Dog,6,M,FALSE,Manhattan,10029,TRUE,0
+4032,November 24 2015,1,Pit Bull,8,M,TRUE,Manhattan,10001,TRUE,0
+4033,December 02 2015,1,Cairn Terrier,9,F,TRUE,Manhattan,10035,TRUE,0
+4034,November 29 2015,1,Enlgish Bull Dog,2,F,TRUE,Manhattan,10025,TRUE,0
+4035,November 30 2015,1,Pit Bull,,U,FALSE,Manhattan,10029,TRUE,0
+4036,November 29 2015,1,Doxxin,2,F,TRUE,Manhattan,10011,TRUE,0
+4037,November 30 2015,1,Mix,,U,FALSE,Manhattan,10001,TRUE,0
+4038,December 01 2015,1,Mix,4M,M,TRUE,Manhattan,10016,TRUE,0
+4039,November 20 2015,1,Mix,7,F,TRUE,Manhattan,10033,TRUE,0
+4040,November 28 2015,1,Maltese,6M,M,FALSE,Manhattan,10038,TRUE,0
+4041,December 02 2015,1,German Shepherd,,U,FALSE,Manhattan,10011,TRUE,0
+4042,December 02 2015,1,Mix,16,M,FALSE,Manhattan,10065,TRUE,0
+4043,November 27 2015,1,Mix,7,U,FALSE,Manhattan,10011,TRUE,0
+4044,December 01 2015,1,Pit Bull,,U,FALSE,Manhattan,10009,TRUE,0
+4045,November 29 2015,1,Cocker Spaniel,2,M,FALSE,Manhattan,10001,TRUE,0
+4046,December 01 2015,1,Weimaraner,8M,M,TRUE,Manhattan,10016,TRUE,0
+4047,November 30 2015,1,Mix,2,F,FALSE,Manhattan,10031,TRUE,0
+4048,November 26 2015,1,Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+4049,November 06 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+4050,December 06 2015,1,French Bull Dog,10,F,FALSE,Manhattan,10029,TRUE,0
+4051,December 07 2015,1,Mix,1,M,FALSE,Manhattan,10030,TRUE,0
+4052,December 05 2015,1,Mix,4,M,FALSE,Manhattan,10029,TRUE,0
+4053,December 04 2015,1,Miniature Poodle,3,M,TRUE,Manhattan,10001,TRUE,0
+4054,December 06 2015,1,Chow Chow,,U,FALSE,Manhattan,10001,TRUE,0
+4055,December 04 2015,1,Mix,2,M,FALSE,Manhattan,10001,TRUE,0
+4056,November 15 2015,1,Weimaraner,2,F,TRUE,Manhattan,10029,TRUE,0
+4057,December 10 2015,1,Havanese,11,M,TRUE,Manhattan,10001,TRUE,0
+4058,December 07 2015,1,Siberian Husky,,U,FALSE,Manhattan,10001,TRUE,0
+4059,December 11 2015,1,Mix,5,M,TRUE,Manhattan,10044,TRUE,0
+4060,December 11 2015,1,Mix,4,M,TRUE,Manhattan,10033,TRUE,0
+4061,December 06 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+4062,December 13 2015,1,Mix,1,M,TRUE,Manhattan,10033,TRUE,0
+4063,December 15 2015,1,German Shepherd,,U,FALSE,Manhattan,10001,TRUE,0
+4064,December 15 2015,1,Doberman Pinscher,6,M,TRUE,Manhattan,10023,TRUE,0
+4065,December 17 2015,1,Yorkshire Terrier,3,F,TRUE,Manhattan,10019,TRUE,0
+4066,December 15 2015,1,Rottweiler,,U,FALSE,Manhattan,10001,TRUE,0
+4067,December 16 2015,1,French Bull Dog,1,M,TRUE,Manhattan,10025,TRUE,0
+4068,December 14 2015,1,Yorkshire Terrier,2,M,TRUE,Manhattan,10009,TRUE,0
+4069,December 15 2015,1,Pit Bull,,U,FALSE,Manhattan,10002,TRUE,0
+4070,December 18 2015,1,Pit Bull,9M,F,FALSE,Manhattan,10065,TRUE,0
+4071,December 19 2015,1,Labrador Retriever,,U,FALSE,Manhattan,10001,TRUE,0
+4072,December 21 2015,1,Pit Bull,7,M,FALSE,Manhattan,10021,TRUE,0
+4073,December 21 2015,1,Bull Dog,,F,FALSE,Manhattan,10001,TRUE,0
+4074,December 18 2015,1,Chinese Shar-Pei,11,M,TRUE,Manhattan,10001,TRUE,0
+4075,December 19 2015,1,Blue Tick Hound,6,M,TRUE,Manhattan,10025,TRUE,0
+4076,December 19 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+4077,December 23 2015,1,Pit Bull,,U,FALSE,Manhattan,10001,TRUE,0
+4078,December 24 2015,1,Shih Tzu,,U,FALSE,Manhattan,10001,TRUE,0
+4079,December 25 2015,1,Miniature Schnauzer,,M,FALSE,Manhattan,10027,TRUE,0
+4080,December 27 2015,1,Mix,1,M,FALSE,Manhattan,10040,TRUE,0
+4081,December 26 2015,1,Dachshund Smooth Coat,3,M,FALSE,Manhattan,10001,TRUE,0
+4082,December 29 2015,1,Mix,8M,M,FALSE,Manhattan,10001,TRUE,0
+4083,December 27 2015,1,Chihuahua,,U,FALSE,Manhattan,10001,TRUE,0
+4084,December 27 2015,1,Cardigan Welsh Corgi,5,M,TRUE,Manhattan,10003,TRUE,0
+4085,December 30 2015,1,Belgian Malinois,4,M,TRUE,Manhattan,10003,TRUE,0
+4086,December 28 2015,1,Cocker Spaniel,,U,FALSE,Manhattan,10033,TRUE,0
+4089,December 18 2015,1,Mix,8,F,TRUE,Manhattan,10023,TRUE,0
+4090,December 25 2015,1,Mix,8,F,TRUE,Manhattan,10023,TRUE,0
+4107,December 22 2015,1,West Highland White Terrier,,U,FALSE,Manhattan,10023,TRUE,0
+5660,January 27 2015,1,Mix,6,M,TRUE,Queens,11373,TRUE,12
+5661,January 24 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11377,TRUE,13
+5662,January 25 2015,1,Yorkshire Terrier,4,M,TRUE,Queens,11418,TRUE,8
+5663,January 31 2015,1,Toy Poodle,2,M,FALSE,Queens,11101,TRUE,15
+5664,February 01 2015,1,American Staffordshire Terrier,3,M,FALSE,Queens,11101,TRUE,0
+5665,January 30 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5666,February 02 2015,1,Pit Bull,9,F,FALSE,Queens,11693,TRUE,2
+5667,February 02 2015,1,Beagle,,M,FALSE,Queens,11368,TRUE,3
+5668,February 02 2015,1,Yorkshire Terrier,9,M,TRUE,Queens,11357,TRUE,3
+5669,January 22 2015,1,Pit Bull,3,F,FALSE,Queens,11423,TRUE,6
+5670,January 21 2015,1,Pit Bull,,M,FALSE,Queens,11419,TRUE,3
+5671,January 25 2015,1,Siberian Husky,2M,F,FALSE,Queens,11421,TRUE,5
+5672,February 03 2015,1,Pit Bull,11,M,FALSE,Queens,11377,TRUE,0
+5673,January 28 2015,1,Pit Bull,,U,FALSE,Queens,11692,TRUE,8
+5674,February 01 2015,1,Akita,6,F,TRUE,Queens,11361,TRUE,4
+5675,February 07 2015,1,Pembroke Welsh Corgi,6,F,TRUE,Queens,11373,TRUE,0
+5676,February 01 2015,1,Mix,1,M,FALSE,Queens,11373,TRUE,0
+5677,February 06 2015,1,Maltese,,U,FALSE,Queens,11101,TRUE,0
+5678,February 08 2015,1,Siberian Husky,1,M,FALSE,Queens,11102,TRUE,12
+5679,February 09 2015,1,Dachshund Long Haired,9,M,FALSE,Queens,11102,TRUE,0
+5680,February 15 2015,1,Maltese,,U,FALSE,Queens,11105,TRUE,7
+5681,February 15 2015,1,Bichon Frise,,U,FALSE,Queens,11101,TRUE,0
+5682,February 16 2015,1,Labrador Retriever,,U,FALSE,Queens,11426,TRUE,8
+5683,February 17 2015,1,Standard Poodle,9M,M,FALSE,Queens,11369,TRUE,10
+5684,February 17 2015,1,Shih Tzu,10,M,TRUE,Queens,11357,TRUE,0
+5685,February 17 2015,1,Chihuahua,,M,TRUE,Queens,11367,TRUE,5
+5686,February 11 2015,1,Pit Bull,6,M,FALSE,Queens,11101,TRUE,0
+5687,February 19 2015,1,American Eskimo,12,F,FALSE,Queens,11370,TRUE,7
+5688,February 13 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,6
+5690,February 22 2015,1,Boston Terrier,5,M,FALSE,Queens,11417,TRUE,3
+5691,February 19 2015,1,Siberian Husky,,U,FALSE,Queens,11101,TRUE,0
+5692,February 23 2015,1,Maltese,5,M,TRUE,Queens,11101,TRUE,0
+5693,February 21 2015,1,Standard Poodle,8,M,TRUE,Queens,11368,TRUE,0
+5694,February 21 2015,1,Mix,1,M,FALSE,Queens,11385,TRUE,7
+5695,February 19 2015,1,Pit Bull,,M,FALSE,Queens,11434,TRUE,0
+5696,February 21 2015,1,Mix,1,M,FALSE,Queens,11385,TRUE,0
+5697,February 24 2015,1,Mix,7,M,TRUE,Queens,11423,TRUE,0
+5698,February 13 2015,1,Bloodhound,8,M,TRUE,Queens,11106,TRUE,1
+5700,February 25 2015,1,Pointer,2,M,TRUE,Queens,11417,TRUE,0
+5701,February 24 2015,1,Shih Tzu,3,M,TRUE,Queens,11101,TRUE,0
+5702,February 28 2015,1,Mix,1,F,TRUE,Queens,11358,TRUE,0
+5703,March 01 2015,1,oy Poodle,14,F,TRUE,Queens,11385,TRUE,0
+5704,February 28 2015,1,Shiba Inu,1,U,FALSE,Queens,11101,TRUE,0
+5705,February 28 2015,1,Boston Terrier,8,M,TRUE,Queens,11369,TRUE,0
+5706,February 28 2015,1,Pit Bull,,U,FALSE,Queens,11691,TRUE,4
+5707,March 01 2015,1,Pit Bull,,U,FALSE,Queens,11103,TRUE,8
+5708,March 03 2015,1,Siberian Husky,10,F,FALSE,Queens,11105,TRUE,0
+5709,March 05 2015,1,Beagle,4,M,TRUE,Queens,11421,TRUE,0
+5710,March 02 2015,1,Mix,8,M,TRUE,Queens,11385,TRUE,0
+5711,March 05 2015,1,German Shepherd,,U,FALSE,Queens,11432,TRUE,6
+5712,March 05 2015,1,Bull Dog,,U,FALSE,Queens,11102,TRUE,0
+5713,March 04 2015,1,Great Dane,,U,FALSE,Queens,11101,TRUE,0
+5714,March 07 2015,1,Rottweiler,3,M,FALSE,Queens,11101,TRUE,0
+5715,March 07 2015,1,Rottweiler,3,M,FALSE,Queens,11101,TRUE,0
+5716,March 07 2015,1,Rottweiler,3,M,FALSE,Queens,11101,TRUE,0
+5717,February 28 2015,1,Siberian Husky,1,M,FALSE,Queens,11374,TRUE,1
+5718,March 07 2015,1,Pit Bull,2,M,TRUE,Queens,11691,TRUE,5
+5719,March 06 2015,1,Mix,4,M,FALSE,Queens,11102,TRUE,0
+5720,March 05 2015,1,Pomeranian,6,M,TRUE,Queens,11385,TRUE,0
+5721,March 03 2015,1,Pit Bull,4,F,TRUE,Queens,11101,TRUE,0
+5722,March 09 2015,1,Mix,,U,FALSE,Queens,11101,TRUE,0
+5723,March 05 2015,1,Boston Terrier,1,M,TRUE,Queens,11354,TRUE,0
+5724,March 11 2015,1,Pit Bull,,U,FALSE,Queens,11368,TRUE,0
+5725,March 12 2015,1,Chihuahua,1,M,TRUE,Queens,11354,TRUE,8
+5726,March 14 2015,1,West High White Terrier,7,F,FALSE,Queens,11361,TRUE,0
+5727,March 14 2015,1,Chihuahua,3,M,TRUE,Queens,11368,TRUE,0
+5728,March 15 2015,1,Pit Bull,2,F,TRUE,Queens,11434,TRUE,0
+5729,March 16 2015,1,Labrador Retriever,6,F,TRUE,Queens,11411,TRUE,1
+5730,March 17 2015,1,Bull Dog,5,M,TRUE,Queens,11109,TRUE,3
+5731,March 11 2015,1,Malamute,,U,FALSE,Queens,11358,TRUE,0
+5732,March 22 2015,1,American Staffordshire Terrier,,M,FALSE,Queens,11691,TRUE,0
+5733,March 22 2015,1,Akita,1,M,FALSE,Queens,11364,TRUE,0
+5734,March 20 2015,1,Labrador Retriever,,U,FALSE,Queens,11421,TRUE,0
+5735,March 22 2015,1,Pit Bull,2,F,FALSE,Queens,11411,TRUE,9
+5736,March 23 2015,1,Chihuahua,1,M,FALSE,Queens,11373,TRUE,0
+5737,March 23 2015,1,Cotton De Tulear,5,M,FALSE,Queens,11373,TRUE,0
+5738,March 24 2015,1,Standard Poodle,2M,F,FALSE,Queens,11385,TRUE,0
+5739,March 22 2015,1,Rottweiler,,F,FALSE,Queens,11367,TRUE,0
+5740,March 26 2015,1,Siberian Husky,3,M,TRUE,Queens,11106,TRUE,0
+5741,March 26 2015,1,Terrier,,U,FALSE,Queens,11370,TRUE,0
+5742,March 18 2015,1,Siberian Husky,4,M,FALSE,Queens,11374,TRUE,0
+5743,March 29 2015,1,Miniature Poodle,4,M,TRUE,Queens,11373,TRUE,0
+5744,March 24 2015,1,Mix,1,F,TRUE,Queens,11363,TRUE,0
+5745,March 30 2015,1,Chihuahua,10,M,FALSE,Queens,11102,TRUE,0
+5746,March 26 2015,1,Pit Bull,3,M,FALSE,Queens,11434,TRUE,0
+5747,March 22 2015,1,Pit Bull,2,F,TRUE,Queens,11101,TRUE,0
+5748,March 07 2015,1,Chow Chow,,U,FALSE,Queens,11355,TRUE,4
+5749,March 26 2015,1,Pit Bull,2,F,TRUE,Queens,11436,TRUE,6
+5750,March 31 2015,1,Miniature Poodle,4,M,FALSE,Queens,11422,TRUE,7
+5751,March 26 2015,1,Jindo Dog,3,M,TRUE,Queens,11365,TRUE,0
+5752,April 02 2015,1,American Staffordshire Terrier,3,M,FALSE,Queens,11101,TRUE,0
+5753,April 02 2015,1,Jack Russell,,U,FALSE,Queens,11435,TRUE,0
+5754,April 05 2015,1,Siberian Husky,15,F,FALSE,Queens,11101,TRUE,0
+5755,March 27 2015,1,German Shepherd,10,M,FALSE,Queens,11368,TRUE,0
+5756,April 02 2015,1,Standard Poodle,1,M,FALSE,Queens,11101,TRUE,0
+5757,April 06 2015,1,Yorkshire Terrier,4,M,TRUE,Queens,11368,TRUE,0
+5758,April 05 2015,1,Bull Dog,,U,FALSE,Queens,11101,TRUE,0
+5759,April 02 2015,1,Beagle,11,M,TRUE,Queens,11365,TRUE,0
+5760,April 10 2015,1,Mix,7,F,TRUE,Queens,11385,TRUE,0
+5761,April 09 2015,1,Shih Tzu,2,F,FALSE,Queens,11372,TRUE,0
+5762,April 09 2015,1,Pit Bull,,U,FALSE,Queens,11435,TRUE,0
+5763,April 02 2015,1,Beagle,,U,FALSE,Queens,11101,TRUE,0
+5764,April 12 2015,1,Pomeranian,,U,FALSE,Queens,11101,TRUE,0
+5765,April 12 2015,1,Pit Bull,11,M,FALSE,Queens,11101,TRUE,0
+5766,April 11 2015,1,Pit Bull,8,M,FALSE,Queens,11435,TRUE,0
+5767,April 10 2015,1,Chihuahua,5,M,TRUE,Queens,11373,TRUE,0
+5768,April 12 2015,1,Maltese,2,M,FALSE,Queens,11418,TRUE,0
+5769,April 12 2015,1,Pit Bull,3,F,TRUE,Queens,11433,TRUE,0
+5770,April 10 2015,1,Shih Tzu,,U,FALSE,Queens,11101,TRUE,0
+5771,April 13 2015,1,Maltese,14,M,FALSE,Queens,11432,TRUE,0
+5772,April 10 2015,1,Maltese,4,M,FALSE,Queens,11368,TRUE,0
+5773,April 15 2015,1,Labrador Retriever,,F,FALSE,Queens,11356,TRUE,4
+5774,April 17 2015,1,Mix,7,M,FALSE,Queens,11377,TRUE,0
+5775,April 17 2015,1,Terrier,1,M,TRUE,Queens,11366,TRUE,8
+5776,April 18 2015,1,Chow Chow,3,F,FALSE,Queens,11101,TRUE,0
+5777,April 18 2015,1,German Shepherd,3,M,TRUE,Queens,11354,TRUE,0
+5778,April 17 2015,1,Shih Tzu,9,M,FALSE,Queens,11101,TRUE,0
+5779,April 13 2015,1,Pit Bull,4,M,TRUE,Queens,11377,TRUE,0
+5780,April 20 2015,1,Labrador Retriever,2,F,TRUE,Queens,11377,TRUE,0
+5781,April 14 2015,1,Mix,1,M,TRUE,Queens,11418,TRUE,0
+5782,April 13 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11694,TRUE,9
+5783,April 18 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5784,April 21 2015,1,Pit Bull,1,M,TRUE,Queens,11369,TRUE,0
+5785,April 20 2015,1,Shiba Inu,9,F,TRUE,Queens,11366,TRUE,0
+5786,April 25 2015,1,Siberian Husky,,U,FALSE,Queens,11101,TRUE,0
+5787,April 25 2015,1,Cocker Spaniel,3,M,FALSE,Queens,11101,TRUE,0
+5788,April 26 2015,1,Maltese,9,F,TRUE,Queens,11366,TRUE,0
+5789,April 23 2015,1,Pit Bull,14,M,FALSE,Queens,11369,TRUE,0
+5790,April 25 2015,1,Chow Chow,3,M,TRUE,Queens,11105,TRUE,0
+5791,April 20 2015,1,Pit Bull,4,M,FALSE,Queens,11692,TRUE,0
+5792,April 27 2015,1,Pit Bull,2,M,TRUE,Queens,11378,TRUE,0
+5793,April 27 2015,1,Mix,4 yrs 8 mo,M,FALSE,Queens,11365,TRUE,0
+5794,April 28 2015,1,Shiba Inu,2,M,TRUE,Queens,11104,TRUE,0
+5795,April 28 2015,1,Standard Poodle,7,M,FALSE,Queens,11373,TRUE,0
+5796,April 24 2015,1,Pit Bull,1,F,FALSE,Queens,11101,TRUE,0
+5797,April 29 2015,1,Mix,,U,FALSE,Queens,11417,TRUE,0
+5798,April 29 2015,1,Pit Bull,2,F,FALSE,Queens,11412,TRUE,11
+5799,April 29 2015,1,Pit Bull,3,F,FALSE,Queens,11412,TRUE,0
+5800,April 29 2015,1,Pit Bull,3,F,FALSE,Queens,11412,TRUE,0
+5801,May 02 2015,1,Siberian Husky,4,M,TRUE,Queens,11415,TRUE,3
+5802,May 03 2015,1,Basenji,2,M,TRUE,Queens,11361,TRUE,0
+5803,May 04 2015,1,Rottweiler,9,F,TRUE,Queens,11373,TRUE,0
+5804,April 25 2015,1,Boxer,6,F,TRUE,Queens,11362,TRUE,0
+5805,May 05 2015,1,Jack Russell,7,F,TRUE,Queens,11101,TRUE,0
+5806,May 02 2015,1,Havanese,3,M,TRUE,Queens,11420,TRUE,0
+5807,May 04 2015,1,German Shepherd,3,F,TRUE,Queens,11362,TRUE,0
+5808,May 04 2015,1,Labradoodle,9,F,TRUE,Queens,11362,TRUE,0
+5809,May 03 2015,1,Mix,,U,FALSE,Queens,11357,TRUE,0
+5810,April 18 2015,1,Pit Bull,6,F,FALSE,Queens,11004,TRUE,0
+5811,May 05 2015,1,Pit Bull,5,U,FALSE,Queens,11692,TRUE,0
+5812,May 07 2015,1,Chihuahua,2,M,TRUE,Queens,11691,TRUE,0
+5813,May 07 2015,1,Pit Bull,9M,M,TRUE,Queens,11101,TRUE,0
+5814,May 08 2015,1,Siberian Husky,1,M,TRUE,Queens,11372,TRUE,0
+5815,May 09 2015,1,Pit Bull,1,M,FALSE,Queens,11417,TRUE,0
+5816,May 05 2015,1,Pit Bull,17,F,TRUE,Queens,11377,TRUE,0
+5817,May 08 2015,1,Pit Bull,2,M,TRUE,Queens,11423,TRUE,0
+5818,May 09 2015,1,Mix,2,M,TRUE,Queens,11373,TRUE,0
+5819,May 08 2015,1,Shiba Inu,7M,F,TRUE,Queens,11377,TRUE,0
+5820,May 05 2015,1,Bichon Frise,,F,TRUE,Queens,11432,TRUE,0
+5821,May 07 2015,1,Siberian Husky,,U,FALSE,Queens,11101,TRUE,0
+5822,May 09 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5823,May 08 2015,1,Pit Bull,6,F,FALSE,Queens,11356,TRUE,0
+5824,May 11 2015,1,Shih Tzu,,M,FALSE,Queens,11101,TRUE,0
+5825,May 03 2015,1,Pit Bull,4,M,TRUE,Queens,11435,TRUE,0
+5826,May 07 2015,1,French Bull Dog,,U,FALSE,Queens,11418,TRUE,0
+5827,May 07 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5828,April 26 2015,1,Rottweiler,4,M,TRUE,Queens,11385,TRUE,0
+5829,March 22 2015,1,German Shepherd,5,F,TRUE,Queens,11419,TRUE,0
+5830,May 14 2015,1,Bull Dog,,U,FALSE,Queens,11369,TRUE,0
+5831,May 08 2015,1,Pit Bull,5,M,FALSE,Queens,11368,TRUE,0
+5832,May 17 2015,1,Mix,7,M,TRUE,Queens,11103,TRUE,0
+5833,May 14 2015,1,Mix,2,M,FALSE,Queens,11385,TRUE,0
+5834,May 17 2015,1,Labrador Retriever,,U,FALSE,Queens,11101,TRUE,0
+5835,April 16 2015,1,English Bull Dog,2,F,TRUE,Queens,11358,TRUE,0
+5836,May 17 2015,1,Chihuahua,2,M,FALSE,Queens,11101,TRUE,0
+5837,May 17 2015,1,Terrier,,U,FALSE,Queens,11385,TRUE,0
+5838,May 17 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5839,May 15 2015,1,Shih Tzu,,U,FALSE,Queens,11101,TRUE,0
+5840,May 19 2015,1,Chow Chow,8,M,FALSE,Queens,11385,TRUE,0
+5841,May 16 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5842,May 15 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5843,May 18 2015,1,Pit Bull,9M,M,FALSE,Queens,11358,TRUE,9
+5844,May 19 2015,1,Rottweiler,8,M,FALSE,Queens,11434,TRUE,0
+5845,May 20 2015,1,Mix,3,F,FALSE,Queens,11101,TRUE,0
+5846,May 20 2015,1,Shiba Inu,6,M,TRUE,Queens,11362,TRUE,0
+5847,May 02 2015,1,Bull Dog,3,M,TRUE,Queens,11377,TRUE,0
+5848,May 25 2015,1,Jack Russell,2,M,FALSE,Queens,11433,TRUE,0
+5849,May 25 2015,1,Mix,5,M,TRUE,Queens,11374,TRUE,0
+5850,May 25 2015,1,Golden Retriever,8,M,FALSE,Queens,11434,TRUE,0
+5851,May 24 2015,1,Chow Chow,,U,FALSE,Queens,11369,TRUE,0
+5852,May 24 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5853,May 27 2015,1,Shih Tzu,1,M,FALSE,Queens,11373,TRUE,0
+5854,May 16 2015,1,Mix,5,M,TRUE,Queens,11694,TRUE,0
+5855,May 23 2015,1,Maltese,,U,FALSE,Queens,11101,TRUE,0
+5856,May 28 2015,1,Pit Bull,4M,M,FALSE,Queens,11692,TRUE,0
+5857,May 08 2015,1,Bull Dog,12,M,TRUE,Queens,11105,TRUE,0
+5858,May 29 2015,1,Maltese,7,M,FALSE,Queens,11378,TRUE,0
+5859,May 26 2015,1,Sheperd,,U,FALSE,Queens,11413,TRUE,0
+5860,May 29 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11105,TRUE,0
+5861,May 30 2015,1,Pit Bull,1,M,TRUE,Queens,11101,TRUE,0
+5862,May 30 2015,1,Jindo Dog,7,M,TRUE,Queens,11378,TRUE,0
+5863,May 18 2015,1,Pit Bull,4,F,TRUE,Queens,11105,TRUE,0
+5864,May 31 2015,1,Labrador Retriever,4,M,TRUE,Queens,11368,TRUE,0
+5865,May 17 2015,1,German Shepherd,,U,FALSE,Queens,11101,TRUE,0
+5866,June 01 2015,1,Pit Bull,3,M,FALSE,Queens,11369,TRUE,0
+5867,June 02 2015,1,Jindo Dog,4,F,TRUE,Queens,11375,TRUE,0
+5868,May 27 2015,1,Samoyed,8,M,TRUE,Queens,11101,TRUE,0
+5869,June 03 2015,1,Pit Bull,,U,FALSE,Queens,11432,TRUE,0
+5870,May 21 2015,1,Pit Bull,9M,M,FALSE,Queens,11368,TRUE,0
+5871,June 07 2015,1,Pit Bull,,F,FALSE,Queens,11362,TRUE,0
+5872,June 05 2015,1,Mix,3,U,FALSE,Queens,11377,TRUE,0
+5873,June 05 2015,1,Pit Bull,2,F,FALSE,Queens,11436,TRUE,0
+5874,June 05 2015,1,Pit Bull,,U,FALSE,Queens,11372,TRUE,0
+5875,June 04 2015,1,Staffordshire Bull Terrier,2,M,FALSE,Queens,11415,TRUE,0
+5876,June 07 2015,1,Pit Bull,3,M,FALSE,Queens,11101,TRUE,0
+5877,June 06 2015,1,Mix,4,M,FALSE,Queens,11358,TRUE,0
+5878,June 08 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,0
+5879,June 04 2015,1,German Shepherd,5M,M,FALSE,Queens,11355,TRUE,0
+5880,May 31 2015,1,Shih Tzu,1,M,FALSE,Queens,11101,TRUE,0
+5881,June 07 2015,1,Rottweiler,2,M,FALSE,Queens,11423,TRUE,0
+5882,June 08 2015,1,Pit Bull,3,M,FALSE,Queens,11372,TRUE,0
+5883,June 10 2015,1,Dachshund Long Haired,3,F,TRUE,Queens,11372,TRUE,0
+5884,June 10 2015,1,Chihuahua,,U,FALSE,Queens,11101,TRUE,0
+5885,June 06 2015,1,Standard Poodle,5,M,TRUE,Queens,11355,TRUE,0
+5886,June 10 2015,1,Bichon Frise,6,M,TRUE,Queens,11356,TRUE,0
+5887,June 12 2015,1,Maltese,2,M,FALSE,Queens,11433,TRUE,0
+5888,June 14 2015,1,Pit Bull,,U,TRUE,Queens,11435,TRUE,0
+5889,June 13 2015,1,Siberian Husky,2,M,FALSE,Queens,11413,TRUE,0
+5890,June 14 2015,1,Mix,3,F,TRUE,Queens,11101,TRUE,0
+5891,June 06 2015,1,French Bull Dog,8,M,TRUE,Queens,11105,TRUE,0
+5892,June 09 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11385,TRUE,0
+5893,June 09 2015,1,Standard Schnauzer,,U,FALSE,Queens,11101,TRUE,0
+5894,June 09 2015,1,German Shepherd,,U,FALSE,Queens,11377,TRUE,0
+5895,June 15 2015,1,Mix,2,M,TRUE,Queens,11691,TRUE,0
+5896,June 15 2015,1,Beagle,8M,M,FALSE,Queens,11373,TRUE,0
+5897,June 15 2015,1,Rottweiler,6,M,FALSE,Queens,11101,TRUE,0
+5898,June 15 2015,1,Boxer,,U,FALSE,Queens,11435,TRUE,0
+5899,June 14 2015,1,Persian,,U,FALSE,Queens,11106,TRUE,0
+5900,June 15 2015,1,Mix,5,F,TRUE,Queens,11379,TRUE,0
+5901,June 06 2015,1,Chihuahua,5,M,FALSE,Queens,11101,TRUE,0
+5902,June 16 2015,1,Siberian Husky,2,M,FALSE,Queens,11423,TRUE,0
+5903,June 16 2015,1,Boxer,,U,FALSE,Queens,11101,TRUE,0
+5904,June 16 2015,1,Pit Bull,7,M,TRUE,Queens,11377,TRUE,0
+5905,June 04 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11369,TRUE,0
+5906,June 04 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11369,TRUE,0
+5907,June 06 2015,1,Havanese,7,F,FALSE,Queens,11101,TRUE,0
+5908,June 18 2015,1,Boxer,8,M,TRUE,Queens,11416,TRUE,0
+5909,June 17 2015,1,Pit Bull,,U,FALSE,Queens,11427,TRUE,0
+5910,June 14 2015,1,Mix,,M,FALSE,Queens,11385,TRUE,0
+5911,June 17 2015,1,Cocker Spaniel,,U,FALSE,Queens,11106,TRUE,0
+5912,June 21 2015,1,Shih Tzu,3,M,FALSE,Queens,11420,TRUE,0
+5913,June 18 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5914,June 20 2015,1,Maltese,7,M,FALSE,Queens,11356,TRUE,0
+5915,June 20 2015,1,Labrador Retriever,4,M,TRUE,Queens,11101,TRUE,0
+5916,June 21 2015,1,Mix,,U,FALSE,Queens,11101,TRUE,0
+5917,June 22 2015,1,Shih Tzu,1,M,FALSE,Queens,11368,TRUE,0
+5918,June 20 2015,1,Poodle,,U,FALSE,Queens,11101,TRUE,0
+5919,June 21 2015,1,Cocker Spaniel,8,F,FALSE,Queens,11373,TRUE,0
+5920,May 30 2015,1,Maltese,7,M,TRUE,Queens,11374,TRUE,0
+5921,June 22 2015,1,Standard Poodle,,U,FALSE,Queens,11354,TRUE,0
+5922,June 21 2015,1,Spitz,,U,FALSE,Queens,11436,TRUE,0
+5923,June 25 2015,1,Pit Bull,,U,FALSE,Queens,11355,TRUE,0
+5924,June 25 2015,1,Pit Bull,,M,FALSE,Queens,11101,TRUE,0
+5925,June 24 2015,1,Mix,8,M,TRUE,Queens,11101,TRUE,0
+5926,June 27 2015,1,Pit Bull,3,M,FALSE,Queens,11429,TRUE,0
+5927,June 27 2015,1,Pit Bull,2,M,TRUE,Queens,11434,TRUE,0
+5928,June 28 2015,1,Mix,7,M,FALSE,Queens,11421,TRUE,0
+5929,June 19 2015,1,Mix,10,U,FALSE,Queens,11429,TRUE,0
+5930,June 28 2015,1,Maltese,,U,FALSE,Queens,11101,TRUE,0
+5931,June 27 2015,1,Siberian Husky,4,M,TRUE,Queens,11415,TRUE,0
+5932,June 27 2015,1,German Shepherd,1,M,TRUE,Queens,11377,TRUE,0
+5933,June 26 2015,1,Samoyed,13,M,FALSE,Queens,11101,TRUE,0
+5934,June 27 2015,1,Pit Bull,3,M,FALSE,Queens,11101,TRUE,0
+5935,June 27 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5936,June 26 2015,1,Mix,,U,FALSE,Queens,11101,TRUE,0
+5937,June 27 2015,1,German Shepherd,16,F,TRUE,Queens,11435,TRUE,0
+5938,June 29 2015,1,Cairn Terrier,8,M,FALSE,Queens,11101,TRUE,0
+5939,June 30 2015,1,German Shepherd,5,M,FALSE,Queens,11101,TRUE,0
+5940,June 11 2015,1,German Shepherd,3,F,FALSE,Queens,11356,TRUE,0
+5941,June 13 2015,1,Shih Tzu,3,M,FALSE,Queens,11101,TRUE,0
+5942,July 01 2015,1,Akita,2,M,FALSE,Queens,11434,TRUE,0
+5943,June 29 2015,1,Pit Bull,,M,FALSE,Queens,11101,TRUE,0
+5944,June 29 2015,1,Norfolk Terrier,2,M,TRUE,Queens,11365,TRUE,0
+5945,June 29 2015,1,Mix,4,M,TRUE,Queens,11356,TRUE,0
+5946,June 30 2015,1,Yorkshire Terrier,3,M,FALSE,Queens,11101,TRUE,0
+5947,July 02 2015,1,Labrador Retriever,5,M,FALSE,Queens,11378,TRUE,0
+5948,June 30 2015,1,Daschound,,U,FALSE,Queens,11101,TRUE,0
+5949,June 28 2015,1,Miniature Poodle,11,F,TRUE,Queens,11101,TRUE,0
+5950,July 01 2015,1,Miniature Pinscher,6,M,TRUE,Queens,11385,TRUE,0
+5951,June 28 2015,1,Mix,,U,FALSE,Queens,11436,TRUE,0
+5952,June 29 2015,1,Pit Bull,,U,FALSE,Queens,11373,TRUE,0
+5953,July 02 2015,1,Labrador Retriever,4M,M,FALSE,Queens,11101,TRUE,0
+5954,July 07 2015,1,German Shepherd,1,M,FALSE,Queens,11374,TRUE,0
+5955,July 03 2015,1,Mix,5,F,FALSE,Queens,11433,TRUE,0
+5956,July 02 2015,1,American Staffordshire Terrier,3,M,FALSE,Queens,11101,TRUE,0
+5957,July 02 2015,1,Standard Poodle,,U,FALSE,Queens,11101,TRUE,0
+5958,July 03 2015,1,Mix,,U,FALSE,Queens,11355,TRUE,0
+5959,July 04 2015,1,Chihuahua,12,F,TRUE,Queens,11101,TRUE,0
+5960,July 05 2015,1,Rottweiler,3,M,TRUE,Queens,11372,TRUE,0
+5961,July 05 2015,1,Pit Bull,4M,M,FALSE,Queens,11101,TRUE,0
+5962,July 03 2015,1,Havanese,5,M,TRUE,Queens,11371,TRUE,0
+5963,July 05 2015,1,Pit Bull,5,M,FALSE,Queens,11419,TRUE,0
+5964,June 12 2015,1,Pit Bull,1,M,FALSE,Queens,11413,TRUE,0
+5965,July 04 2015,1,Pit Bull,,U,FALSE,Queens,11691,TRUE,0
+5966,July 04 2015,1,Rottweiler,,M,FALSE,Queens,11101,TRUE,0
+5967,July 06 2015,1,Chihuahua,,U,TRUE,Queens,11415,TRUE,0
+5968,July 08 2015,1,Mix,7,F,TRUE,Queens,11101,TRUE,0
+5969,July 08 2015,1,Doberman Pinscher,,U,FALSE,Queens,11101,TRUE,0
+5970,July 08 2015,1,Cocker Spaniel,5,M,TRUE,Queens,11101,TRUE,0
+5971,July 10 2015,1,Pit Bull,1,F,TRUE,Queens,11423,TRUE,0
+5972,July 12 2015,1,Mix,3,M,TRUE,Queens,11101,TRUE,0
+5973,July 07 2015,1,English Bull Dog,6,M,FALSE,Queens,11101,TRUE,0
+5974,July 13 2015,1,Mix,4,M,FALSE,Queens,11101,TRUE,0
+5975,July 01 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5976,July 12 2015,1,Terrier,,U,FALSE,Queens,11101,TRUE,0
+5977,July 07 2015,1,Boxer,3,M,TRUE,Queens,11379,TRUE,0
+5978,July 08 2015,1,Bichon Frise,3,M,TRUE,Queens,11101,TRUE,0
+5979,July 11 2015,1,Pit Bull,,U,FALSE,Queens,11385,TRUE,0
+5980,July 09 2015,1,French Bull Dog,2,M,FALSE,Queens,11101,TRUE,0
+5981,July 10 2015,1,Bichon Frise,4,F,TRUE,Queens,11374,TRUE,0
+5982,July 09 2015,1,Maltese,9M,M,TRUE,Queens,11101,TRUE,0
+5983,July 11 2015,1,Mix,,U,FALSE,Queens,11101,TRUE,0
+5984,July 11 2015,1,Siberian Husky,,U,FALSE,Queens,11418,TRUE,0
+5985,July 12 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5986,July 12 2015,1,Chihuahua,,U,FALSE,Queens,11101,TRUE,0
+5987,July 13 2015,1,Maltese,,U,FALSE,Queens,11375,TRUE,0
+5988,July 13 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+5989,July 14 2015,1,Pit Bull,8,F,TRUE,Queens,11355,TRUE,0
+5990,July 16 2015,1,Standard Schnauzer,4,F,TRUE,Queens,11369,TRUE,0
+5991,July 16 2015,1,German Shepherd,7,F,FALSE,Queens,11368,TRUE,0
+5992,July 14 2015,1,Samoyed,3,M,TRUE,Queens,11420,TRUE,0
+5993,July 03 2015,1,Maltese,4,F,TRUE,Queens,11374,TRUE,0
+5994,July 11 2015,1,Miniature Schnauzer,,U,FALSE,Queens,11101,TRUE,0
+5995,July 18 2015,1,Pit Bull,,U,FALSE,Queens,11414,TRUE,0
+5996,July 15 2015,1,Rottweiler,,U,FALSE,Queens,11385,TRUE,0
+5997,July 19 2015,1,Pit Bull,,U,FALSE,Queens,11377,TRUE,0
+5998,July 19 2015,1,Pit Bull,,U,FALSE,Queens,11691,TRUE,0
+5999,July 18 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6000,July 03 2015,1,Mix,7,F,TRUE,Queens,11101,TRUE,0
+6001,July 14 2015,1,Doberman Pinscher,1,M,TRUE,Queens,11357,TRUE,0
+6002,July 17 2015,1,Pit Bull,,U,FALSE,Queens,11105,TRUE,0
+6003,July 19 2015,1,Pit Bull,,U,FALSE,Queens,11694,TRUE,0
+6004,July 19 2015,1,Maltese,,U,FALSE,Queens,11367,TRUE,0
+6005,July 14 2015,1,Pit Bull,,U,FALSE,Queens,11423,TRUE,0
+6006,July 21 2015,1,Pit Bull,2,U,FALSE,Queens,11412,TRUE,0
+6007,July 22 2015,1,Beagle,,U,FALSE,Queens,11435,TRUE,0
+6008,July 03 2015,1,Mix,1,M,FALSE,Queens,11355,TRUE,0
+6009,July 23 2015,1,Newfoundland,5,M,TRUE,Queens,11414,TRUE,0
+6010,July 23 2015,1,Cocker Spaniel,,U,FALSE,Queens,11101,TRUE,0
+6011,July 24 2015,1,Mix,5,F,TRUE,Queens,11432,TRUE,0
+6012,July 26 2015,1,Pit Bull,8,M,TRUE,Queens,11419,TRUE,6
+6013,July 24 2015,1,American Staffordshire Terrier,2,M,FALSE,Queens,11367,TRUE,9
+6014,July 23 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6015,July 25 2015,1,Pit Bull,,U,FALSE,Queens,11419,TRUE,0
+6016,July 25 2015,1,Bull Dog,,U,FALSE,Queens,11101,TRUE,0
+6017,July 22 2015,1,Maltese,10,F,FALSE,Queens,11101,TRUE,0
+6018,July 21 2015,1,Mix,13,M,FALSE,Queens,11422,TRUE,0
+6019,July 27 2015,1,Pit Bull,,U,FALSE,Queens,11377,TRUE,0
+6020,July 27 2015,1,Pit Bull,3,M,FALSE,Queens,11101,TRUE,0
+6021,July 20 2015,1,Pit Bull,,U,FALSE,Queens,11413,TRUE,0
+6022,July 27 2015,1,Mix,1,M,FALSE,Queens,11435,TRUE,0
+6023,July 24 2015,1,Pit Bull,1,M,FALSE,Queens,11434,TRUE,0
+6024,July 27 2015,1,Chihuahua,14,M,TRUE,Queens,11429,TRUE,0
+6025,July 27 2015,1,Pit Bull,,U,FALSE,Queens,11103,TRUE,0
+6026,July 24 2015,1,Mix,,U,FALSE,Queens,11414,TRUE,0
+6027,July 21 2015,1,Pit Bull,,U,FALSE,Queens,11105,TRUE,0
+6028,July 27 2015,1,Pit Bull,,U,FALSE,Queens,11413,TRUE,0
+6029,July 11 2015,1,Mix,9,M,TRUE,Queens,11362,TRUE,4
+6030,July 11 2015,1,German Shepherd,,F,FALSE,Queens,11430,TRUE,1
+6031,July 28 2015,1,Alapaha Bulldog,3,M,FALSE,Queens,11413,TRUE,0
+6032,July 30 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6033,August 02 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6034,August 02 2015,1,Standard Poodle,,U,FALSE,Queens,11101,TRUE,0
+6035,July 31 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6036,August 02 2015,1,Pit Bull,10M,M,FALSE,Queens,11418,TRUE,0
+6037,August 02 2015,1,Pit Bull,10M,M,FALSE,Queens,11418,TRUE,0
+6038,August 02 2015,1,Pit Bull,10M,M,FALSE,Queens,11418,TRUE,0
+6039,August 03 2015,1,Siberian Husky,,U,FALSE,Queens,11106,TRUE,0
+6040,July 20 2015,1,German Shepherd,5,F,TRUE,Queens,11101,TRUE,0
+6041,August 03 2015,1,Chow Chow,5,M,TRUE,Queens,11378,TRUE,0
+6042,August 04 2015,1,Pit Bull,4,M,TRUE,Queens,11373,TRUE,0
+6043,August 04 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6044,August 05 2015,1,Cocker Spaniel,1,M,FALSE,Queens,11368,TRUE,0
+6045,August 05 2015,1,Mix,1,F,TRUE,Queens,11418,TRUE,0
+6046,August 05 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11101,TRUE,0
+6047,August 03 2015,1,Mix,5,F,FALSE,Queens,11420,TRUE,0
+6048,August 06 2015,1,French Bull Dog,3,M,TRUE,Queens,11109,TRUE,0
+6049,August 08 2015,1,Maltese,7,M,TRUE,Queens,11358,TRUE,0
+6050,August 10 2015,1,Golden Retriever,2,M,TRUE,Queens,11103,TRUE,0
+6051,June 08 2015,1,Pit Bull,,U,FALSE,Queens,11373,TRUE,0
+6052,August 08 2015,1,Yorkshire Terrier,1,M,TRUE,Queens,11101,TRUE,0
+6053,August 08 2015,1,Mastiff,2,M,FALSE,Queens,11357,TRUE,0
+6054,August 08 2015,1,German Shepherd,,U,FALSE,Queens,11412,TRUE,0
+6055,August 06 2015,1,Pit Bull,,U,FALSE,Queens,11413,TRUE,0
+6056,August 10 2015,1,Rottweiler,,U,FALSE,Queens,11101,TRUE,0
+6057,August 10 2015,1,Maltese,,U,FALSE,Queens,11101,TRUE,0
+6058,August 10 2015,1,Australian Shepherd,11,F,TRUE,Queens,11101,TRUE,0
+6059,August 10 2015,1,Mix,2,F,FALSE,Queens,11101,TRUE,0
+6060,August 04 2015,1,German Shepherd,2,M,FALSE,Queens,11416,TRUE,0
+6061,August 11 2015,1,Pit Bull,2,M,TRUE,Queens,11429,TRUE,0
+6062,August 12 2015,1,Mix,,U,FALSE,Queens,11101,TRUE,0
+6063,August 13 2015,1,Pit Bull,,U,FALSE,Queens,11104,TRUE,0
+6064,August 08 2015,1,Boxer,2,M,FALSE,Queens,11691,TRUE,0
+6065,August 13 2015,1,Mix,2,M,TRUE,Queens,11413,TRUE,0
+6066,August 12 2015,1,Siberian Husky,8,M,TRUE,Queens,11101,TRUE,0
+6067,August 12 2015,1,Jack Russell,11,F,TRUE,Queens,11355,TRUE,0
+6068,August 13 2015,1,Cane Corso,2,F,FALSE,Queens,11413,TRUE,0
+6069,July 31 2015,1,Pit Bull,5,M,TRUE,Queens,11369,TRUE,0
+6070,August 16 2015,1,Cocker Spaniel,5,M,FALSE,Queens,11101,TRUE,0
+6071,August 16 2015,1,Standard Schnauzer,,U,FALSE,Queens,11368,TRUE,0
+6072,August 16 2015,1,Pit Bull,,U,FALSE,Queens,11422,TRUE,0
+6073,August 15 2015,1,Pit Bull,3,M,FALSE,Queens,11385,TRUE,0
+6074,August 10 2015,1,Mix,14,F,TRUE,Queens,11428,TRUE,0
+6075,August 12 2015,1,Pit Bull,,U,FALSE,Queens,11420,TRUE,0
+6076,August 19 2015,1,Maltese,4,M,TRUE,Queens,11101,TRUE,0
+6077,August 15 2015,1,Labrador Retriever,2,M,TRUE,Queens,11101,TRUE,0
+6078,August 23 2015,1,Mix,8,F,TRUE,Queens,11101,TRUE,0
+6079,August 22 2015,1,German Shepherd,5,M,FALSE,Queens,11355,TRUE,0
+6080,August 22 2015,1,Mix,7,M,TRUE,Queens,11418,TRUE,0
+6081,August 22 2015,1,Maltese,,U,FALSE,Queens,11101,TRUE,0
+6082,August 20 2015,1,French Poodle,6,M,FALSE,Queens,11368,TRUE,0
+6083,August 22 2015,1,Maltese,3,M,TRUE,Queens,11354,TRUE,0
+6084,August 22 2015,1,German Shepherd,,U,FALSE,Queens,11355,TRUE,0
+6085,August 24 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6086,August 23 2015,1,Boxer,,U,FALSE,Queens,11101,TRUE,0
+6087,August 21 2015,1,Shih Tzu,,U,FALSE,Queens,11385,TRUE,0
+6088,August 20 2015,1,Pit Bull,2,M,TRUE,Queens,11421,TRUE,0
+6089,August 26 2015,1,Pit Bull,3,M,FALSE,Queens,11372,TRUE,0
+6090,August 25 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6091,August 28 2015,1,Standard Poodle,2,M,TRUE,Queens,11435,TRUE,0
+6092,August 17 2015,1,Mix,3,M,TRUE,Queens,11365,TRUE,0
+6093,August 26 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,0
+6094,August 16 2015,1,Labrador Retriever,,U,FALSE,Queens,11436,TRUE,0
+6095,August 29 2015,1,Mix,3,F,TRUE,Queens,11356,TRUE,0
+6096,August 30 2015,1,Mix,,U,FALSE,Queens,11101,TRUE,0
+6097,August 30 2015,1,Mix,2,M,TRUE,Queens,11372,TRUE,0
+6098,August 30 2015,1,Maltese,2,M,TRUE,Queens,11101,TRUE,0
+6099,August 30 2015,1,German Shepherd,,U,FALSE,Queens,11103,TRUE,0
+6100,August 31 2015,1,Pit Bull,2,M,FALSE,Queens,11101,TRUE,0
+6101,August 30 2015,1,Mix,11,F,FALSE,Queens,11379,TRUE,0
+6102,September 01 2015,1,Pit Bull,5,M,FALSE,Queens,11374,TRUE,0
+6103,August 30 2015,1,Pomeranian,4,M,FALSE,Queens,11373,TRUE,0
+6104,August 27 2015,1,Rottweiler,,U,FALSE,Queens,11101,TRUE,0
+6105,August 21 2015,1,Mix,8,M,TRUE,Queens,11375,TRUE,0
+6106,September 01 2015,1,Pit Bull,3,F,FALSE,Queens,11101,TRUE,0
+6107,September 01 2015,1,Bull Dog,,U,FALSE,Queens,11109,TRUE,0
+6108,September 02 2015,1,Mix,2,M,TRUE,Queens,11102,TRUE,0
+6109,August 23 2015,1,Bull Terrier,5,M,TRUE,Queens,11693,TRUE,0
+6110,September 03 2015,1,Pit Bull,6,F,FALSE,Queens,11385,TRUE,0
+6111,September 03 2015,1,American Staffordshire Terrier,3,F,FALSE,Queens,11102,TRUE,0
+6112,September 03 2015,1,French Poodle,5,M,TRUE,Queens,11373,TRUE,0
+6113,August 31 2015,1,Terrier,1,M,FALSE,Queens,11368,TRUE,0
+6114,September 03 2015,1,German Shepherd,4,F,FALSE,Queens,11354,TRUE,0
+6115,September 04 2015,1,Rottweiler,,U,FALSE,Queens,11101,TRUE,0
+6116,September 08 2015,1,Tibetan Mastiff,1,M,TRUE,Queens,11101,TRUE,0
+6117,September 02 2015,1,Rottweiler,,U,FALSE,Queens,11419,TRUE,0
+6118,September 06 2015,1,Pit Bull,4,F,FALSE,Queens,11692,TRUE,0
+6119,September 05 2015,1,Pit Bull,,U,FALSE,Queens,11385,TRUE,0
+6120,September 01 2015,1,Siberian Husky,,U,FALSE,Queens,11101,TRUE,0
+6121,September 07 2015,1,Malamute,8,M,TRUE,Queens,11101,TRUE,0
+6122,September 05 2015,1,Labrador Retriever,,U,FALSE,Queens,11101,TRUE,0
+6123,September 03 2015,1,Chihuahua,2,M,TRUE,Queens,11101,TRUE,0
+6124,August 25 2015,1,Chihuahua,,U,FALSE,Queens,11692,TRUE,0
+6125,September 08 2015,1,Hungarian Sheep Dog,,U,FALSE,Queens,11418,TRUE,0
+6126,September 04 2015,1,Yorkshire Terrier,3,M,FALSE,Queens,11101,TRUE,0
+6127,August 06 2015,1,Pekingese,1,F,FALSE,Queens,11368,TRUE,0
+6128,September 06 2015,1,Mix,,U,FALSE,Queens,11429,TRUE,0
+6129,September 05 2015,1,Mix,2,M,FALSE,Queens,11434,TRUE,0
+6130,September 07 2015,1,Mix,,U,FALSE,Queens,11101,TRUE,0
+6131,September 06 2015,1,Pit Bull,,U,FALSE,Queens,11420,TRUE,0
+6132,September 03 2015,1,Pit Bull,1,M,FALSE,Queens,11101,TRUE,0
+6133,September 11 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6134,August 25 2015,1,Chihuahua,,U,FALSE,Queens,11692,TRUE,0
+6135,September 09 2015,1,Pit Bull,4,M,FALSE,Queens,11418,TRUE,0
+6136,September 10 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6137,September 11 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6138,September 13 2015,1,Mix,,U,FALSE,Queens,11368,TRUE,0
+6139,September 13 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6140,September 02 2015,1,Pomeranian,3,M,FALSE,Queens,11373,TRUE,0
+6141,September 12 2015,1,Chihuahua,5,F,TRUE,Queens,11368,TRUE,0
+6142,September 13 2015,1,Yorkshire Terrier,2,M,FALSE,Queens,11433,TRUE,0
+6143,September 15 2015,1,Pit Bull,3,M,TRUE,Queens,11372,TRUE,0
+6144,August 27 2015,1,Mix,9,M,FALSE,Queens,11694,TRUE,0
+6145,September 01 2015,1,Chow Chow,,U,FALSE,Queens,11412,TRUE,0
+6146,August 29 2015,1,Mix,2,M,FALSE,Queens,11101,TRUE,0
+6147,August 29 2015,1,Chow Chow,,U,FALSE,Queens,11412,TRUE,0
+6148,September 16 2015,1,Rottweiler,,U,FALSE,Queens,11101,TRUE,0
+6149,September 03 2015,1,Pit Bull,2,M,FALSE,Queens,11101,TRUE,0
+6150,September 16 2015,1,German Shepherd,,U,FALSE,Queens,11691,TRUE,0
+6151,September 20 2015,1,Mix,4M,M,FALSE,Queens,11101,TRUE,0
+6152,September 21 2015,1,Pit Bull,4M,M,FALSE,Queens,11418,TRUE,0
+6153,September 18 2015,1,Bull Dog,,U,FALSE,Queens,11373,TRUE,0
+6154,September 11 2015,1,Cocker Spaniel,7,M,FALSE,Queens,11101,TRUE,0
+6155,September 18 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6156,September 09 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6157,September 22 2015,1,Havanese,3,M,TRUE,Queens,11101,TRUE,0
+6158,September 25 2015,1,Cocker Spaniel,6,F,FALSE,Queens,11379,TRUE,0
+6159,September 14 2015,1,Chihuahua,,U,FALSE,Queens,11360,TRUE,0
+6160,September 16 2015,1,Pit Bull,,U,FALSE,Queens,11105,TRUE,0
+6161,September 27 2015,1,German Shepherd,3,M,TRUE,Queens,11364,TRUE,0
+6162,September 26 2015,1,Pit Bull,10M,M,FALSE,Queens,11694,TRUE,0
+6163,September 25 2015,1,Pit Bull,4,F,FALSE,Queens,11692,TRUE,0
+6164,September 25 2015,1,Pit Bull,4,F,FALSE,Queens,11692,TRUE,0
+6165,September 27 2015,1,Pit Bull,4,F,TRUE,Queens,11417,TRUE,0
+6166,September 25 2015,1,Bull Dog,1,M,TRUE,Queens,11412,TRUE,0
+6167,September 28 2015,1,Pit Bull,,U,FALSE,Queens,11106,TRUE,0
+6168,September 30 2015,1,Sheepdog,2,F,FALSE,Queens,11418,TRUE,0
+6169,September 10 2015,1,Mix,,U,FALSE,Queens,11422,TRUE,0
+6170,September 18 2015,1,Rottweiler,,U,FALSE,Queens,11414,TRUE,0
+6171,September 12 2015,1,Pit Bull,2,M,FALSE,Queens,11354,TRUE,0
+6172,September 19 2015,1,Mix,3,M,TRUE,Queens,11377,TRUE,0
+6173,September 23 2015,1,Standard Poodle,,U,FALSE,Queens,11361,TRUE,0
+6174,October 02 2015,1,Siberian Husky,,U,FALSE,Queens,11101,TRUE,0
+6175,October 03 2015,1,Pit Bull,,M,FALSE,Queens,11691,TRUE,0
+6176,October 03 2015,1,Beagle,,U,FALSE,Queens,11101,TRUE,0
+6177,October 03 2015,1,Maltese,6,M,TRUE,Queens,11373,TRUE,0
+6178,October 03 2015,1,Lhasa Apso,5,M,TRUE,Queens,11104,TRUE,0
+6179,September 30 2015,1,Pit Bull,3,M,TRUE,Queens,11385,TRUE,0
+6180,September 30 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,0
+6181,October 06 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6182,October 06 2015,1,Mix,1,M,TRUE,Queens,11368,TRUE,0
+6183,October 06 2015,1,Maltese,4,F,TRUE,Queens,11362,TRUE,0
+6184,October 07 2015,1,Maltese,2,F,TRUE,Queens,11420,TRUE,0
+6185,October 06 2015,1,French Bull Dog,1,M,TRUE,Queens,11368,TRUE,0
+6186,October 06 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6187,October 08 2015,1,German Shepherd,,U,FALSE,Queens,11385,TRUE,0
+6188,October 01 2015,1,Maltese,,U,FALSE,Queens,11375,TRUE,0
+6189,October 03 2015,1,Pit Bull,,F,TRUE,Queens,11369,TRUE,0
+6190,October 12 2015,1,Pit Bull,,U,FALSE,Queens,11417,TRUE,0
+6191,October 08 2015,1,Shih Tzu,2,M,FALSE,Queens,11422,TRUE,0
+6192,October 08 2015,1,Mix,3,M,TRUE,Queens,11692,TRUE,0
+6193,October 12 2015,1,Chihuahua,3,F,FALSE,Queens,11101,TRUE,0
+6194,October 13 2015,1,Dachshund Smooth Coat,3,M,FALSE,Queens,11427,TRUE,0
+6195,October 08 2015,1,Pit Bull,2,M,FALSE,Queens,11692,TRUE,0
+6196,October 13 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11368,TRUE,0
+6197,October 13 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6198,October 15 2015,1,Australian Shepherd,5,F,TRUE,Queens,11101,TRUE,0
+6199,September 15 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,0
+6200,October 15 2015,1,Miniature Schnauzer,3,M,FALSE,Queens,11106,TRUE,0
+6201,October 17 2015,1,Mix,1,M,TRUE,Queens,11377,TRUE,5
+6202,October 03 2015,1,Chihuahua,4,F,FALSE,Queens,11434,TRUE,6
+6203,October 20 2015,1,Pit Bull,3,M,FALSE,Queens,11422,TRUE,9
+6204,October 20 2015,1,Pit Bull,3,M,FALSE,Queens,11422,TRUE,0
+6205,October 11 2015,1,Mix,2,F,TRUE,Queens,11370,TRUE,0
+6206,October 19 2015,1,Mix,5,M,TRUE,Queens,11354,TRUE,0
+6207,October 16 2015,1,Mix,7,M,TRUE,Queens,11101,TRUE,0
+6208,October 20 2015,1,Pit Bull,,U,FALSE,Queens,11372,TRUE,0
+6209,September 26 2015,1,Mix,7,M,FALSE,Queens,11361,TRUE,0
+6210,October 21 2015,1,Pit Bull,2,M,FALSE,Queens,11417,TRUE,0
+6211,October 18 2015,1,Labradoodle,8,M,TRUE,Queens,11375,TRUE,0
+6212,October 20 2015,1,Hound,,U,FALSE,Queens,11378,TRUE,0
+6213,October 21 2015,1,Chinese Shar-Pei,,U,FALSE,Queens,11435,TRUE,0
+6214,October 21 2015,1,Pit Bull,2,M,FALSE,Queens,11416,TRUE,0
+6215,September 27 2015,1,Mix,1,M,TRUE,Queens,11418,TRUE,0
+6216,October 22 2015,1,Cocker Spaniel,3,U,FALSE,Queens,11101,TRUE,0
+6217,October 23 2015,1,Maltese,6,M,FALSE,Queens,11372,TRUE,0
+6218,October 21 2015,1,Hound,2,F,TRUE,Queens,11370,TRUE,0
+6219,October 23 2015,1,Akita,2,F,TRUE,Queens,11418,TRUE,0
+6220,October 24 2015,1,Chihuahua,4,M,TRUE,Queens,11101,TRUE,0
+6221,October 26 2015,1,Jack Russell,3,M,TRUE,Queens,11370,TRUE,0
+6222,October 26 2015,1,Pit Bull,1,M,FALSE,Queens,11694,TRUE,0
+6223,October 20 2015,1,Pit Bull,,U,FALSE,Queens,11364,TRUE,0
+6224,October 17 2015,1,Chow Chow,5,M,FALSE,Queens,11364,TRUE,0
+6225,October 21 2015,1,Staffordshire Bull Terrier,2,M,FALSE,Queens,11420,TRUE,0
+6226,October 28 2015,1,Yorkshire Terrier,5,M,TRUE,Queens,11373,TRUE,0
+6227,October 09 2015,1,Siberian Husky,1,M,FALSE,Queens,11101,TRUE,0
+6228,October 27 2015,1,Chihuahua,,U,FALSE,Queens,11101,TRUE,0
+6229,October 10 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,0
+6230,October 31 2015,1,Chihuahua,,U,FALSE,Queens,11421,TRUE,0
+6231,November 01 2015,1,Chihuahua,,U,FALSE,Queens,11101,TRUE,0
+6232,October 25 2015,1,Mix,,U,FALSE,Queens,11358,TRUE,0
+6233,November 04 2015,1,Mix,6,M,TRUE,Queens,11377,TRUE,0
+6234,November 04 2015,1,Pit Bull,2,F,FALSE,Queens,11436,TRUE,0
+6235,October 24 2015,1,Yorkshire Terrier,5,F,FALSE,Queens,11101,TRUE,0
+6236,November 05 2015,1,Mix,3,M,TRUE,Queens,11105,TRUE,0
+6237,November 06 2015,1,Mix,2,M,FALSE,Queens,11411,TRUE,0
+6238,November 06 2015,1,Siberian Husky,7,M,TRUE,Queens,11377,TRUE,0
+6239,November 06 2015,1,Mix,1,M,TRUE,Queens,11373,TRUE,0
+6240,November 06 2015,1,Jack Russell,8,M,TRUE,Queens,11378,TRUE,0
+6241,November 05 2015,1,Pit Bull,,U,FALSE,Queens,11417,TRUE,0
+6242,November 05 2015,1,Mix,6,M,TRUE,Queens,11358,TRUE,0
+6243,November 08 2015,1,Pomeranian,11,M,FALSE,Queens,11357,TRUE,0
+6244,November 06 2015,1,Cocker Spaniel,12,M,FALSE,Queens,11420,TRUE,0
+6245,November 08 2015,1,Pit Bull,,U,FALSE,Queens,11433,TRUE,0
+6246,November 02 2015,1,Rottweiler,2,F,FALSE,Queens,11692,TRUE,0
+6247,November 03 2015,1,Mix,1,M,FALSE,Queens,11355,TRUE,0
+6248,October 23 2015,1,Pit Bull,,U,FALSE,Queens,11374,TRUE,0
+6249,October 29 2015,1,Pit Bull,6,M,FALSE,Queens,11101,TRUE,0
+6250,November 11 2015,1,Mix,2,M,TRUE,Queens,11385,TRUE,0
+6251,November 11 2015,1,Mix,5,M,TRUE,Queens,11428,TRUE,0
+6252,November 10 2015,1,Lhasa Apso,8,M,TRUE,Queens,11101,TRUE,0
+6253,November 11 2015,1,Jack Russell,9,M,TRUE,Queens,11101,TRUE,0
+6254,November 12 2015,1,Pit Bull,,U,FALSE,Queens,11413,TRUE,0
+6255,November 12 2015,1,Wheaton Terrier,2,M,TRUE,Queens,11361,TRUE,0
+6256,November 13 2015,1,Standard Schnauzer,11M,M,FALSE,Queens,11101,TRUE,0
+6257,November 12 2015,1,Pit Bull,5,M,TRUE,Queens,11368,TRUE,0
+6258,November 14 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6259,November 13 2015,1,Mix,9,M,TRUE,Queens,11365,TRUE,0
+6260,November 14 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11354,TRUE,0
+6261,November 17 2015,1,Jack Russell,11,M,FALSE,Queens,11426,TRUE,0
+6262,November 16 2015,1,Mix,3,M,FALSE,Queens,11364,TRUE,0
+6263,November 12 2015,1,Great Dane,,U,FALSE,Queens,11367,TRUE,0
+6264,October 19 2015,1,Shih Tzu,2,M,FALSE,Queens,11102,TRUE,0
+6265,November 19 2015,1,Miniature Pinscher,9,F,FALSE,Queens,11368,TRUE,0
+6266,November 23 2015,1,Labrador Retriever,3,M,FALSE,Queens,11103,TRUE,0
+6267,November 19 2015,1,Chinese Shar-Pei,,U,FALSE,Queens,11358,TRUE,0
+6268,November 24 2015,1,American Staffordshire Terrier,3,F,TRUE,Queens,11377,TRUE,0
+6269,November 23 2015,1,Jack Russell,3,M,TRUE,Queens,11377,TRUE,0
+6270,November 24 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6271,November 24 2015,1,Pit Bull,,U,FALSE,Queens,11372,TRUE,0
+6272,November 26 2015,1,Chihuahua,3,M,TRUE,Queens,11377,TRUE,0
+6273,November 26 2015,1,Pit Bull,,U,FALSE,Queens,11374,TRUE,0
+6274,November 20 2015,1,Mix,,F,TRUE,Queens,11373,TRUE,0
+6275,November 26 2015,1,Yorkshire Terrier,4,M,FALSE,Queens,11693,TRUE,0
+6276,November 29 2015,1,Pit Bull,4,M,TRUE,Queens,11419,TRUE,0
+6277,November 23 2015,1,Mix,2,M,FALSE,Queens,11433,TRUE,0
+6278,November 30 2015,1,Mix,7,F,TRUE,Queens,11101,TRUE,0
+6279,November 30 2015,1,Pit Bull,,U,FALSE,Queens,11433,TRUE,0
+6280,November 30 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,0
+6281,November 30 2015,1,Pit Bull,3,M,TRUE,Queens,11365,TRUE,0
+6282,December 02 2015,1,Mix,2,U,FALSE,Queens,11101,TRUE,0
+6283,December 02 2015,1,Mix,2,F,TRUE,Queens,11101,TRUE,0
+6284,November 03 2015,1,Mix,,U,FALSE,Queens,11374,TRUE,0
+6285,December 03 2015,1,Standard Poodle,5,M,TRUE,Queens,11101,TRUE,0
+6286,December 03 2015,1,German Shorthaired Pointer,8,M,TRUE,Queens,11377,TRUE,0
+6287,December 03 2015,1,Mix,4,M,TRUE,Queens,11373,TRUE,0
+6288,December 07 2015,1,Standard Poodle,,U,FALSE,Queens,11369,TRUE,0
+6289,December 06 2015,1,German Shepherd,2,M,FALSE,Queens,11417,TRUE,0
+6290,December 05 2015,1,Cane Corso,4,M,TRUE,Queens,11385,TRUE,0
+6291,December 08 2015,1,Pit Bull,,U,FALSE,Queens,11412,TRUE,0
+6292,December 06 2015,1,Pit Bull,,U,FALSE,Queens,11691,TRUE,0
+6293,December 04 2015,1,Puggle,3,M,TRUE,Queens,11364,TRUE,0
+6294,November 29 2015,1,Pit Bull,,U,FALSE,Queens,11361,TRUE,0
+6295,November 14 2015,1,Maltese,6,F,TRUE,Queens,11358,TRUE,0
+6296,December 06 2015,1,Labrador Retriever,,U,FALSE,Queens,11413,TRUE,0
+6297,December 06 2015,1,Cane Corso,3,M,TRUE,Queens,11411,TRUE,0
+6298,December 07 2015,1,Terrier,,U,FALSE,Queens,11434,TRUE,0
+6299,December 05 2015,1,Shih Tzu,,U,FALSE,Queens,11101,TRUE,0
+6300,December 10 2015,1,Standard Poodle,8,M,FALSE,Queens,11102,TRUE,0
+6301,December 12 2015,1,Mix,6,M,FALSE,Queens,11368,TRUE,0
+6302,December 11 2015,1,German Shepherd,3,M,FALSE,Queens,11433,TRUE,0
+6303,December 12 2015,1,Basset Hound,3M,M,TRUE,Queens,11101,TRUE,0
+6304,December 15 2015,1,Pit Bull,1,M,FALSE,Queens,11433,TRUE,0
+6305,December 14 2015,1,German Shepherd,3,M,TRUE,Queens,11101,TRUE,0
+6306,December 13 2015,1,Yorkshire Terrier,,U,FALSE,Queens,11101,TRUE,0
+6307,December 15 2015,1,Yorkshire Terrier,4,M,FALSE,Queens,11385,TRUE,0
+6308,December 09 2015,1,Pit Bull,,U,FALSE,Queens,11413,TRUE,0
+6309,December 09 2015,1,Pit Bull,,U,FALSE,Queens,11413,TRUE,0
+6310,December 09 2015,1,Pit Bull,,U,FALSE,Queens,11412,TRUE,0
+6311,November 26 2015,1,West High White Terrier,14,F,FALSE,Queens,11379,TRUE,0
+6312,December 20 2015,1,Shih Tzu,,M,TRUE,Queens,11366,TRUE,0
+6313,December 19 2015,1,Pit Bull,,U,FALSE,Queens,11355,TRUE,0
+6314,December 18 2015,1,Pit Bull,,U,FALSE,Queens,11434,TRUE,0
+6315,December 21 2015,1,Pit Bull,2,F,FALSE,Queens,11436,TRUE,0
+6316,December 21 2015,1,Pit Bull,3,M,FALSE,Queens,11436,TRUE,0
+6317,December 19 2015,1,Mix,9,M,TRUE,Queens,11385,TRUE,0
+6318,December 19 2015,1,Daschound,,U,FALSE,Queens,11101,TRUE,0
+6319,December 12 2015,1,German Shepherd,7,M,FALSE,Queens,11419,TRUE,0
+6320,December 23 2015,1,German Shepherd,10M,M,TRUE,Queens,11105,TRUE,0
+6321,December 26 2015,1,Pit Bull,2,F,FALSE,Queens,11435,TRUE,0
+6322,December 25 2015,1,Chow Chow,5,F,FALSE,Queens,11368,TRUE,0
+6323,December 25 2015,1,Great Dane,7,M,TRUE,Queens,11370,TRUE,0
+6324,December 25 2015,1,Pit Bull,4,F,FALSE,Queens,11372,TRUE,0
+6325,December 26 2015,1,German Shepherd,3,F,TRUE,Queens,11418,TRUE,0
+6326,December 28 2015,1,Pit Bull,4M,F,FALSE,Queens,11354,TRUE,0
+6327,December 28 2015,1,Maltese,2,M,FALSE,Queens,11358,TRUE,0
+6328,December 29 2015,1,Mix,3,M,TRUE,Queens,11435,TRUE,0
+6329,December 30 2015,1,Puggle,8,F,TRUE,Queens,11367,TRUE,0
+6331,December 31 2015,1,Beagle,5,M,TRUE,Queens,11379,TRUE,0
+6333,December 31 2015,1,Pit Bull,,U,FALSE,Queens,11691,TRUE,0
+6334,December 27 2015,1,Rottweiler,4,M,FALSE,Queens,11356,TRUE,11
+6336,December 25 2015,1,Mix,7,F,FALSE,Queens,11372,TRUE,10
+6339,December 31 2015,1,Pit Bull,,U,FALSE,Queens,11101,TRUE,0
+6362,December 22 2015,1,Brussels Griffon,3,M,TRUE,Queens,11418,TRUE,0
+6366,October 28 2015,1,Boxer,,U,FALSE,Queens,11416,TRUE,6
+7862,January 26 2015,1,Rottweiler,2,F,FALSE,Staten Island,10301,TRUE,10
+7863,January 26 2015,1,Mix,,M,TRUE,Staten Island,10310,TRUE,7
+7864,January 27 2015,1,Shih Tzu,,U,FALSE,Staten Island,10303,TRUE,5
+7865,January 31 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,9
+7866,February 02 2015,1,Pit Bull,6,M,FALSE,Staten Island,10302,TRUE,7
+7867,February 02 2015,1,Shih Tzu,5,M,FALSE,Staten Island,10304,TRUE,0
+7868,January 31 2015,1,Rottweiler,6,F,TRUE,Staten Island,10304,TRUE,0
+7869,February 03 2015,1,German Shepherd,6,M,TRUE,Staten Island,10302,TRUE,0
+7870,February 05 2015,1,Doberman Pinscher,,U,FALSE,Staten Island,10301,TRUE,0
+7871,January 31 2015,1,Mix,3,M,TRUE,Staten Island,10309,TRUE,4
+7872,February 01 2015,1,Mix,,U,FALSE,Staten Island,10309,TRUE,0
+7873,February 05 2015,1,Doberman Pinscher,,U,FALSE,Staten Island,10301,TRUE,0
+7874,February 02 2015,1,Mix,,M,FALSE,Staten Island,10312,TRUE,10
+7875,February 12 2015,1,Pit Bull,,U,FALSE,Staten Island,10312,TRUE,0
+7876,February 16 2015,1,Labrador Retriever,,U,FALSE,Staten Island,10314,TRUE,9
+7877,February 17 2015,1,Jack Russell,6,M,TRUE,Staten Island,10308,TRUE,6
+7878,February 18 2015,1,Pit Bull,1,M,FALSE,Staten Island,10305,TRUE,12
+7879,February 10 2015,1,Pit Bull,1,M,FALSE,Staten Island,10303,TRUE,0
+7880,February 18 2015,1,Jack Russell,8,M,FALSE,Staten Island,10306,TRUE,4
+7881,February 19 2015,1,Pit Bull,2,M,FALSE,Staten Island,10301,TRUE,0
+7882,February 21 2015,1,Shih Tzu,,U,FALSE,Staten Island,10312,TRUE,0
+7883,February 17 2015,1,German Shepherd,3,M,TRUE,Staten Island,10312,TRUE,0
+7884,February 22 2015,1,Mix,,U,FALSE,Staten Island,10303,TRUE,0
+7885,February 28 2015,1,Pembroke Welsh Corgi,9,M,FALSE,Staten Island,10314,TRUE,0
+7886,March 02 2015,1,Bull Dog,1,M,FALSE,Staten Island,10305,TRUE,0
+7887,March 03 2015,1,Pit Bull,,U,FALSE,Staten Island,10301,TRUE,0
+7888,March 03 2015,1,Toy Poodle,7,F,TRUE,Staten Island,10310,TRUE,0
+7889,March 05 2015,1,Pit Bull,,U,FALSE,Staten Island,10302,TRUE,0
+7890,March 03 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7891,March 07 2015,1,Cocker Spaniel,8,M,FALSE,Staten Island,10306,TRUE,0
+7892,March 08 2015,1,Mix,2,M,TRUE,Staten Island,10314,TRUE,0
+7893,March 09 2015,1,German Shepherd,,U,FALSE,Staten Island,10304,TRUE,0
+7894,March 10 2015,1,Cane Corso,,F,FALSE,Staten Island,10314,TRUE,0
+7895,March 12 2015,1,German Shepherd,1,M,TRUE,Staten Island,10304,TRUE,0
+7896,March 13 2015,1,Cocker Spaniel,,U,FALSE,Staten Island,10314,TRUE,0
+7897,March 14 2015,1,Mix,8,F,TRUE,Staten Island,10306,TRUE,0
+7898,March 17 2015,1,Pit Bull,,U,FALSE,Staten Island,10301,TRUE,0
+7899,March 18 2015,1,Chihuahua,4,M,FALSE,Staten Island,10314,TRUE,0
+7900,March 16 2015,1,Labrador Retriever,,U,FALSE,Staten Island,10314,TRUE,0
+7901,March 16 2015,1,Pit Bull,,U,FALSE,Staten Island,10301,TRUE,0
+7902,March 19 2015,1,Pit Bull,,F,FALSE,Staten Island,10303,TRUE,0
+7903,March 22 2015,1,Bull Mastiff,8,M,TRUE,Staten Island,10310,TRUE,0
+7904,March 25 2015,1,Yorkshire Terrier,4,M,TRUE,Staten Island,10310,TRUE,0
+7905,March 25 2015,1,American Bulldog,1,F,FALSE,Staten Island,10301,TRUE,0
+7906,March 31 2015,1,Labrador Retriever,4,M,FALSE,Staten Island,10304,TRUE,0
+7907,April 02 2015,1,Brussels Griffon,1,F,FALSE,Staten Island,10304,TRUE,0
+7908,April 02 2015,1,Shiba Inu,6,M,TRUE,Staten Island,10312,TRUE,0
+7909,April 05 2015,1,Mix,3,M,FALSE,Staten Island,10309,TRUE,0
+7910,April 04 2015,1,Labrador Retriever,1,F,TRUE,Staten Island,10308,TRUE,0
+7911,April 04 2015,1,Mix,3,M,FALSE,Staten Island,10308,TRUE,0
+7912,April 08 2015,1,Mix,7,M,TRUE,Staten Island,10304,TRUE,0
+7913,April 07 2015,1,Maltese,,U,FALSE,Staten Island,10304,TRUE,0
+7914,April 10 2015,1,Pit Bull,1M,M,TRUE,Staten Island,10302,TRUE,0
+7915,April 10 2015,1,Yorkshire Terrier,,U,FALSE,Staten Island,10304,TRUE,0
+7916,April 11 2015,1,Maltese,13,M,TRUE,Staten Island,10304,TRUE,0
+7917,April 10 2015,1,Akita,3,M,TRUE,Staten Island,10304,TRUE,0
+7918,April 12 2015,1,Mix,,M,FALSE,Staten Island,10307,TRUE,11
+7919,April 08 2015,1,Golden Retriever,7,F,TRUE,Staten Island,10309,TRUE,0
+7920,April 06 2015,1,Mix,2,M,TRUE,Staten Island,10309,TRUE,0
+7921,March 28 2015,1,Lhatese,,F,FALSE,Staten Island,10309,TRUE,0
+7922,April 12 2015,1,Standard Poodle,,U,FALSE,Staten Island,10304,TRUE,0
+7923,March 29 2015,1,Doberman Pinscher,4,M,TRUE,Staten Island,10304,TRUE,0
+7924,April 03 2015,1,Yorkshire Terrier,12,F,TRUE,Staten Island,10312,TRUE,0
+7925,March 25 2015,1,Cocker Spaniel,15,M,TRUE,Staten Island,10312,TRUE,0
+7926,April 19 2015,1,Mix,4M,F,FALSE,Staten Island,10302,TRUE,0
+7927,April 21 2015,1,Bull dog,,U,FALSE,Staten Island,10304,TRUE,0
+7928,April 17 2015,1,Labrador Retriever,12,M,FALSE,Staten Island,10312,TRUE,0
+7929,April 18 2015,1,Pit Bull,,U,FALSE,Staten Island,10314,TRUE,0
+7930,April 18 2015,1,Cockapoo,8,M,TRUE,Staten Island,10308,TRUE,0
+7931,April 19 2015,1,Pit Bull,,U,FALSE,Staten Island,10310,TRUE,0
+7932,April 19 2015,1,Pit Bull,,U,FALSE,Staten Island,10310,TRUE,0
+7933,April 20 2015,1,Yorkshire Terrier,,F,TRUE,Staten Island,10304,TRUE,0
+7934,April 20 2015,1,Mix,8,F,TRUE,Staten Island,10314,TRUE,0
+7935,April 22 2015,1,Beagle,,U,FALSE,Staten Island,10304,TRUE,0
+7936,April 20 2015,1,Border Collie,7,M,FALSE,Staten Island,10304,TRUE,0
+7937,April 24 2015,1,Wheaton Terrier,7,M,FALSE,Staten Island,10309,TRUE,0
+7938,March 07 2015,1,Presa Canario,,U,FALSE,Staten Island,10306,TRUE,0
+7939,April 27 2015,1,Shih Tzu,3,M,FALSE,Staten Island,10303,TRUE,0
+7940,April 27 2015,1,Pit Bull,1.5,M,TRUE,Staten Island,10301,TRUE,0
+7941,April 27 2015,1,American Staffordshire Terrier,2,M,TRUE,Staten Island,10302,TRUE,0
+7942,April 29 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7943,April 02 2015,1,Jack Russell,,U,FALSE,Staten Island,10304,TRUE,0
+7944,May 02 2015,1,Labrador Retriever,7,M,TRUE,Staten Island,10304,TRUE,0
+7945,May 02 2015,1,Beagle,6,F,TRUE,Staten Island,10301,TRUE,0
+7946,May 02 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7947,April 22 2015,1,Mix,4,M,TRUE,Staten Island,10304,TRUE,0
+7948,May 04 2015,1,Pit Bull,13,F,TRUE,Staten Island,10302,TRUE,0
+7949,May 04 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7950,May 05 2015,1,Yorkshire Terrier,3,F,FALSE,Staten Island,10304,TRUE,0
+7951,May 05 2015,1,Mix,11M,F,TRUE,Staten Island,10310,TRUE,0
+7952,May 05 2015,1,Shih Tzu,,M,FALSE,Staten Island,10310,TRUE,0
+7953,May 01 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7954,May 05 2015,1,Pit Bull,3,M,TRUE,Staten Island,10304,TRUE,0
+7955,May 06 2015,1,American Staffordshire Terrier,2,M,FALSE,Staten Island,10304,TRUE,0
+7956,May 05 2015,1,Pit Bull,4,M,FALSE,Staten Island,10302,TRUE,0
+7957,May 06 2015,1,Mix,,U,FALSE,Staten Island,10306,TRUE,0
+7958,May 08 2015,1,Jack Russell,1,M,TRUE,Staten Island,10310,TRUE,0
+7959,May 10 2015,1,Bull Terrier,,U,FALSE,Staten Island,10304,TRUE,0
+7960,May 14 2015,1,French Bull Dog,,U,FALSE,Staten Island,10309,TRUE,0
+7961,May 10 2015,1,Pit Bull,,U,FALSE,Staten Island,10301,TRUE,0
+7962,May 14 2015,1,Pit Bull,,U,FALSE,Staten Island,10312,TRUE,0
+7963,May 07 2015,1,Golden Retriever,9,F,TRUE,Staten Island,10309,TRUE,0
+7964,May 16 2015,1,Mix,6M,F,TRUE,Staten Island,10305,TRUE,0
+7965,May 11 2015,1,Pit Bull,1,F,TRUE,Staten Island,10306,TRUE,0
+7966,May 20 2015,1,Rottweiler,,U,FALSE,Staten Island,10304,TRUE,0
+7967,May 20 2015,1,Mix,7,M,TRUE,Staten Island,10302,TRUE,0
+7968,May 07 2015,1,Shih Tzu,,U,FALSE,Staten Island,10305,TRUE,0
+7969,May 26 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7970,May 25 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7971,May 24 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7972,May 23 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7973,May 23 2015,1,Beagle,7,F,TRUE,Staten Island,10303,TRUE,0
+7974,May 25 2015,1,Beagle,15,F,TRUE,Staten Island,10304,TRUE,0
+7975,May 28 2015,1,Shepherd,,U,FALSE,Staten Island,10304,TRUE,0
+7976,May 26 2015,1,Havanese,6,M,TRUE,Staten Island,10309,TRUE,0
+7977,May 16 2015,1,German Shepherd,,U,FALSE,Staten Island,10312,TRUE,0
+7978,May 20 2015,1,Shih Tzu,1,M,TRUE,Staten Island,10304,TRUE,0
+7979,May 24 2015,1,Mix,,U,FALSE,Staten Island,10307,TRUE,0
+7980,May 28 2015,1,Mix,12,F,TRUE,Staten Island,10306,TRUE,0
+7981,May 30 2015,1,Chihuahua,,U,FALSE,Staten Island,10304,TRUE,0
+7982,May 23 2015,1,Pit Bull,4,F,FALSE,Staten Island,10312,TRUE,0
+7983,May 30 2015,1,Rottweiler,,U,FALSE,Staten Island,10304,TRUE,0
+7984,June 06 2015,1,Pit Bull,5,M,TRUE,Staten Island,10302,TRUE,0
+7985,May 24 2015,1,Pit Bull,,U,FALSE,Staten Island,10305,TRUE,0
+7986,June 05 2015,1,Pit Bull,2,F,TRUE,Staten Island,10309,TRUE,0
+7987,June 06 2015,1,English Bull Dog,3,M,FALSE,Staten Island,10306,TRUE,0
+7988,June 08 2015,1,Pit Bull,,U,FALSE,Staten Island,10310,TRUE,0
+7989,June 06 2015,1,Mix,1,F,TRUE,Staten Island,10304,TRUE,0
+7990,June 09 2015,1,Mastiff,,U,FALSE,Staten Island,10304,TRUE,0
+7991,June 10 2015,1,Cane Corso,1,M,TRUE,Staten Island,10306,TRUE,0
+7992,June 08 2015,1,Mix,1,F,TRUE,Staten Island,10307,TRUE,0
+7993,June 10 2015,1,Pit Bull,3,F,FALSE,Staten Island,10310,TRUE,0
+7994,June 06 2015,1,Mix,5,F,TRUE,Staten Island,10309,TRUE,0
+7995,June 06 2015,1,Cockapoo,,U,FALSE,Staten Island,10304,TRUE,0
+7996,June 11 2015,1,Labrador Retriever,4,M,TRUE,Staten Island,10314,TRUE,0
+7997,June 14 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+7998,June 19 2015,1,Miniature Pinscher,5,M,TRUE,Staten Island,10310,TRUE,0
+7999,June 21 2015,1,Mix,12,M,TRUE,Staten Island,10312,TRUE,0
+8000,June 24 2015,1,Lhasa Apso,8,M,TRUE,Staten Island,10304,TRUE,0
+8001,June 23 2015,1,Beagle,4,M,TRUE,Staten Island,10314,TRUE,0
+8002,June 23 2015,1,Miniature Pinscher,,U,FALSE,Staten Island,10301,TRUE,0
+8003,June 25 2015,1,Pit Bull,2,M,FALSE,Staten Island,10310,TRUE,0
+8004,June 17 2015,1,German Shepherd,,U,FALSE,Staten Island,10304,TRUE,0
+8005,June 22 2015,1,Chihuahua,,U,FALSE,Staten Island,10304,TRUE,0
+8006,June 27 2015,1,Mix,12,M,TRUE,Staten Island,10309,TRUE,0
+8007,June 28 2015,1,Mix,8,M,TRUE,Staten Island,10301,TRUE,0
+8008,July 01 2015,1,Staffordshire Bull Terrier,10,M,TRUE,Staten Island,10304,TRUE,0
+8009,July 03 2015,1,German Shepherd,10,F,FALSE,Staten Island,10302,TRUE,0
+8010,July 04 2015,1,Golden Retriever,3,M,TRUE,Staten Island,10304,TRUE,0
+8011,July 04 2015,1,Pit Bull,4,M,TRUE,Staten Island,10312,TRUE,0
+8012,July 02 2015,1,Pit Bull,7,F,TRUE,Staten Island,10306,TRUE,0
+8013,July 03 2015,1,Mastiff,,U,FALSE,Staten Island,10304,TRUE,0
+8014,July 06 2015,1,Pointer,,U,FALSE,Staten Island,10304,TRUE,0
+8015,July 01 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+8016,July 07 2015,1,Lhasa Apso,8,M,TRUE,Staten Island,10304,TRUE,0
+8017,July 11 2015,1,Australian Cattle,5,M,FALSE,Staten Island,10312,TRUE,0
+8018,July 06 2015,1,Neapolitan Mastiff,4,M,FALSE,Staten Island,10310,TRUE,0
+8019,July 09 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+8020,July 10 2015,1,Yorkshire Terrier,,U,FALSE,Staten Island,10312,TRUE,0
+8021,July 01 2015,1,Boerboel,1,M,TRUE,Staten Island,10304,TRUE,0
+8022,July 13 2015,1,Rottweiler,4,F,FALSE,Staten Island,10309,TRUE,0
+8023,July 14 2015,1,Maltese,2,M,TRUE,Staten Island,10305,TRUE,0
+8024,July 09 2015,1,Chow Chow,,U,FALSE,Staten Island,10304,TRUE,0
+8025,July 14 2015,1,Pit Bull,7,M,FALSE,Staten Island,10310,TRUE,0
+8026,July 14 2015,1,Puggle,8,M,TRUE,Staten Island,10310,TRUE,0
+8027,July 17 2015,1,Chihuahua,,U,FALSE,Staten Island,10304,TRUE,0
+8028,July 18 2015,1,Pomeranian,,U,FALSE,Staten Island,10314,TRUE,0
+8029,July 18 2015,1,Terrier,3,M,TRUE,Staten Island,10314,TRUE,0
+8030,July 18 2015,1,Maltese,,U,FALSE,Staten Island,10304,TRUE,0
+8031,July 20 2015,1,German Shepherd,7,M,FALSE,Staten Island,10304,TRUE,0
+8032,July 20 2015,1,Mix,,M,FALSE,Staten Island,10308,TRUE,0
+8033,July 25 2015,1,Yorkshire Terrier,4,M,FALSE,Staten Island,10314,TRUE,0
+8034,July 19 2015,1,Mix,,U,FALSE,Staten Island,10305,TRUE,0
+8035,July 27 2015,1,Terrier,,U,FALSE,Staten Island,10314,TRUE,0
+8036,July 28 2015,1,Mix,5,F,TRUE,Staten Island,10303,TRUE,0
+8037,July 29 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+8038,July 27 2015,1,Daschound,,U,FALSE,Staten Island,10304,TRUE,0
+8039,August 02 2015,1,Mix,4,F,TRUE,Staten Island,10314,TRUE,0
+8040,August 01 2015,1,Terrier,6,M,TRUE,Staten Island,10312,TRUE,0
+8041,July 27 2015,1,Mix,2,M,TRUE,Staten Island,10314,TRUE,0
+8042,August 02 2015,1,Shih Tzu,2,F,FALSE,Staten Island,10304,TRUE,0
+8043,August 05 2015,1,Cocker Spaniel,4,M,TRUE,Staten Island,10306,TRUE,0
+8044,August 05 2015,1,Siberian Husky,9,M,TRUE,Staten Island,10304,TRUE,0
+8045,August 04 2015,1,Pit Bull,2,M,FALSE,Staten Island,10307,TRUE,0
+8046,August 09 2015,1,Mix,2,M,FALSE,Staten Island,10314,TRUE,0
+8047,August 07 2015,1,Malshi,1,F,FALSE,Staten Island,10312,TRUE,0
+8048,July 30 2015,1,Mix,1,F,FALSE,Staten Island,10308,TRUE,0
+8049,August 02 2015,1,Boxer,5,M,FALSE,Staten Island,10312,TRUE,0
+8050,August 15 2015,1,Shih Tzu,,U,FALSE,Staten Island,10308,TRUE,0
+8051,August 13 2015,1,Mix,5,U,FALSE,Staten Island,10309,TRUE,0
+8052,August 15 2015,1,English Mastiff,4,M,FALSE,Staten Island,10304,TRUE,0
+8053,August 19 2015,1,Mix,6.5,M,FALSE,Staten Island,10304,TRUE,0
+8054,August 19 2015,1,Mix,,M,FALSE,Staten Island,10304,TRUE,0
+8055,August 21 2015,1,Mix,3,M,TRUE,Staten Island,10309,TRUE,0
+8056,August 27 2015,1,Doberman Pinscher,1,M,FALSE,Staten Island,10304,TRUE,0
+8057,August 30 2015,1,Mix,3,M,FALSE,Staten Island,10314,TRUE,0
+8058,August 28 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+8059,September 01 2015,1,Stanard Poodle,,U,FALSE,Staten Island,10307,TRUE,0
+8060,September 01 2015,1,Shih Tzu,8,M,FALSE,Staten Island,10312,TRUE,0
+8061,August 11 2015,1,Mix,,U,FALSE,Staten Island,10304,TRUE,0
+8062,September 03 2015,1,Pit Bull,7,F,TRUE,Staten Island,10306,TRUE,0
+8063,August 28 2015,1,Mix,3,M,TRUE,Staten Island,10306,TRUE,0
+8064,September 06 2015,1,Yorkshire Terrier,12,M,TRUE,Staten Island,10306,TRUE,0
+8065,September 06 2015,1,Labrador Retriever,,U,FALSE,Staten Island,10304,TRUE,0
+8066,September 07 2015,1,Yorkshire Terrier,7,M,TRUE,Staten Island,10309,TRUE,0
+8067,September 11 2015,1,Shepherd,1,F,TRUE,Staten Island,10314,TRUE,0
+8068,September 11 2015,1,Jack Russell,7,M,TRUE,Staten Island,10305,TRUE,0
+8069,September 10 2015,1,Mix,5,F,TRUE,Staten Island,10304,TRUE,0
+8070,September 15 2015,1,Mixed,,M,FALSE,Staten Island,10305,TRUE,0
+8071,September 17 2015,1,Daschound,7,M,TRUE,Staten Island,10314,TRUE,0
+8072,September 18 2015,1,Stanard Poodle,10,M,TRUE,Staten Island,10304,TRUE,0
+8073,September 18 2015,1,Pit Bull,,U,FALSE,Staten Island,10302,TRUE,0
+8074,September 21 2015,1,Labradoodle,4,M,TRUE,Staten Island,10304,TRUE,0
+8075,September 21 2015,1,Shih Tzu,,U,FALSE,Staten Island,10304,TRUE,0
+8076,September 17 2015,1,Dachshund Smooth Coat,13,F,TRUE,Staten Island,10310,TRUE,0
+8077,September 19 2015,1,Mix,3,F,FALSE,Staten Island,10302,TRUE,0
+8078,September 23 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+8079,September 27 2015,1,Mix,U,M,FALSE,Staten Island,10308,TRUE,0
+8080,September 27 2015,1,Chihuahua,10,F,TRUE,Staten Island,10307,TRUE,0
+8081,September 28 2015,1,Pit Bull,,U,FALSE,Staten Island,10301,TRUE,0
+8082,September 09 2015,1,Cocker Spaniel,,U,FALSE,Staten Island,10304,TRUE,0
+8083,September 29 2015,1,Pit Bull,,U,FALSE,Staten Island,10310,TRUE,0
+8084,October 03 2015,1,Mix,,M,TRUE,Staten Island,10306,TRUE,0
+8085,October 07 2015,1,Dachshund Smooth Coat,5,M,FALSE,Staten Island,10309,TRUE,0
+8086,October 08 2015,1,Pit Bull,3,F,FALSE,Staten Island,10302,TRUE,0
+8087,October 09 2015,1,Shih Tzu,2,M,FALSE,Staten Island,10314,TRUE,0
+8088,October 12 2015,1,Pit Bull,9,M,FALSE,Staten Island,10310,TRUE,0
+8089,April 22 2015,1,French Bull Dog,,U,FALSE,Staten Island,10304,TRUE,0
+8090,October 12 2015,1,Pit Bull,9,M,FALSE,Staten Island,10310,TRUE,0
+8091,October 13 2015,1,Staffordshire Bull Terrier,3,M,TRUE,Staten Island,10301,TRUE,0
+8092,October 17 2015,1,Doberman Pinscher,3,M,FALSE,Staten Island,10304,TRUE,0
+8093,October 19 2015,1,Boston Terrier,,U,FALSE,Staten Island,10304,TRUE,0
+8094,October 22 2015,1,Mix,4,M,FALSE,Staten Island,10303,TRUE,0
+8095,October 26 2015,1,Pit Bull,,U,FALSE,Staten Island,10305,TRUE,0
+8096,October 26 2015,1,Pit Bull,5,M,TRUE,Staten Island,10312,TRUE,0
+8097,October 21 2015,1,Pit Bull,,U,FALSE,Staten Island,10314,TRUE,0
+8098,October 12 2015,1,Mix,2,F,FALSE,Staten Island,10305,TRUE,0
+8099,October 28 2015,1,Chihuahua,1,F,FALSE,Staten Island,10306,TRUE,0
+8100,October 27 2015,1,Mix,4,M,TRUE,Staten Island,10314,TRUE,0
+8101,November 03 2015,1,Pit Bull,,U,FALSE,Staten Island,10310,TRUE,0
+8102,November 04 2015,1,Maltese,6,F,FALSE,Staten Island,10301,TRUE,0
+8103,November 04 2015,1,American Staffordshire Terrier,4.6,M,TRUE,Staten Island,10309,TRUE,0
+8104,October 30 2015,1,Chihuahua,U,F,TRUE,Staten Island,10312,TRUE,0
+8105,November 01 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+8106,November 06 2015,1,Mix,2,M,TRUE,Staten Island,10312,TRUE,0
+8107,October 29 2015,1, English Bull Dog,2,M,TRUE,Staten Island,10306,TRUE,0
+8108,November 05 2015,1,Chow Chow,7,M,FALSE,Staten Island,10312,TRUE,0
+8109,November 07 2015,1,Boxer,,U,FALSE,Staten Island,10304,TRUE,0
+8110,November 12 2015,1,Pit Bull,,U,FALSE,Staten Island,10301,TRUE,0
+8111,November 12 2015,1,Yorkshire Terrier,1,F,FALSE,Staten Island,10302,TRUE,0
+8112,November 12 2015,1,Maltese,,U,FALSE,Staten Island,10309,TRUE,0
+8113,November 13 2015,1,Maltese,,U,FALSE,Staten Island,10310,TRUE,0
+8114,November 13 2015,1,Pit Bull,3,M,TRUE,Staten Island,10301,TRUE,0
+8115,November 16 2015,1,Mix,3,M,TRUE,Staten Island,10304,TRUE,0
+8116,November 17 2015,1,Maltese,,M,FALSE,Staten Island,10310,TRUE,0
+8117,November 16 2015,1,Chihuahua,,M,FALSE,Staten Island,10314,TRUE,0
+8118,November 21 2015,1,Mix,,U,FALSE,Staten Island,10304,TRUE,0
+8119,November 21 2015,1,Mix,8,M,TRUE,Staten Island,10304,TRUE,0
+8120,November 06 2015,1,Mix,5,M,FALSE,Staten Island,10302,TRUE,0
+8121,November 12 2015,1,Chihuahua,6,F,TRUE,Staten Island,10301,TRUE,0
+8122,November 25 2015,1,Mix,5,M,TRUE,Staten Island,10304,TRUE,0
+8123,October 24 2015,1,Border Collie,,U,FALSE,Staten Island,10304,TRUE,0
+8124,October 31 2015,1,Shih Tzu,4,M,TRUE,Staten Island,10304,TRUE,0
+8125,December 05 2015,1,Labrador Retriever,,U,FALSE,Staten Island,10304,TRUE,0
+8126,November 30 2015,1,Akita,,M,FALSE,Staten Island,10304,TRUE,0
+8127,December 07 2015,1,Mix,2M,F,TRUE,Staten Island,10309,TRUE,0
+8128,November 28 2015,1,Pomeranian,5,M,TRUE,Staten Island,10314,TRUE,0
+8129,December 08 2015,1,Shiba Inu,,U,FALSE,Staten Island,10305,TRUE,0
+8130,December 09 2015,1,Shih Tzu,,U,FALSE,Staten Island,10303,TRUE,0
+8131,December 10 2015,1,Pit Bull,,U,FALSE,Staten Island,10302,TRUE,0
+8132,December 14 2015,1,Pit Bull,1,F,FALSE,Staten Island,10304,TRUE,0
+8133,December 10 2015,1,Pit Bull,3,M,FALSE,Staten Island,10310,TRUE,0
+8134,December 12 2015,1,Puggle,6,M,TRUE,Staten Island,10304,TRUE,0
+8135,December 15 2015,1,Mix,11,M,TRUE,Staten Island,10304,TRUE,0
+8136,December 16 2015,1,American Bull Dog,,U,FALSE,Staten Island,10314,TRUE,0
+8137,December 17 2015,1,Labrador Retriever,4,M,TRUE,Staten Island,10306,TRUE,0
+8138,December 20 2015,1,Pit Bull,1,F,TRUE,Staten Island,10314,TRUE,0
+8139,December 06 2015,1,Pit Bull,,U,FALSE,Staten Island,10304,TRUE,0
+8141,December 21 2015,1,Maltese,6,M,TRUE,Staten Island,10306,TRUE,0
+8142,December 19 2015,1,German Shepherd,6,F,FALSE,Staten Island,10314,TRUE,0
+8143,December 26 2015,1,Pit Bull,,U,FALSE,Staten Island,10306,TRUE,0
+8144,December 29 2015,1,Pit Bull,,U,FALSE,Staten Island,10307,TRUE,0
+8146,December 31 2015,1,Pit Bull,,U,FALSE,Staten Island,10303,TRUE,0
+8155,December 26 2015,1,Mix,,U,FALSE,Staten Island,10304,TRUE,0

@@ -1,0 +1,147 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+library(readr)
+library(sp)
+library(spdep)
+library(sf)
+library(rgdal)
+library(raster)
+library(gstat)
+library(tidyverse)
+library(maptools)
+library(RColorBrewer)
+library(ggplot2)
+
+
+setwd("~/Fall 2019/GEO 460/Final Project/Final Project")
+
+options(stringsAsFactors = FALSE)
+
+DogBite <- read_csv("DogBite2.csv")
+
+#Species is DOG = 1. Need to make Species Numeric = 1
+DogBite$Species <- as.numeric(as.character(DogBite$Species))
+
+View(DogBite)
+names(DogBite)
+summary(DogBite)
+
+
+# "New York" = "Manhattan", "Kings" = "Brooklyn", "Richmond" = "Staten Island"
+bor_shp <- readOGR("ZIP_CODE_040114.shp")
+summary(bor_shp)
+
+# had error in margin size. rezing margins to correct error. Map is too small to view without adjusting
+par(mar=c(0,0,0,0))
+plot(bor_shp, col="red", bg="black", lwd=0.25, border=0)
+
+
+#Breaking down the boroughs for DogBite
+DogBite[DogBite$Borough == 'Brooklyn', ]
+Brooklyn <- DogBite[DogBite$Borough == 'Brooklyn',]
+summary(Brooklyn)
+
+mean(Brooklyn$NumberPark)
+mean(Brooklyn$NumberPark/Brooklyn$Species)
+
+par(mar=c(5,5,5,5))
+qqnorm(Brooklyn$NumberPark)
+qqline(Brooklyn$NumberPark)
+shapiro.test(Brooklyn$NumberPark)
+
+plot(qqnorm(Brooklyn$NumberPark))
+
+Brooklyn.density15 <- Brooklyn$NumberPark/Brooklyn$Species
+
+y <- log(Brooklyn.density15 + 0.04)
+BrooklynBMean <- Brooklyn$NumberPark
+
+if.lm <- lm(y ~ BrooklynBMean)
+summary(if.lm)
+shapiro.test(resid(if.lm))
+
+
+DogBite[DogBite$Borough == 'Bronx',]
+Bronx <- DogBite[DogBite$Borough == 'Bronx',]
+summary(Bronx)
+
+mean(Bronx$NumberPark)
+mean(Bronx$NumberPark/Bronx$Species)
+
+par(mar=c(5,5,5,5))
+qqnorm(Bronx$NumberPark)
+qqline(Bronx$NumberPark)
+shapiro.test(Bronx$NumberPark)
+
+Bronx.density15 <- Bronx$NumberPark/Bronx$Species
+
+y <- log(Bronx.density15 + 0.04)
+BronxBMean <- Bronx$NumberPark
+
+if.lm <- lm(y ~ BronxBMean)
+summary(if.lm)
+shapiro.test(resid(if.lm))
+
+DogBite[DogBite$Borough == 'Queens',]
+Queens <- DogBite[DogBite$Borough == 'Queens',]
+summary(Queens)
+
+par(mar=c(5,5,5,5))
+qqnorm(Queens$NumberPark)
+qqline(Queens$NumberPark)
+shapiro.test(Queens$NumberPark)
+
+Queens.density15 <- Queens$NumberPark/Queens$Species
+
+y <- log(Queens.density15 + 0.04)
+QueensBMean <- Queens$NumberPark
+
+if.lm <- lm(y ~ QueensBMean)
+summary(if.lm)
+shapiro.test(resid(if.lm))
+
+DogBite[DogBite$Borough == 'Manhattan',]
+Manhattan <- DogBite[DogBite$Borough == 'Manhattan',]
+summary(Manhattan)
+
+mean(Manhattan$NumberPark)
+
+par(mar=c(5,5,5,5))
+qqnorm(Manhattan$NumberPark)
+qqline(Manhattan$NumberPark)
+shapiro.test(Manhattan$NumberPark)
+
+Manhattan.density15 <- Manhattan$NumberPark/Manhattan$Species
+
+y <- log(Manhattan.density15 + 0.04)
+ManhattanBMean <- Manhattan$NumberPark
+
+if.lm <- lm(y ~ ManhattanBMean)
+summary(if.lm)
+shapiro.test(resid(if.lm))
+
+DogBite[DogBite$Borough == 'Staten Island',]
+Staten <- DogBite[DogBite$Borough == 'Staten Island',]
+summary(Staten)
+
+mean(Staten$NumberPark)
+
+par(mar=c(5,5,5,5))
+qqnorm(Staten$NumberPark)
+qqline(Staten$NumberPark)
+shapiro.test(Staten$NumberPark)
+
+Staten.density15 <- Staten$NumberPark/Staten$Species
+
+y <- log(Staten.density15 + 0.04)
+StatenBMean <- Staten$NumberPark
+
+if.lm <- lm(y ~ StatenBMean)
+summary(if.lm)
+shapiro.test(resid(if.lm))
+
+view(bor_shp)
+
